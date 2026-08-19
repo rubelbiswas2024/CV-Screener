@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f4f5f7;
+  color: #1a1a1a;
+}
+
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+}
+
+.query-box {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.query-box textarea {
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical;
+}
+
+.query-box button {
+  align-self: flex-end;
+  padding: 8px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  background: #2f6fed;
+  color: white;
+  cursor: pointer;
+}
+
+.query-box button:disabled {
+  background: #9db6f0;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #c0392b;
+}
+
+.response-box {
+  margin-top: 24px;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.response-box h2 {
+  margin-top: 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  color: #555;
+}
+
+.asked-question {
+  margin: 0 0 10px;
+  font-weight: 600;
+  color: #333;
+}
+
+.response-text {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical;
+  background: #fafafa;
+  color: #1a1a1a;
+}

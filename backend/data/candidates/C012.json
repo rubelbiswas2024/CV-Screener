@@ -1,0 +1,70 @@
+{
+  "candidate_id": "C012",
+  "name": "Beatriz Almeida Santos",
+  "headline": "UX/Product Designer Júnior",
+  "email": "c012.410@example.test",
+  "phone": "+00 000 980 851",
+  "location": "São Paulo, Brazil",
+  "summary": "UX/Product Designer júnior com 2 anos de experiência em pesquisa de usuário, wireframing e prototipação de interfaces digitais. Formada pela USP, com foco em criar soluções centradas no usuário para produtos web e mobile, colaborando de perto com times de produto e engenharia.",
+  "skills": [
+    "Figma",
+    "Prototyping",
+    "Wireframing",
+    "User Research",
+    "Design Systems",
+    "UI Design",
+    "Adobe XD",
+    "Usability Testing",
+    "Miro"
+  ],
+  "experience": [
+    {
+      "company_name": "Nuvix Tecnologia",
+      "role": "UX Designer Júnior",
+      "location": "São Paulo, Brazil",
+      "start_year": 2023,
+      "end_year": null,
+      "responsibilities": [
+        "Criação de wireframes e protótipos de alta fidelidade no Figma para aplicativo mobile",
+        "Condução de testes de usabilidade com usuários e síntese de insights para o time de produto",
+        "Colaboração com desenvolvedores para garantir a fidelidade do design implementado",
+        "Manutenção e evolução do design system da empresa"
+      ],
+      "technologies": [
+        "Figma",
+        "Adobe XD",
+        "Miro",
+        "Zeplin"
+      ]
+    },
+    {
+      "company_name": "Panorama Digital",
+      "role": "Estagiária de UX/UI Design",
+      "location": "São Paulo, Brazil",
+      "start_year": 2022,
+      "end_year": 2023,
+      "responsibilities": [
+        "Apoio na criação de wireframes de baixa fidelidade para novas funcionalidades",
+        "Realização de entrevistas exploratórias com usuários para levantamento de requisitos",
+        "Auxílio na organização de fluxos de usuário e jornadas de compra"
+      ],
+      "technologies": [
+        "Figma",
+        "Sketch",
+        "Trello"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de São Paulo (USP)",
+      "degree": "Bacharelado",
+      "field": "Design Digital",
+      "graduation_year": 2022
+    }
+  ],
+  "languages": [
+    "Portuguese - Native",
+    "English - B2"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "candidate_id": "C013",
+  "name": "Marcus Chen",
+  "headline": "Senior AI/ML Engineer",
+  "email": "c013.364@example.test",
+  "phone": "+00 000 413 718",
+  "location": "Austin, United States",
+  "summary": "Senior AI/ML Engineer with 8 years of experience building and deploying machine learning systems, specializing in deep learning architectures and LLM-powered applications. Proven track record of leading model development from research to production, with expertise in PyTorch-based training pipelines and LangChain-driven generative AI solutions.",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "LangChain",
+    "TensorFlow",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "MLflow",
+    "SQL",
+    "Hugging Face Transformers",
+    "Vector Databases"
+  ],
+  "experience": [
+    {
+      "company_name": "Nexlify AI",
+      "role": "Senior AI/ML Engineer",
+      "location": "Austin, United States",
+      "start_year": 2021,
+      "end_year": null,
+      "responsibilities": [
+        "Lead development of retrieval-augmented generation systems using LangChain and vector databases",
+        "Design and train custom transformer models for NLP tasks using PyTorch",
+        "Mentor junior engineers on ML best practices and model deployment strategies",
+        "Collaborate with product teams to translate business requirements into ML solutions",
+        "Optimize inference pipelines to reduce latency for production LLM applications"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "LangChain",
+        "Docker",
+        "AWS",
+        "Hugging Face"
+      ]
+    },
+    {
+      "company_name": "Cognivance Labs",
+      "role": "Machine Learning Engineer",
+      "location": "Austin, United States",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Built and maintained computer vision models for automated quality inspection systems",
+        "Developed data preprocessing pipelines for large-scale image datasets",
+        "Implemented model monitoring and retraining workflows using MLflow",
+        "Collaborated with data engineering team to improve feature store infrastructure"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "MLflow",
+        "SQL",
+        "Kubernetes"
+      ]
+    },
+    {
+      "company_name": "DataForge Solutions",
+      "role": "Data Scientist",
+      "location": "Austin, United States",
+      "start_year": 2016,
+      "end_year": 2018,
+      "responsibilities": [
+        "Developed predictive models for customer churn and demand forecasting",
+        "Performed exploratory data analysis and feature engineering on structured datasets",
+        "Built dashboards and reports to communicate model insights to stakeholders"
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "SQL",
+        "Pandas"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Austin",
+      "degree": "Master of Science",
+      "field": "Computer Science - Machine Learning Specialization",
+      "graduation_year": 2016
+    }
+  ],
+  "languages": [
+    "English - Native",
+    "Mandarin - C1"
+  ]
+}

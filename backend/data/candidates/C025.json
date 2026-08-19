@@ -1,0 +1,91 @@
+{
+  "candidate_id": "C025",
+  "name": "Nguyen Thi Mai Linh",
+  "headline": "Senior Project Manager | Agile & Scrum Delivery Leader",
+  "email": "c025.486@example.test",
+  "phone": "+00 000 923 914",
+  "location": "Ho Chi Minh City, Vietnam",
+  "summary": "Senior Project Manager with 9 years of experience leading cross-functional teams in software delivery and digital transformation projects across fintech and e-commerce sectors. Skilled in Agile and Scrum methodologies, stakeholder management, and driving projects from initiation through successful delivery. Proven track record of managing distributed teams and aligning business objectives with technical execution.",
+  "skills": [
+    "Agile",
+    "Scrum",
+    "Stakeholder Management",
+    "Risk Management",
+    "Jira",
+    "Confluence",
+    "Budget Planning",
+    "Team Leadership",
+    "Vendor Management",
+    "Kanban"
+  ],
+  "experience": [
+    {
+      "company_name": "Mekong Digital Solutions",
+      "role": "Senior Project Manager",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_year": 2021,
+      "end_year": null,
+      "responsibilities": [
+        "Lead end-to-end delivery of enterprise software projects for banking clients",
+        "Facilitate Agile ceremonies including sprint planning, retrospectives, and daily stand-ups",
+        "Manage stakeholder expectations across product, engineering, and client teams",
+        "Oversee project budgets and resource allocation for teams of up to 25 members",
+        "Coach junior project managers and scrum masters on Agile best practices"
+      ],
+      "technologies": [
+        "Jira",
+        "Confluence",
+        "MS Project",
+        "Slack"
+      ]
+    },
+    {
+      "company_name": "Saigon Tech Innovations",
+      "role": "Project Manager",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Managed Scrum teams delivering e-commerce platform features",
+        "Coordinated with product owners to prioritize backlog items",
+        "Tracked project milestones and reported progress to senior leadership",
+        "Facilitated cross-team dependencies between development and QA units"
+      ],
+      "technologies": [
+        "Jira",
+        "Trello",
+        "Confluence"
+      ]
+    },
+    {
+      "company_name": "Vietnam Software Partners",
+      "role": "Associate Project Manager",
+      "location": "Ho Chi Minh City, Vietnam",
+      "start_year": 2015,
+      "end_year": 2018,
+      "responsibilities": [
+        "Assisted senior project managers in planning and scheduling software projects",
+        "Prepared status reports and meeting minutes for stakeholders",
+        "Supported onboarding of new team members and process documentation",
+        "Monitored project risks and escalated issues as needed"
+      ],
+      "technologies": [
+        "MS Excel",
+        "Basecamp",
+        "SharePoint"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vietnam National University",
+      "degree": "Bachelor of Business Administration",
+      "field": "Project Management",
+      "graduation_year": 2015
+    }
+  ],
+  "languages": [
+    "Vietnamese - Native",
+    "English - C1"
+  ]
+}

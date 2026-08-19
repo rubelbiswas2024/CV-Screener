@@ -1,0 +1,97 @@
+{
+  "candidate_id": "C001",
+  "name": "Marc Vidal Serra",
+  "headline": "Senior Backend Engineer",
+  "email": "c001.552@example.test",
+  "phone": "+00 000 223 112",
+  "location": "Barcelona, Spain",
+  "summary": "Senior Backend Engineer with 7 years of experience designing and building scalable server-side systems and APIs. Strong background in Python, relational databases, and containerized deployments. Comfortable leading technical decisions, mentoring junior engineers, and collaborating cross-functionally to deliver reliable, maintainable software.",
+  "skills": [
+    "Python",
+    "PostgreSQL",
+    "Docker",
+    "FastAPI",
+    "Django",
+    "Redis",
+    "Kubernetes",
+    "RESTful API design",
+    "Git",
+    "AWS",
+    "Celery"
+  ],
+  "experience": [
+    {
+      "company_name": "Nordvia Tech",
+      "role": "Senior Backend Engineer",
+      "location": "Barcelona, Spain",
+      "start_year": 2021,
+      "end_year": null,
+      "responsibilities": [
+        "Lead development of core backend services handling high-throughput transaction processing",
+        "Design and optimize PostgreSQL schemas and queries for performance at scale",
+        "Own containerization strategy using Docker and orchestration with Kubernetes",
+        "Mentor mid-level and junior engineers through code reviews and pairing sessions",
+        "Collaborate with product and frontend teams to define API contracts"
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ]
+    },
+    {
+      "company_name": "Cataluna Software Solutions",
+      "role": "Backend Engineer",
+      "location": "Barcelona, Spain",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Developed and maintained RESTful APIs using Django and Django REST Framework",
+        "Migrated legacy monolithic services into modular microservices",
+        "Implemented caching layers with Redis to reduce database load",
+        "Wrote automated tests and participated in CI/CD pipeline improvements"
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Jenkins"
+      ]
+    },
+    {
+      "company_name": "Delta Informatica",
+      "role": "Junior Software Developer",
+      "location": "Barcelona, Spain",
+      "start_year": 2017,
+      "end_year": 2018,
+      "responsibilities": [
+        "Built internal tools and scripts to automate data processing tasks",
+        "Assisted senior engineers in maintaining backend services",
+        "Fixed bugs and implemented small features in existing Python applications"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Politècnica de Catalunya (UPC)",
+      "degree": "Bachelor's Degree",
+      "field": "Computer Science",
+      "graduation_year": 2017
+    }
+  ],
+  "languages": [
+    "Spanish - Native",
+    "Catalan - Native",
+    "English - C1"
+  ]
+}

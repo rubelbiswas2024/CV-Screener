@@ -1,0 +1,93 @@
+{
+  "candidate_id": "C011",
+  "name": "Giulia Ferrante",
+  "headline": "Product Designer | UX & Design Systems Specialist",
+  "email": "c011.293@example.test",
+  "phone": "+00 000 335 662",
+  "location": "Milan, Italy",
+  "summary": "Product designer with 5 years of experience crafting user-centered digital products across fintech and e-commerce sectors. Skilled in translating user research into scalable design systems and intuitive interfaces. Passionate about collaborative, data-informed design processes that balance business goals with user needs.",
+  "skills": [
+    "Figma",
+    "Design Systems",
+    "User Research",
+    "Prototyping",
+    "Interaction Design",
+    "Usability Testing",
+    "Wireframing",
+    "Design Thinking",
+    "Sketch",
+    "HTML/CSS basics"
+  ],
+  "experience": [
+    {
+      "company_name": "Nordis Digital",
+      "role": "Product Designer",
+      "location": "Milan, Italy",
+      "start_year": 2022,
+      "end_year": null,
+      "responsibilities": [
+        "Lead design system development and maintenance across web and mobile products",
+        "Conduct user research including interviews, surveys, and usability testing",
+        "Collaborate with product managers and engineers to define feature requirements",
+        "Create high-fidelity prototypes in Figma for stakeholder review",
+        "Mentor junior designers on design system best practices"
+      ],
+      "technologies": [
+        "Figma",
+        "Zeroheight",
+        "Maze",
+        "Notion",
+        "Jira"
+      ]
+    },
+    {
+      "company_name": "Vantaro Studio",
+      "role": "UX Designer",
+      "location": "Milan, Italy",
+      "start_year": 2020,
+      "end_year": 2022,
+      "responsibilities": [
+        "Designed wireframes and interactive prototypes for e-commerce clients",
+        "Facilitated user testing sessions and synthesized findings into actionable insights",
+        "Contributed to establishing initial component library and style guide",
+        "Partnered with developers to ensure design implementation accuracy"
+      ],
+      "technologies": [
+        "Sketch",
+        "Figma",
+        "InVision",
+        "Miro"
+      ]
+    },
+    {
+      "company_name": "Bricole Interactive",
+      "role": "Junior UX/UI Designer",
+      "location": "Milan, Italy",
+      "start_year": 2019,
+      "end_year": 2020,
+      "responsibilities": [
+        "Assisted senior designers with wireframing and visual design tasks",
+        "Supported user research efforts through note-taking and data organization",
+        "Created basic UI assets and icons for mobile applications"
+      ],
+      "technologies": [
+        "Adobe XD",
+        "Illustrator",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Politecnico di Milano",
+      "degree": "Master's Degree",
+      "field": "Design and Engineering",
+      "graduation_year": 2019
+    }
+  ],
+  "languages": [
+    "Italian - Native",
+    "English - C1",
+    "French - B1"
+  ]
+}

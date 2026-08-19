@@ -1,0 +1,75 @@
+{
+  "candidate_id": "C026",
+  "name": "Marc Ferrer Puig",
+  "headline": "Junior Backend Engineer",
+  "email": "c026.744@example.test",
+  "phone": "+00 000 638 280",
+  "location": "Barcelona, Spain",
+  "summary": "Junior Backend Engineer with 2 years of experience building and maintaining web services using Python and Flask. Comfortable working with relational databases and RESTful API design, with a strong interest in writing clean, testable code and collaborating within agile teams.",
+  "skills": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "SQLAlchemy",
+    "Linux",
+    "Unit Testing"
+  ],
+  "experience": [
+    {
+      "company_name": "NextaTech Solutions",
+      "role": "Backend Developer",
+      "location": "Barcelona, Spain",
+      "start_year": 2023,
+      "end_year": null,
+      "responsibilities": [
+        "Develop and maintain RESTful APIs using Flask for internal business applications",
+        "Design and optimize PostgreSQL database schemas and queries",
+        "Collaborate with frontend developers to integrate backend services",
+        "Write unit tests to ensure code reliability and reduce regressions",
+        "Participate in code reviews and daily stand-up meetings"
+      ],
+      "technologies": [
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "company_name": "Codimera Labs",
+      "role": "Backend Engineering Intern",
+      "location": "Barcelona, Spain",
+      "start_year": 2022,
+      "end_year": 2023,
+      "responsibilities": [
+        "Assisted in building small backend features using Python and Flask",
+        "Wrote SQL queries and helped maintain a PostgreSQL database",
+        "Fixed bugs reported in the internal ticketing system",
+        "Supported senior engineers in testing and deploying minor updates"
+      ],
+      "technologies": [
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat de Barcelona (UB)",
+      "degree": "Bachelor's Degree",
+      "field": "Computer Science",
+      "graduation_year": 2022
+    }
+  ],
+  "languages": [
+    "Spanish - Native",
+    "Catalan - Native",
+    "English - B2"
+  ]
+}

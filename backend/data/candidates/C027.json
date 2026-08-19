@@ -1,0 +1,98 @@
+{
+  "candidate_id": "C027",
+  "name": "Sebastian Hoffmann",
+  "headline": "Lead AI/ML Engineer",
+  "email": "c027.160@example.test",
+  "phone": "+00 000 194 664",
+  "location": "Munich, Germany",
+  "summary": "Lead AI/ML Engineer with 10 years of experience designing and deploying machine learning systems at scale. Specialized in building agentic AI workflows, robust MLOps pipelines, and cloud-native ML infrastructure on GCP. Proven track record leading cross-functional engineering teams and mentoring junior engineers while delivering production-grade AI solutions.",
+  "skills": [
+    "Python",
+    "LangGraph",
+    "MLOps",
+    "GCP",
+    "TensorFlow",
+    "Kubernetes",
+    "Docker",
+    "LLM Orchestration",
+    "CI/CD",
+    "Terraform",
+    "SQL"
+  ],
+  "experience": [
+    {
+      "company_name": "Nordlicht Analytics GmbH",
+      "role": "Lead AI/ML Engineer",
+      "location": "Munich, Germany",
+      "start_year": 2021,
+      "end_year": null,
+      "responsibilities": [
+        "Lead a team of 6 ML engineers building agentic AI applications for enterprise clients",
+        "Architect and maintain LangGraph-based multi-agent orchestration systems",
+        "Design MLOps pipelines for model training, versioning, and deployment on GCP",
+        "Establish best practices for CI/CD and monitoring of production ML services",
+        "Collaborate with product and stakeholders to define AI strategy and roadmaps"
+      ],
+      "technologies": [
+        "Python",
+        "LangGraph",
+        "GCP",
+        "Vertex AI",
+        "Kubernetes",
+        "Docker",
+        "Terraform"
+      ]
+    },
+    {
+      "company_name": "Bavarian Data Systems AG",
+      "role": "Senior Machine Learning Engineer",
+      "location": "Munich, Germany",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Developed NLP and recommendation models for e-commerce clients",
+        "Built automated retraining and deployment pipelines using MLOps tooling",
+        "Migrated legacy ML infrastructure to GCP, reducing operational costs",
+        "Mentored junior engineers on model development and code quality"
+      ],
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "GCP",
+        "Airflow",
+        "Docker"
+      ]
+    },
+    {
+      "company_name": "Isar Cognitive Labs",
+      "role": "Machine Learning Engineer",
+      "location": "Munich, Germany",
+      "start_year": 2015,
+      "end_year": 2018,
+      "responsibilities": [
+        "Implemented supervised learning models for fraud detection systems",
+        "Built data preprocessing and feature engineering pipelines",
+        "Collaborated with data scientists to productionize research prototypes",
+        "Maintained and optimized model serving infrastructure"
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "SQL",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ludwig Maximilian University of Munich",
+      "degree": "Master of Science",
+      "field": "Computer Science, Machine Learning",
+      "graduation_year": 2015
+    }
+  ],
+  "languages": [
+    "German - Native",
+    "English - C1"
+  ]
+}

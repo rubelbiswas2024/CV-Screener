@@ -1,0 +1,92 @@
+{
+  "candidate_id": "C019",
+  "name": "Emily Harrison",
+  "headline": "Growth Marketing Manager",
+  "email": "c019.428@example.test",
+  "phone": "+00 000 435 494",
+  "location": "London, United Kingdom",
+  "summary": "Data-driven Growth Marketer with around 5 years of experience developing and executing multi-channel acquisition strategies. Skilled in SEO, analytics-driven decision making, and conversion rate optimisation through structured A/B testing. Proven ability to collaborate cross-functionally with product and content teams to drive measurable growth.",
+  "skills": [
+    "SEO",
+    "Google Analytics",
+    "A/B Testing",
+    "Conversion Rate Optimisation",
+    "Google Tag Manager",
+    "Content Strategy",
+    "PPC Campaign Management",
+    "HubSpot",
+    "Data Visualisation (Tableau)",
+    "Email Marketing Automation"
+  ],
+  "experience": [
+    {
+      "company_name": "Northgate Digital",
+      "role": "Growth Marketing Manager",
+      "location": "London, United Kingdom",
+      "start_year": 2022,
+      "end_year": null,
+      "responsibilities": [
+        "Lead growth strategy across paid, organic, and lifecycle marketing channels",
+        "Design and analyse A/B tests to optimise landing page conversion rates",
+        "Manage SEO roadmap in collaboration with content and engineering teams",
+        "Monitor performance using Google Analytics and present insights to leadership",
+        "Oversee budget allocation across acquisition channels"
+      ],
+      "technologies": [
+        "Google Analytics",
+        "SEMrush",
+        "Google Tag Manager",
+        "Optimizely",
+        "HubSpot"
+      ]
+    },
+    {
+      "company_name": "Bright Path Media",
+      "role": "Growth Marketing Specialist",
+      "location": "London, United Kingdom",
+      "start_year": 2020,
+      "end_year": 2022,
+      "responsibilities": [
+        "Executed on-page and technical SEO improvements to increase organic traffic",
+        "Ran A/B tests on email campaigns to improve open and click-through rates",
+        "Built and maintained dashboards in Google Analytics for weekly reporting",
+        "Coordinated with designers to develop landing pages for paid campaigns"
+      ],
+      "technologies": [
+        "Google Analytics",
+        "Ahrefs",
+        "Mailchimp",
+        "Google Ads"
+      ]
+    },
+    {
+      "company_name": "Clearview Marketing Co.",
+      "role": "Marketing Executive",
+      "location": "Manchester, United Kingdom",
+      "start_year": 2019,
+      "end_year": 2020,
+      "responsibilities": [
+        "Assisted in keyword research and on-site SEO audits",
+        "Supported social media campaign planning and reporting",
+        "Compiled monthly performance reports using Google Analytics"
+      ],
+      "technologies": [
+        "Google Analytics",
+        "Hootsuite",
+        "WordPress"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Manchester",
+      "degree": "BA (Hons)",
+      "field": "Marketing",
+      "graduation_year": 2019
+    }
+  ],
+  "languages": [
+    "English - Native",
+    "French - B1"
+  ]
+}

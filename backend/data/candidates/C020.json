@@ -1,0 +1,73 @@
+{
+  "candidate_id": "C020",
+  "name": "Emily Chen",
+  "headline": "Junior Content Marketing Specialist",
+  "email": "c020.936@example.test",
+  "phone": "+00 000 916 165",
+  "location": "Toronto, Canada",
+  "summary": "Detail-oriented Content Marketing Specialist with 2 years of experience developing SEO-driven content strategies and engaging copy for digital platforms. Skilled in keyword research, content planning, and analytics-driven optimization to grow organic traffic and audience engagement.",
+  "skills": [
+    "Content Strategy",
+    "SEO",
+    "Copywriting",
+    "Google Analytics",
+    "WordPress",
+    "Social Media Marketing",
+    "Keyword Research",
+    "Content Calendar Management",
+    "Basic HTML"
+  ],
+  "experience": [
+    {
+      "company_name": "Northbridge Digital Co.",
+      "role": "Content Marketing Coordinator",
+      "location": "Toronto, Canada",
+      "start_year": 2023,
+      "end_year": null,
+      "responsibilities": [
+        "Develop and execute content strategies to improve organic search rankings",
+        "Conduct keyword research and on-page SEO optimization for blog posts and landing pages",
+        "Collaborate with design team to produce engaging visual and written content",
+        "Monitor content performance using Google Analytics and adjust strategy accordingly",
+        "Assist in managing editorial calendar and publishing schedules"
+      ],
+      "technologies": [
+        "WordPress",
+        "Google Analytics",
+        "SEMrush",
+        "Yoast SEO"
+      ]
+    },
+    {
+      "company_name": "Maple Leaf Media Group",
+      "role": "Marketing Intern",
+      "location": "Toronto, Canada",
+      "start_year": 2022,
+      "end_year": 2023,
+      "responsibilities": [
+        "Supported content creation for blog and social media channels",
+        "Assisted with basic SEO audits and keyword research",
+        "Helped compile monthly performance reports for marketing campaigns",
+        "Drafted email newsletters and promotional content"
+      ],
+      "technologies": [
+        "Canva",
+        "Mailchimp",
+        "Google Search Console",
+        "Hootsuite"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "degree": "Bachelor of Arts",
+      "field": "Communications and Media Studies",
+      "graduation_year": 2022
+    }
+  ],
+  "languages": [
+    "English - Native",
+    "French - B1"
+  ]
+}

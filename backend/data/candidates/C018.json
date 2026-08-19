@@ -1,0 +1,100 @@
+{
+  "candidate_id": "C018",
+  "name": "Martín Fernández Roldán",
+  "headline": "Senior Data Engineer",
+  "email": "c018.497@example.test",
+  "phone": "+00 000 727 851",
+  "location": "Buenos Aires, Argentina",
+  "summary": "Senior Data Engineer with 8 years of experience designing and maintaining scalable data pipelines and warehousing solutions across fintech and e-commerce sectors. Skilled in building ETL/ELT workflows, optimizing SQL performance, and orchestrating batch and streaming pipelines with Airflow. Experienced mentoring junior engineers and collaborating with data science and analytics teams to deliver reliable, production-grade data infrastructure.",
+  "skills": [
+    "Python",
+    "SQL",
+    "Airflow",
+    "Apache Spark",
+    "AWS Redshift",
+    "Docker",
+    "dbt",
+    "Kafka",
+    "PostgreSQL",
+    "Terraform",
+    "Git",
+    "Data Modeling"
+  ],
+  "experience": [
+    {
+      "company_name": "Pampa Analytics",
+      "role": "Senior Data Engineer",
+      "location": "Buenos Aires, Argentina",
+      "start_year": 2021,
+      "end_year": null,
+      "responsibilities": [
+        "Design and maintain Airflow DAGs orchestrating ingestion of financial transaction data from multiple sources",
+        "Lead migration of legacy batch jobs to a modern ELT architecture using dbt and Redshift",
+        "Optimize SQL queries and warehouse schemas to reduce reporting latency",
+        "Mentor two junior data engineers and review pull requests for pipeline code",
+        "Collaborate with data science team to provision curated datasets for ML models"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "dbt",
+        "AWS Redshift",
+        "Kafka"
+      ]
+    },
+    {
+      "company_name": "Riogrande Comercio Digital",
+      "role": "Data Engineer",
+      "location": "Buenos Aires, Argentina",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Built and maintained ETL pipelines processing e-commerce transactional and clickstream data",
+        "Developed Airflow DAGs to automate daily ingestion and transformation jobs",
+        "Wrote optimized SQL queries and stored procedures for reporting dashboards",
+        "Implemented data quality checks and monitoring alerts for pipeline failures",
+        "Containerized data processing jobs using Docker for consistent deployment"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "Docker",
+        "PostgreSQL",
+        "Apache Spark"
+      ]
+    },
+    {
+      "company_name": "Delta Software Solutions",
+      "role": "Junior Data Engineer / Backend Developer",
+      "location": "Buenos Aires, Argentina",
+      "start_year": 2016,
+      "end_year": 2018,
+      "responsibilities": [
+        "Developed backend services in Python supporting internal reporting tools",
+        "Assisted in building initial data pipelines for extracting data from relational databases",
+        "Wrote SQL scripts for data extraction and transformation tasks",
+        "Supported production issues related to scheduled batch jobs"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Buenos Aires",
+      "degree": "Licenciatura en Ciencias de la Computación",
+      "field": "Computer Science",
+      "graduation_year": 2016
+    }
+  ],
+  "languages": [
+    "Spanish - Native",
+    "English - C1"
+  ]
+}

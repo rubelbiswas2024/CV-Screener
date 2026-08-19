@@ -1,0 +1,100 @@
+{
+  "candidate_id": "C015",
+  "name": "Chidinma Okonkwo",
+  "headline": "Backend Engineer | Node.js & PostgreSQL Specialist",
+  "email": "c015.675@example.test",
+  "phone": "+00 000 694 857",
+  "location": "Lagos, Nigeria",
+  "summary": "Backend Engineer with 5 years of experience designing and maintaining scalable server-side applications using Node.js, Express, and PostgreSQL. Skilled in building RESTful APIs, optimizing database performance, and collaborating with cross-functional teams to deliver reliable software solutions in fast-paced environments.",
+  "skills": [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "JavaScript",
+    "TypeScript",
+    "REST APIs",
+    "Docker",
+    "Redis",
+    "Git",
+    "AWS",
+    "Jest"
+  ],
+  "experience": [
+    {
+      "company_name": "Zenith Digital Solutions",
+      "role": "Backend Engineer",
+      "location": "Lagos, Nigeria",
+      "start_year": 2022,
+      "end_year": null,
+      "responsibilities": [
+        "Design and maintain RESTful APIs using Node.js and Express for a fintech platform",
+        "Optimize PostgreSQL queries and database schemas to improve response times",
+        "Collaborate with frontend engineers to integrate backend services",
+        "Implement caching strategies using Redis to reduce database load",
+        "Conduct code reviews and mentor junior developers on backend best practices"
+      ],
+      "technologies": [
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS"
+      ]
+    },
+    {
+      "company_name": "BrightWave Technologies",
+      "role": "Backend Developer",
+      "location": "Lagos, Nigeria",
+      "start_year": 2020,
+      "end_year": 2022,
+      "responsibilities": [
+        "Developed backend services for an e-commerce platform using Node.js and Express",
+        "Designed and maintained PostgreSQL database schemas for product and order management",
+        "Implemented authentication and authorization using JWT",
+        "Wrote unit and integration tests to ensure code reliability",
+        "Participated in agile ceremonies and sprint planning"
+      ],
+      "technologies": [
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "JWT",
+        "Jest",
+        "Git"
+      ]
+    },
+    {
+      "company_name": "Codeline Systems",
+      "role": "Junior Backend Developer",
+      "location": "Lagos, Nigeria",
+      "start_year": 2019,
+      "end_year": 2020,
+      "responsibilities": [
+        "Assisted in building and maintaining internal tools using Node.js",
+        "Wrote SQL queries and basic database migrations",
+        "Fixed bugs and implemented minor features under senior developer guidance",
+        "Documented API endpoints for internal use"
+      ],
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Lagos",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "graduation_year": 2019
+    }
+  ],
+  "languages": [
+    "English - C2",
+    "Yoruba - Native",
+    "French - B1"
+  ]
+}

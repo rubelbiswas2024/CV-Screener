@@ -1,0 +1,92 @@
+{
+  "candidate_id": "C007",
+  "name": "Marta Wisniewska",
+  "headline": "Data Engineer",
+  "email": "c007.151@example.test",
+  "phone": "+00 000 423 334",
+  "location": "Warsaw, Poland",
+  "summary": "Data Engineer with 5 years of experience building and maintaining scalable data pipelines on GCP. Skilled in Python, SQL, and Airflow orchestration, with a strong focus on data quality and reliable ETL processes for analytics teams.",
+  "skills": [
+    "Python",
+    "Airflow",
+    "SQL",
+    "GCP",
+    "BigQuery",
+    "Docker",
+    "Terraform",
+    "dbt",
+    "Kafka",
+    "Git"
+  ],
+  "experience": [
+    {
+      "company_name": "Nexbyte Solutions",
+      "role": "Data Engineer",
+      "location": "Warsaw, Poland",
+      "start_year": 2022,
+      "end_year": null,
+      "responsibilities": [
+        "Design and maintain ETL pipelines using Airflow and Python for ingesting data from multiple sources",
+        "Optimize BigQuery datasets and SQL queries to improve reporting performance",
+        "Collaborate with analytics team to define data models and ensure data quality",
+        "Migrate legacy on-premise batch jobs to GCP-based cloud infrastructure"
+      ],
+      "technologies": [
+        "Python",
+        "Airflow",
+        "GCP",
+        "BigQuery",
+        "SQL",
+        "Docker"
+      ]
+    },
+    {
+      "company_name": "Cloudmill Analytics",
+      "role": "Junior Data Engineer",
+      "location": "Warsaw, Poland",
+      "start_year": 2020,
+      "end_year": 2022,
+      "responsibilities": [
+        "Built and scheduled data ingestion scripts in Python for internal reporting systems",
+        "Assisted senior engineers in developing Airflow DAGs for daily data processing",
+        "Wrote SQL queries to support ad-hoc business analysis requests",
+        "Monitored pipeline failures and performed basic troubleshooting"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company_name": "Vistula Data Labs",
+      "role": "Data Analyst Intern",
+      "location": "Warsaw, Poland",
+      "start_year": 2019,
+      "end_year": 2020,
+      "responsibilities": [
+        "Supported data cleaning and preparation tasks using Python and Excel",
+        "Created basic dashboards for internal stakeholders",
+        "Assisted in documenting data sources and transformation logic"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Warsaw University of Technology",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "graduation_year": 2019
+    }
+  ],
+  "languages": [
+    "Polish - Native",
+    "English - C1"
+  ]
+}

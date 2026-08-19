@@ -1,0 +1,93 @@
+{
+  "candidate_id": "C003",
+  "name": "Marta Sánchez Ibáñez",
+  "headline": "Senior Data Scientist",
+  "email": "c003.411@example.test",
+  "phone": "+00 000 408 942",
+  "location": "Madrid, Spain",
+  "summary": "Senior Data Scientist with 8 years of experience building machine learning solutions for e-commerce and fintech sectors. Skilled in end-to-end model development, from data pipeline design to production deployment, with a strong focus on delivering measurable business impact.",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Scikit-learn",
+    "TensorFlow",
+    "Data Visualization",
+    "Docker",
+    "AWS",
+    "Statistical Modeling",
+    "Git"
+  ],
+  "experience": [
+    {
+      "company_name": "Nortiva Analytics",
+      "role": "Senior Data Scientist",
+      "location": "Madrid, Spain",
+      "start_year": 2021,
+      "end_year": null,
+      "responsibilities": [
+        "Lead development of predictive models for customer churn and demand forecasting",
+        "Mentor junior data scientists and review model design and code quality",
+        "Collaborate with engineering teams to deploy ML models into production using Docker and AWS",
+        "Present findings and recommendations to senior stakeholders"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "TensorFlow",
+        "Docker",
+        "AWS",
+        "Airflow"
+      ]
+    },
+    {
+      "company_name": "Bluepeak Solutions",
+      "role": "Data Scientist",
+      "location": "Madrid, Spain",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Developed classification and regression models for credit risk assessment",
+        "Built ETL pipelines to consolidate data from multiple internal sources",
+        "Performed exploratory data analysis and feature engineering to improve model accuracy",
+        "Automated reporting dashboards using Python and SQL"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Scikit-learn",
+        "Pandas",
+        "Tableau"
+      ]
+    },
+    {
+      "company_name": "Vertice Data Labs",
+      "role": "Junior Data Analyst",
+      "location": "Madrid, Spain",
+      "start_year": 2016,
+      "end_year": 2018,
+      "responsibilities": [
+        "Assisted in cleaning and preparing datasets for analysis",
+        "Created basic statistical reports for internal business teams",
+        "Supported senior analysts in building visualizations and dashboards"
+      ],
+      "technologies": [
+        "SQL",
+        "Excel",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "degree": "Master's Degree",
+      "field": "Data Science and Artificial Intelligence",
+      "graduation_year": 2016
+    }
+  ],
+  "languages": [
+    "Spanish - Native",
+    "English - C1"
+  ]
+}

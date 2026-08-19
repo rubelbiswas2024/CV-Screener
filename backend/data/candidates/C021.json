@@ -1,0 +1,92 @@
+{
+  "candidate_id": "C021",
+  "name": "Michael Reynolds",
+  "headline": "Senior Business Development Manager - B2B SaaS Sales",
+  "email": "c021.566@example.test",
+  "phone": "+00 000 321 916",
+  "location": "New York, United States",
+  "summary": "Results-driven Senior Business Development professional with 9 years of experience driving revenue growth in B2B SaaS environments. Proven track record of building strategic client relationships, negotiating complex enterprise deals, and leading cross-functional sales initiatives. Skilled in leveraging CRM platforms to optimize pipeline management and close rates.",
+  "skills": [
+    "B2B SaaS Sales",
+    "Salesforce",
+    "Negotiation",
+    "Enterprise Account Management",
+    "Pipeline Development",
+    "Consultative Selling",
+    "HubSpot",
+    "Contract Negotiation",
+    "Team Leadership",
+    "Market Analysis"
+  ],
+  "experience": [
+    {
+      "company_name": "Northbridge Cloud Solutions",
+      "role": "Senior Business Development Manager",
+      "location": "New York, United States",
+      "start_year": 2020,
+      "end_year": null,
+      "responsibilities": [
+        "Lead enterprise sales cycles from prospecting to close for mid-market and enterprise SaaS clients",
+        "Negotiate multi-year contracts with C-level stakeholders, achieving consistent quota attainment",
+        "Mentor and train junior sales representatives on consultative selling techniques",
+        "Manage and forecast sales pipeline using Salesforce, ensuring accurate reporting to leadership",
+        "Collaborate with marketing and product teams to align go-to-market strategies"
+      ],
+      "technologies": [
+        "Salesforce",
+        "HubSpot",
+        "Outreach",
+        "LinkedIn Sales Navigator",
+        "Zoom"
+      ]
+    },
+    {
+      "company_name": "Vantage Analytics Inc.",
+      "role": "Business Development Manager",
+      "location": "New York, United States",
+      "start_year": 2017,
+      "end_year": 2020,
+      "responsibilities": [
+        "Managed a portfolio of mid-market accounts, growing revenue through upselling and renewals",
+        "Built and maintained strong relationships with key decision-makers across target industries",
+        "Conducted product demonstrations and negotiated pricing agreements with prospective clients",
+        "Utilized Salesforce to track deal progress and maintain accurate forecasting"
+      ],
+      "technologies": [
+        "Salesforce",
+        "DocuSign",
+        "Slack",
+        "Gong"
+      ]
+    },
+    {
+      "company_name": "Crestline Software Group",
+      "role": "Business Development Representative",
+      "location": "New York, United States",
+      "start_year": 2015,
+      "end_year": 2017,
+      "responsibilities": [
+        "Prospected and qualified inbound and outbound leads for the enterprise sales team",
+        "Scheduled discovery calls and product demos with prospective B2B clients",
+        "Maintained CRM data accuracy and supported senior account executives during negotiations"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Outreach",
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University",
+      "degree": "Bachelor of Science",
+      "field": "Business Administration",
+      "graduation_year": 2015
+    }
+  ],
+  "languages": [
+    "English - Native",
+    "Spanish - B1"
+  ]
+}

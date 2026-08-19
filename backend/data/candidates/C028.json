@@ -1,0 +1,55 @@
+{
+  "candidate_id": "C028",
+  "name": "Mariana Torres Rincón",
+  "headline": "Junior Data Scientist",
+  "email": "c028.653@example.test",
+  "phone": "+00 000 641 724",
+  "location": "Bogotá, Colombia",
+  "summary": "Junior Data Scientist with 1 year of experience applying statistical analysis and machine learning techniques to solve business problems. Skilled in Python and SQL for data extraction, cleaning, and modeling. Recent graduate from Universidad de los Andes with strong analytical foundation and eagerness to grow in data-driven environments.",
+  "skills": [
+    "Python",
+    "SQL",
+    "Statistics",
+    "Pandas",
+    "Scikit-learn",
+    "Data Visualization",
+    "Excel",
+    "Power BI",
+    "Machine Learning Basics"
+  ],
+  "experience": [
+    {
+      "company_name": "Datalyze Solutions",
+      "role": "Junior Data Scientist",
+      "location": "Bogotá, Colombia",
+      "start_year": 2023,
+      "end_year": null,
+      "responsibilities": [
+        "Cleaned and preprocessed datasets using Python and Pandas for analytics projects",
+        "Wrote SQL queries to extract and aggregate data from relational databases",
+        "Performed exploratory data analysis and basic statistical testing to support business decisions",
+        "Built simple predictive models using Scikit-learn under senior supervision",
+        "Created dashboards in Power BI to visualize key performance metrics"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Scikit-learn",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de los Andes",
+      "degree": "Bachelor's Degree",
+      "field": "Statistics",
+      "graduation_year": 2023
+    }
+  ],
+  "languages": [
+    "Spanish - Native",
+    "English - B2"
+  ]
+}

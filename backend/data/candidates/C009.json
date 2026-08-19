@@ -1,0 +1,95 @@
+{
+  "candidate_id": "C009",
+  "name": "Camille Moreau",
+  "headline": "Senior Product Manager | Product Strategy & Growth",
+  "email": "c009.674@example.test",
+  "phone": "+00 000 235 248",
+  "location": "Paris, France",
+  "summary": "Senior Product Manager with 9 years of experience driving product strategy, growth, and data-informed decision-making across B2B SaaS and marketplace platforms. Skilled at leading cross-functional teams, running rigorous A/B tests, and translating complex data into actionable roadmaps. Proven track record of launching features that improve retention and revenue.",
+  "skills": [
+    "Product Strategy",
+    "SQL",
+    "A/B Testing",
+    "Roadmapping",
+    "User Research",
+    "Agile/Scrum",
+    "Data Analysis",
+    "Stakeholder Management",
+    "Pricing Strategy",
+    "Figma"
+  ],
+  "experience": [
+    {
+      "company_name": "Norvalis Digital",
+      "role": "Senior Product Manager",
+      "location": "Paris, France",
+      "start_year": 2020,
+      "end_year": null,
+      "responsibilities": [
+        "Define and own product strategy for core marketplace platform serving 500k+ monthly users",
+        "Lead A/B testing program across onboarding and checkout flows to improve conversion rates",
+        "Collaborate with engineering, design, and data science teams to prioritize quarterly roadmap",
+        "Analyze user behavior data using SQL to identify growth opportunities",
+        "Present quarterly business reviews to executive leadership"
+      ],
+      "technologies": [
+        "SQL",
+        "Amplitude",
+        "Jira",
+        "Figma",
+        "Optimizely"
+      ]
+    },
+    {
+      "company_name": "Lumira Tech",
+      "role": "Product Manager",
+      "location": "Paris, France",
+      "start_year": 2017,
+      "end_year": 2020,
+      "responsibilities": [
+        "Managed product lifecycle for B2B SaaS analytics dashboard",
+        "Conducted user interviews and translated findings into feature specifications",
+        "Ran A/B tests on pricing page to optimize sign-up conversion",
+        "Partnered with sales and customer success to gather product feedback",
+        "Maintained product backlog and coordinated sprint planning with engineering"
+      ],
+      "technologies": [
+        "SQL",
+        "Mixpanel",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "company_name": "Belvora Solutions",
+      "role": "Associate Product Manager",
+      "location": "Paris, France",
+      "start_year": 2015,
+      "end_year": 2017,
+      "responsibilities": [
+        "Supported senior PMs in defining requirements for mobile application features",
+        "Performed competitive analysis and market research to inform product decisions",
+        "Assisted in writing user stories and acceptance criteria for development team",
+        "Tracked key product metrics and prepared weekly performance reports"
+      ],
+      "technologies": [
+        "SQL",
+        "Google Analytics",
+        "Trello"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "HEC Paris",
+      "degree": "Master in Management",
+      "field": "Marketing and Strategy",
+      "graduation_year": 2015
+    }
+  ],
+  "languages": [
+    "French - Native",
+    "English - C1",
+    "Spanish - B1"
+  ]
+}

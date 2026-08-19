@@ -1,0 +1,92 @@
+{
+  "candidate_id": "C010",
+  "name": "Aoife Kavanagh",
+  "headline": "Product Manager | Roadmapping & User-Centered Product Strategy",
+  "email": "c010.391@example.test",
+  "phone": "+00 000 704 635",
+  "location": "Dublin, Ireland",
+  "summary": "Product Manager with 4 years of experience delivering user-focused digital products in fast-paced tech environments. Skilled in roadmapping, user research, and cross-functional collaboration to translate customer needs into actionable product features. Proven ability to manage backlogs, prioritize initiatives, and work closely with engineering and design teams to ship impactful solutions.",
+  "skills": [
+    "Roadmapping",
+    "User Research",
+    "Jira",
+    "Agile Methodologies",
+    "Stakeholder Management",
+    "A/B Testing",
+    "Product Analytics",
+    "Wireframing",
+    "Confluence",
+    "SQL Basics"
+  ],
+  "experience": [
+    {
+      "company_name": "Clarion Digital Solutions",
+      "role": "Product Manager",
+      "location": "Dublin, Ireland",
+      "start_year": 2022,
+      "end_year": null,
+      "responsibilities": [
+        "Own and maintain product roadmap for a B2B SaaS platform serving 5,000+ users",
+        "Conduct user research interviews and usability testing to identify pain points",
+        "Collaborate with engineering and design teams to prioritize and refine backlog in Jira",
+        "Define and track KPIs to measure feature adoption and product performance",
+        "Present quarterly roadmap updates to stakeholders and leadership"
+      ],
+      "technologies": [
+        "Jira",
+        "Confluence",
+        "Figma",
+        "Mixpanel",
+        "Amplitude"
+      ]
+    },
+    {
+      "company_name": "Northbridge Tech",
+      "role": "Associate Product Manager",
+      "location": "Dublin, Ireland",
+      "start_year": 2021,
+      "end_year": 2022,
+      "responsibilities": [
+        "Supported senior PMs in gathering requirements and writing user stories",
+        "Assisted in running user research sessions and synthesizing findings into actionable insights",
+        "Maintained sprint boards and backlog grooming sessions using Jira",
+        "Coordinated with QA to ensure features met acceptance criteria before release"
+      ],
+      "technologies": [
+        "Jira",
+        "Trello",
+        "Google Analytics"
+      ]
+    },
+    {
+      "company_name": "Lark & Co Innovations",
+      "role": "Product Analyst",
+      "location": "Dublin, Ireland",
+      "start_year": 2020,
+      "end_year": 2021,
+      "responsibilities": [
+        "Analyzed user behavior data to inform product decisions",
+        "Created reports and dashboards to track key product metrics",
+        "Supported roadmap planning sessions with data-driven recommendations",
+        "Assisted product team with competitive analysis and market research"
+      ],
+      "technologies": [
+        "Excel",
+        "SQL",
+        "Tableau"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Trinity College Dublin",
+      "degree": "Bachelor of Science",
+      "field": "Business and Computing",
+      "graduation_year": 2020
+    }
+  ],
+  "languages": [
+    "English - Native",
+    "Irish - B1"
+  ]
+}

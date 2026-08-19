@@ -1,0 +1,89 @@
+{
+  "candidate_id": "C022",
+  "name": "Mariel Santos Cruz",
+  "headline": "Customer Success Specialist",
+  "email": "c022.465@example.test",
+  "phone": "+00 000 705 508",
+  "location": "Manila, Philippines",
+  "summary": "Customer Success professional with 4 years of experience managing client onboarding, retention, and support operations for SaaS companies. Skilled in using CRM and helpdesk tools to streamline customer journeys and improve satisfaction scores. Passionate about building long-term client relationships and driving product adoption.",
+  "skills": [
+    "Onboarding",
+    "CRM",
+    "Zendesk",
+    "Customer Retention",
+    "Salesforce",
+    "Account Management",
+    "Data Analysis",
+    "Client Communication",
+    "Process Improvement",
+    "HubSpot"
+  ],
+  "experience": [
+    {
+      "company_name": "BrightPath Solutions",
+      "role": "Customer Success Specialist",
+      "location": "Manila, Philippines",
+      "start_year": 2022,
+      "end_year": null,
+      "responsibilities": [
+        "Manage onboarding process for new enterprise clients, ensuring smooth product adoption",
+        "Serve as primary point of contact for a portfolio of 40+ accounts",
+        "Monitor customer health scores using CRM and proactively address churn risks",
+        "Collaborate with product and support teams to resolve escalated tickets via Zendesk",
+        "Conduct quarterly business reviews to identify upsell opportunities"
+      ],
+      "technologies": [
+        "Zendesk",
+        "Salesforce",
+        "Slack",
+        "Google Workspace"
+      ]
+    },
+    {
+      "company_name": "NimbusTech Philippines",
+      "role": "Customer Support & Onboarding Associate",
+      "location": "Manila, Philippines",
+      "start_year": 2021,
+      "end_year": 2022,
+      "responsibilities": [
+        "Guided new customers through initial product setup and training sessions",
+        "Responded to customer inquiries and resolved technical issues using Zendesk",
+        "Maintained accurate customer records and interaction history in CRM system",
+        "Assisted in creating onboarding documentation and FAQ resources"
+      ],
+      "technologies": [
+        "Zendesk",
+        "HubSpot",
+        "Trello"
+      ]
+    },
+    {
+      "company_name": "Vertex Outsourcing Group",
+      "role": "Customer Service Representative",
+      "location": "Manila, Philippines",
+      "start_year": 2020,
+      "end_year": 2021,
+      "responsibilities": [
+        "Handled inbound customer queries for a US-based telecom client",
+        "Logged and tracked customer issues in internal CRM software",
+        "Achieved consistent monthly customer satisfaction targets"
+      ],
+      "technologies": [
+        "Zoho CRM",
+        "Avaya"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of the Philippines",
+      "degree": "Bachelor of Science",
+      "field": "Business Administration",
+      "graduation_year": 2020
+    }
+  ],
+  "languages": [
+    "English - C1",
+    "Filipino - Native"
+  ]
+}

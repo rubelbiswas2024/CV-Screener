@@ -1,0 +1,102 @@
+{
+  "candidate_id": "C006",
+  "name": "Markus Weidner",
+  "headline": "Lead Backend Engineer",
+  "email": "c006.226@example.test",
+  "phone": "+00 000 512 688",
+  "location": "Berlin, Germany",
+  "summary": "Lead Backend Engineer with 11 years of experience designing and operating scalable distributed systems. Specialized in Java-based microservices, container orchestration with Kubernetes, and cloud infrastructure on AWS. Skilled at leading engineering teams, driving architectural decisions, and mentoring engineers to deliver reliable, high-throughput backend platforms.",
+  "skills": [
+    "Java",
+    "Kubernetes",
+    "AWS",
+    "Spring Boot",
+    "Microservices Architecture",
+    "PostgreSQL",
+    "Kafka",
+    "Terraform",
+    "CI/CD",
+    "System Design",
+    "Docker",
+    "Team Leadership"
+  ],
+  "experience": [
+    {
+      "company_name": "Nordkreis Systems",
+      "role": "Lead Backend Engineer",
+      "location": "Berlin, Germany",
+      "start_year": 2020,
+      "end_year": null,
+      "responsibilities": [
+        "Lead a team of 8 backend engineers building payment processing microservices",
+        "Define technical roadmap and architecture standards for backend platform",
+        "Drive migration of monolithic services to Kubernetes-based microservices on AWS",
+        "Conduct code reviews and mentor mid-level and junior engineers",
+        "Collaborate with product and infrastructure teams on system scalability and reliability"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "PostgreSQL",
+        "Terraform"
+      ]
+    },
+    {
+      "company_name": "Blauwerk Technologies",
+      "role": "Senior Backend Engineer",
+      "location": "Munich, Germany",
+      "start_year": 2017,
+      "end_year": 2020,
+      "responsibilities": [
+        "Designed and implemented RESTful APIs for logistics tracking platform",
+        "Migrated legacy services to containerized deployments using Docker and Kubernetes",
+        "Optimized database queries and caching strategies to improve API response times",
+        "Participated in on-call rotation and incident response for production systems"
+      ],
+      "technologies": [
+        "Java",
+        "Spring",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "MySQL",
+        "Redis"
+      ]
+    },
+    {
+      "company_name": "Rheinbach Software GmbH",
+      "role": "Backend Engineer",
+      "location": "Munich, Germany",
+      "start_year": 2014,
+      "end_year": 2017,
+      "responsibilities": [
+        "Developed backend services for e-commerce order management system",
+        "Implemented unit and integration tests to ensure code quality",
+        "Worked with cross-functional teams to define API contracts",
+        "Supported deployment pipelines using Jenkins and basic AWS services"
+      ],
+      "technologies": [
+        "Java",
+        "Hibernate",
+        "MySQL",
+        "Jenkins",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University of Munich",
+      "degree": "Master of Science",
+      "field": "Computer Science",
+      "graduation_year": 2013
+    }
+  ],
+  "languages": [
+    "German - Native",
+    "English - C1"
+  ]
+}
