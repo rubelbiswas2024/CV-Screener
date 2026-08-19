@@ -18,18 +18,8 @@ You can use it either from the terminal, or with a simple web page
 
 ```
 CV-Screener/
-├── .env                # your API keys and settings (not committed)
-├── .env.example        # example of what .env should look like
-├── backend/             # python code
-│   ├── app/
-│   │   ├── api/          # FastAPI app
-│   │   ├── core/          # logging
-│   │   ├── generation/    # generates fake CVs
-│   │   ├── ingestion/     # loads PDFs into the vector db
-│   │   ├── models/        # candidate data model
-│   │   └── RAG/           # the chat/question-answering part
-│   ├── data/             # generated CVs, photos, vector db
-│   └── tests/
+├── .env                       # your API keys and settings (not committed)
+├── backend/                   # python code (FastAPI + RAG + CV generation)
 └── frontend_chat_interface/   # the web UI
 ```
 
