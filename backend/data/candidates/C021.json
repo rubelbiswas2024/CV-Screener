@@ -1,11 +1,11 @@
 {
   "candidate_id": "C021",
   "name": "Michael Reynolds",
-  "headline": "Senior Business Development Manager - B2B SaaS Sales",
-  "email": "c021.566@example.test",
-  "phone": "+00 000 321 916",
+  "headline": "Senior Business Development Manager | B2B SaaS Sales Leader",
+  "email": "c021.112@example.test",
+  "phone": "+00 000 424 519",
   "location": "New York, United States",
-  "summary": "Results-driven Senior Business Development professional with 9 years of experience driving revenue growth in B2B SaaS environments. Proven track record of building strategic client relationships, negotiating complex enterprise deals, and leading cross-functional sales initiatives. Skilled in leveraging CRM platforms to optimize pipeline management and close rates.",
+  "summary": "Results-driven Senior Business Development professional with 9 years of experience driving revenue growth in B2B SaaS environments. Proven track record of building strategic client relationships, leading complex negotiations, and exceeding sales quotas within competitive enterprise markets. Skilled at leveraging CRM data to optimize pipeline management and close high-value deals.",
   "skills": [
     "B2B SaaS Sales",
     "Salesforce",
@@ -20,60 +20,60 @@
   ],
   "experience": [
     {
-      "company_name": "Northbridge Cloud Solutions",
+      "company_name": "Vertex Cloud Solutions",
       "role": "Senior Business Development Manager",
       "location": "New York, United States",
-      "start_year": 2020,
+      "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead enterprise sales cycles from prospecting to close for mid-market and enterprise SaaS clients",
-        "Negotiate multi-year contracts with C-level stakeholders, achieving consistent quota attainment",
-        "Mentor and train junior sales representatives on consultative selling techniques",
-        "Manage and forecast sales pipeline using Salesforce, ensuring accurate reporting to leadership",
-        "Collaborate with marketing and product teams to align go-to-market strategies"
+        "Lead enterprise sales strategy for SaaS platform targeting mid-to-large B2B clients",
+        "Negotiate multi-year contracts with annual values exceeding $500K",
+        "Manage and mentor a team of 4 business development representatives",
+        "Utilize Salesforce to track pipeline health and forecast quarterly revenue",
+        "Collaborate with product and marketing teams to align go-to-market strategies"
       ],
       "technologies": [
         "Salesforce",
         "HubSpot",
-        "Outreach",
         "LinkedIn Sales Navigator",
-        "Zoom"
-      ]
-    },
-    {
-      "company_name": "Vantage Analytics Inc.",
-      "role": "Business Development Manager",
-      "location": "New York, United States",
-      "start_year": 2017,
-      "end_year": 2020,
-      "responsibilities": [
-        "Managed a portfolio of mid-market accounts, growing revenue through upselling and renewals",
-        "Built and maintained strong relationships with key decision-makers across target industries",
-        "Conducted product demonstrations and negotiated pricing agreements with prospective clients",
-        "Utilized Salesforce to track deal progress and maintain accurate forecasting"
-      ],
-      "technologies": [
-        "Salesforce",
-        "DocuSign",
-        "Slack",
         "Gong"
       ]
     },
     {
-      "company_name": "Crestline Software Group",
-      "role": "Business Development Representative",
+      "company_name": "Northbridge Software Inc.",
+      "role": "Business Development Manager",
       "location": "New York, United States",
-      "start_year": 2015,
-      "end_year": 2017,
+      "start_year": 2018,
+      "end_year": 2021,
       "responsibilities": [
-        "Prospected and qualified inbound and outbound leads for the enterprise sales team",
-        "Scheduled discovery calls and product demos with prospective B2B clients",
-        "Maintained CRM data accuracy and supported senior account executives during negotiations"
+        "Managed full sales cycle for SaaS solutions across finance and healthcare verticals",
+        "Built and maintained relationships with C-level stakeholders at target accounts",
+        "Achieved consistent quota attainment through structured outbound prospecting",
+        "Conducted contract negotiations and pricing discussions with enterprise clients",
+        "Trained junior sales staff on CRM best practices"
       ],
       "technologies": [
         "Salesforce",
         "Outreach",
-        "Excel"
+        "Zoom"
+      ]
+    },
+    {
+      "company_name": "Parallax Data Systems",
+      "role": "Account Executive",
+      "location": "New York, United States",
+      "start_year": 2015,
+      "end_year": 2018,
+      "responsibilities": [
+        "Prospected and qualified new business opportunities within SMB and mid-market segments",
+        "Delivered product demonstrations and proposals to prospective clients",
+        "Maintained accurate records of sales activity in CRM system",
+        "Collaborated with customer success team to ensure smooth onboarding"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Excel",
+        "GoToMeeting"
       ]
     }
   ],

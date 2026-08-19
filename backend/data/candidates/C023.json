@@ -1,35 +1,35 @@
 {
   "candidate_id": "C023",
-  "name": "Youssef Adel Mansour",
-  "headline": "Finance Analyst | Financial Modeling & Data Analytics",
-  "email": "c023.159@example.test",
-  "phone": "+00 000 933 356",
+  "name": "Youssef Adel Rashad",
+  "headline": "Financial Analyst | Financial Modeling & Data Analytics",
+  "email": "c023.101@example.test",
+  "phone": "+00 000 632 555",
   "location": "Cairo, Egypt",
-  "summary": "Detail-oriented Finance Analyst with 5 years of experience in financial modeling, budgeting, and data-driven decision support. Skilled in building forecasting models, automating reporting workflows with SQL, and delivering actionable insights to senior stakeholders in fast-paced corporate environments.",
+  "summary": "Detail-oriented Financial Analyst with 5 years of experience in financial modeling, budgeting, and data-driven reporting for regional corporates. Skilled in leveraging Excel and SQL to streamline financial processes and support strategic decision-making.",
   "skills": [
     "Financial Modeling",
     "Excel",
     "SQL",
+    "Financial Forecasting",
+    "Budgeting & Variance Analysis",
     "Power BI",
-    "Budgeting & Forecasting",
-    "Variance Analysis",
-    "Financial Reporting",
-    "VBA",
-    "Data Visualization"
+    "Data Visualization",
+    "Corporate Finance",
+    "VBA"
   ],
   "experience": [
     {
       "company_name": "Nile Capital Advisors",
-      "role": "Finance Analyst",
+      "role": "Financial Analyst",
       "location": "Cairo, Egypt",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Develop and maintain financial models for investment evaluation and budgeting cycles",
-        "Extract and analyze large datasets using SQL to support quarterly forecasting",
-        "Prepare monthly management reports summarizing key financial metrics and variances",
-        "Collaborate with cross-functional teams to streamline financial reporting processes",
-        "Automate recurring reports using Excel macros and VBA scripts"
+        "Develop and maintain financial models to support investment and budgeting decisions",
+        "Analyze quarterly financial performance and prepare variance reports for senior management",
+        "Extract and manipulate large datasets using SQL for financial reporting",
+        "Collaborate with cross-functional teams to forecast revenue and expenses",
+        "Automate recurring reports using Excel macros and VBA"
       ],
       "technologies": [
         "Excel",
@@ -39,33 +39,32 @@
       ]
     },
     {
-      "company_name": "Deltawave Consulting Group",
+      "company_name": "Delta Finance Group",
       "role": "Junior Financial Analyst",
       "location": "Cairo, Egypt",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Assisted senior analysts in building three-statement financial models for client engagements",
-        "Performed data reconciliation and validation using SQL queries",
-        "Supported annual budgeting process by consolidating departmental inputs",
-        "Created dashboards to track KPIs for client reporting"
+        "Assisted in preparation of monthly financial statements and management reports",
+        "Built basic financial models to evaluate project feasibility",
+        "Reconciled financial data across multiple business units using SQL queries",
+        "Supported budgeting process by consolidating departmental inputs"
       ],
       "technologies": [
         "Excel",
-        "SQL",
-        "Power BI"
+        "SQL"
       ]
     },
     {
-      "company_name": "Cairo Trade & Industries Co.",
+      "company_name": "Pharos Investment Partners",
       "role": "Finance Intern",
       "location": "Cairo, Egypt",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
-        "Supported accounts payable and receivable reconciliation tasks",
-        "Compiled data for monthly financial statements under supervisor guidance",
-        "Learned foundational Excel modeling techniques for expense tracking"
+        "Supported analysts in gathering and organizing financial data",
+        "Prepared basic Excel spreadsheets for reporting purposes",
+        "Assisted with data entry and validation for financial records"
       ],
       "technologies": [
         "Excel"
@@ -75,14 +74,13 @@
   "education": [
     {
       "institution": "American University in Cairo",
-      "degree": "Bachelor of Arts",
-      "field": "Finance and Economics",
+      "degree": "Bachelor of Business Administration",
+      "field": "Finance",
       "graduation_year": 2019
     }
   ],
   "languages": [
     "Arabic - Native",
-    "English - C1",
-    "French - A2"
+    "English - C1"
   ]
 }

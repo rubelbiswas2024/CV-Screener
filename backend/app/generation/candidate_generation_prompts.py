@@ -84,15 +84,20 @@ IMPORTANT SAFETY / SYNTHETIC DATA RULES:
 class PortraitPromptBuilder:
     """Builds the image-generation prompt used to create a candidate portrait."""
 
+    _GENDER_CUES = {
+        "man": "male, masculine facial features",
+        "woman": "female, feminine facial features",
+    }
+
     @staticmethod
     def build(gender_presentation: str, country: str) -> str:
         """Build the headshot prompt for a given gender presentation and country."""
-        return f""" Generate a realistic professional corporate headshot of a completely fictional adult {gender_presentation}.
-            The fictional professional is based in {country}.
-            Requirements:
-                completely fictional person, must not resemble a known person or public figure
-                professional corporate portrait, head and shoulders visible, front-facing
-                neutral expression or natural professional smile, natural studio lighting
-                neutral office or studio background, business-casual clothing, realistic photography
-                high-quality portrait, no text, no company logo, no badge, no watermark added by the scene
-            """
+        gender_cue = PortraitPromptBuilder._GENDER_CUES.get(gender_presentation, gender_presentation)
+        return (
+            f"Professional corporate headshot photo of a {gender_presentation}, {gender_cue}, "
+            f"professional based in {country}, completely fictional person, must not resemble "
+            "a known person or public figure, head and shoulders visible, front-facing, "
+            "neutral expression or natural professional smile, natural studio lighting, "
+            "neutral office or studio background, business-casual clothing, realistic photography, "
+            "high-quality portrait, no text, no company logo, no badge, no watermark"
+        )

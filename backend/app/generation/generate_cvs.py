@@ -1,6 +1,6 @@
 import logging
 import time
-import openai
+import httpx
 from app.config import get_settings
 from app.core.logging import (configure_logging)
 from app.generation.candidate_generator import CandidateGenerator
@@ -47,14 +47,12 @@ class CVGenerationPipeline:
 
             try:
                 self._portrait_generator.generate(candidate=candidate, output_path=image_path)
-            except openai.APIStatusError as error:
-                if error.status_code == 402:
-                    self._logger.error(
-                        "Skipping photo for %s: OpenRouter account has no purchased credits.",
-                        candidate_id,
-                    )
-                else:
-                    self._logger.exception("Failed generating photo for %s, continuing without it", candidate_id)
+            except httpx.HTTPStatusError as error:
+                self._logger.error(
+                    "Skipping photo for %s: Pollinations API returned %s.",
+                    candidate_id,
+                    error.response.status_code,
+                )
             except Exception:
                 self._logger.exception("Failed generating photo for %s, continuing without it", candidate_id)
 

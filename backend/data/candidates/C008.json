@@ -2,10 +2,10 @@
   "candidate_id": "C008",
   "name": "Willem de Groot",
   "headline": "Senior DevOps / Site Reliability Engineer",
-  "email": "c008.541@example.test",
-  "phone": "+00 000 788 457",
+  "email": "c008.596@example.test",
+  "phone": "+00 000 542 785",
   "location": "Amsterdam, Netherlands",
-  "summary": "Senior DevOps/SRE engineer with 8 years of experience designing and operating scalable cloud infrastructure. Specialized in Kubernetes orchestration, Infrastructure as Code with Terraform, and AWS cloud architecture. Strong background in CI/CD automation, observability, and improving system reliability across distributed environments.",
+  "summary": "Senior DevOps/SRE engineer with 8 years of experience designing and operating scalable cloud infrastructure. Specialized in Kubernetes orchestration, infrastructure as code with Terraform, and AWS cloud architecture. Passionate about reliability, automation, and building resilient systems that support rapid product growth.",
   "skills": [
     "Kubernetes",
     "Terraform",
@@ -15,23 +15,24 @@
     "Prometheus",
     "Grafana",
     "Python",
-    "Ansible",
     "Linux Administration",
+    "Ansible",
+    "Helm",
     "GitOps"
   ],
   "experience": [
     {
-      "company_name": "NordCloud Solutions",
+      "company_name": "Northgate Digital",
       "role": "Senior Site Reliability Engineer",
       "location": "Amsterdam, Netherlands",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead the design and maintenance of Kubernetes clusters supporting multi-tenant production workloads",
-        "Define and enforce Terraform module standards for AWS infrastructure provisioning",
-        "Drive incident response processes and improve system observability using Prometheus and Grafana",
-        "Mentor junior engineers on cloud-native best practices and infrastructure automation",
-        "Collaborate with development teams to optimize deployment pipelines and reduce release cycle time"
+        "Lead the design and maintenance of multi-region Kubernetes clusters on AWS EKS",
+        "Define infrastructure as code standards using Terraform across engineering teams",
+        "Establish SLOs and error budgets for critical customer-facing services",
+        "Mentor junior DevOps engineers and conduct architecture reviews",
+        "Drive incident response process improvements and post-mortem culture"
       ],
       "technologies": [
         "Kubernetes",
@@ -43,57 +44,54 @@
       ]
     },
     {
-      "company_name": "Delta Systems B.V.",
+      "company_name": "Canalworks BV",
       "role": "DevOps Engineer",
-      "location": "Rotterdam, Netherlands",
+      "location": "Amsterdam, Netherlands",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Migrated legacy on-premise applications to AWS using containerized deployments",
-        "Built and maintained CI/CD pipelines with Jenkins and GitLab CI",
-        "Automated infrastructure provisioning using Terraform and Ansible",
-        "Implemented monitoring and alerting solutions to improve system uptime",
-        "Supported production troubleshooting and capacity planning"
+        "Migrated on-premise workloads to AWS using containerized deployments",
+        "Built CI/CD pipelines with Jenkins and GitLab CI for microservices",
+        "Automated infrastructure provisioning with Terraform and Ansible",
+        "Implemented centralized logging and monitoring stack for production environments"
       ],
       "technologies": [
         "AWS",
-        "Terraform",
         "Docker",
         "Jenkins",
-        "Ansible"
+        "Terraform",
+        "ELK Stack"
       ]
     },
     {
-      "company_name": "BrightWave Technologies",
+      "company_name": "Delta Cloud Solutions",
       "role": "Junior Systems Engineer",
-      "location": "Utrecht, Netherlands",
+      "location": "Rotterdam, Netherlands",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Assisted in maintaining Linux server infrastructure for internal applications",
-        "Wrote automation scripts to streamline routine operational tasks",
-        "Participated in on-call rotations supporting production systems",
-        "Contributed to documentation of deployment and configuration procedures"
+        "Maintained Linux server infrastructure and network configurations",
+        "Assisted in deploying and monitoring internal applications",
+        "Supported migration of legacy systems to virtualized environments"
       ],
       "technologies": [
         "Linux",
         "Bash",
-        "Python",
-        "AWS"
+        "VMware",
+        "Nagios"
       ]
     }
   ],
   "education": [
     {
       "institution": "Delft University of Technology",
-      "degree": "Master of Science",
+      "degree": "MSc",
       "field": "Computer Science",
       "graduation_year": 2016
     }
   ],
   "languages": [
     "Dutch - Native",
-    "English - C1",
-    "German - B1"
+    "English - C1"
   ]
 }

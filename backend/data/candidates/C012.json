@@ -1,57 +1,58 @@
 {
   "candidate_id": "C012",
-  "name": "Beatriz Almeida Santos",
-  "headline": "UX/Product Designer Júnior",
-  "email": "c012.410@example.test",
-  "phone": "+00 000 980 851",
+  "name": "Beatriz Fernandes Costa",
+  "headline": "Junior UX/Product Designer",
+  "email": "c012.600@example.test",
+  "phone": "+00 000 920 169",
   "location": "São Paulo, Brazil",
-  "summary": "UX/Product Designer júnior com 2 anos de experiência em pesquisa de usuário, wireframing e prototipação de interfaces digitais. Formada pela USP, com foco em criar soluções centradas no usuário para produtos web e mobile, colaborando de perto com times de produto e engenharia.",
+  "summary": "Junior UX/Product Designer with 2 years of experience creating user-centered digital experiences. Skilled in wireframing, prototyping, and conducting basic usability research to support product decisions. Collaborative team player passionate about translating user needs into intuitive interfaces.",
   "skills": [
     "Figma",
     "Prototyping",
     "Wireframing",
     "User Research",
-    "Design Systems",
-    "UI Design",
-    "Adobe XD",
     "Usability Testing",
-    "Miro"
+    "Design Systems",
+    "Adobe XD",
+    "Interaction Design"
   ],
   "experience": [
     {
-      "company_name": "Nuvix Tecnologia",
-      "role": "UX Designer Júnior",
-      "location": "São Paulo, Brazil",
-      "start_year": 2023,
-      "end_year": null,
-      "responsibilities": [
-        "Criação de wireframes e protótipos de alta fidelidade no Figma para aplicativo mobile",
-        "Condução de testes de usabilidade com usuários e síntese de insights para o time de produto",
-        "Colaboração com desenvolvedores para garantir a fidelidade do design implementado",
-        "Manutenção e evolução do design system da empresa"
-      ],
-      "technologies": [
-        "Figma",
-        "Adobe XD",
-        "Miro",
-        "Zeplin"
-      ]
-    },
-    {
-      "company_name": "Panorama Digital",
-      "role": "Estagiária de UX/UI Design",
+      "company_name": "Nuvira Tech",
+      "role": "UX Design Intern",
       "location": "São Paulo, Brazil",
       "start_year": 2022,
       "end_year": 2023,
       "responsibilities": [
-        "Apoio na criação de wireframes de baixa fidelidade para novas funcionalidades",
-        "Realização de entrevistas exploratórias com usuários para levantamento de requisitos",
-        "Auxílio na organização de fluxos de usuário e jornadas de compra"
+        "Assisted senior designers in creating wireframes and prototypes for mobile applications",
+        "Conducted user interviews and compiled feedback reports",
+        "Participated in design critique sessions to refine UI components",
+        "Helped maintain the company's design system in Figma"
       ],
       "technologies": [
         "Figma",
-        "Sketch",
-        "Trello"
+        "Miro",
+        "Adobe XD"
+      ]
+    },
+    {
+      "company_name": "Aveline Digital",
+      "role": "Junior Product Designer",
+      "location": "São Paulo, Brazil",
+      "start_year": 2023,
+      "end_year": null,
+      "responsibilities": [
+        "Designed low and high-fidelity prototypes for web and mobile products",
+        "Collaborated with product managers and developers to define user flows",
+        "Conducted usability tests with 5-10 participants per sprint cycle",
+        "Iterated on designs based on user feedback and analytics data",
+        "Contributed to the creation of a scalable component library"
+      ],
+      "technologies": [
+        "Figma",
+        "Prototyping",
+        "Notion",
+        "Zeplin"
       ]
     }
   ],

@@ -1,23 +1,23 @@
 {
   "candidate_id": "C004",
-  "name": "Marc Ferrer Solà",
+  "name": "Marc Ferrer Soler",
   "headline": "Full-Stack Engineer | React, Node.js & TypeScript",
-  "email": "c004.292@example.test",
-  "phone": "+00 000 761 918",
+  "email": "c004.940@example.test",
+  "phone": "+00 000 722 898",
   "location": "Valencia, Spain",
-  "summary": "Full-stack engineer with 5 years of experience building web applications using React, Node.js, and TypeScript. Comfortable working across the stack, from designing REST APIs to implementing responsive frontend interfaces. Focused on writing maintainable code and collaborating closely with product and design teams.",
+  "summary": "Full-stack engineer with 5 years of experience building scalable web applications using React, Node.js, and TypeScript. Skilled in designing REST APIs, developing responsive front-end interfaces, and collaborating with cross-functional teams to deliver reliable software solutions.",
   "skills": [
     "React",
     "Node.js",
     "TypeScript",
     "JavaScript",
+    "Express.js",
     "PostgreSQL",
-    "Express",
-    "Docker",
-    "GraphQL",
+    "REST APIs",
     "Git",
-    "CSS/SASS",
-    "AWS"
+    "Docker",
+    "Jest",
+    "GraphQL"
   ],
   "experience": [
     {
@@ -27,32 +27,32 @@
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Develop and maintain customer-facing web applications using React and TypeScript",
-        "Design and implement REST APIs with Node.js and Express",
-        "Collaborate with product managers to translate requirements into technical solutions",
+        "Develop and maintain full-stack features using React and Node.js",
+        "Design and implement REST APIs consumed by web and mobile clients",
+        "Collaborate with product and design teams to translate requirements into technical solutions",
         "Write unit and integration tests to ensure code quality",
         "Participate in code reviews and mentor junior developers"
       ],
       "technologies": [
         "React",
-        "TypeScript",
         "Node.js",
-        "Express",
+        "TypeScript",
+        "Express.js",
         "PostgreSQL",
         "Docker"
       ]
     },
     {
-      "company_name": "CiutatTech Labs",
+      "company_name": "Turia Software Labs",
       "role": "Frontend Developer",
       "location": "Valencia, Spain",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Built reusable UI components using React and Redux",
-        "Integrated frontend applications with backend REST APIs",
-        "Improved page load performance through code splitting and lazy loading",
-        "Worked closely with UX designers to implement responsive layouts"
+        "Built responsive UI components using React and Redux",
+        "Integrated third-party APIs and internal backend services",
+        "Optimized application performance and load times",
+        "Worked closely with UX designers to implement pixel-perfect interfaces"
       ],
       "technologies": [
         "React",
@@ -63,22 +63,21 @@
       ]
     },
     {
-      "company_name": "Alberes Software",
+      "company_name": "Albufera Tech Studio",
       "role": "Junior Web Developer",
-      "location": "Barcelona, Spain",
+      "location": "Valencia, Spain",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
         "Assisted in developing internal tools using Node.js and Express",
-        "Fixed bugs and implemented small features in existing codebases",
-        "Wrote documentation for internal APIs",
-        "Supported QA team during testing cycles"
+        "Fixed bugs and implemented small features under senior developer guidance",
+        "Wrote basic automated tests for backend endpoints"
       ],
       "technologies": [
         "Node.js",
         "JavaScript",
-        "Express",
-        "MySQL"
+        "Express.js",
+        "MongoDB"
       ]
     }
   ],

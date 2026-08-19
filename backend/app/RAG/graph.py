@@ -7,6 +7,7 @@ from app.config import get_settings, Settings
 from app.RAG.rag_prompts import SYSTEM_PROMPT
 from app.RAG.state import RAGState
 from app.RAG.embeddings_store import VectorStoreManager
+from app.ingestion.chunk_indexing import IndexBuilder
 
 
 logger = logging.getLogger(__name__)
@@ -22,8 +23,14 @@ class RAGPipeline:
         self._graph = self._build_graph()
 
     def _retrieve(self, state: RAGState) -> dict:
-        """Fetch the top matching CV chunks for the question."""
-        documents = (VectorStoreManager.get().similarity_search(state["question"], k=self._settings.top_k))
+        """Fetch the top matching CV chunks for the question, building the index first if it's missing."""
+        store = VectorStoreManager.get()
+
+        if not store.get(limit=1)["ids"]:
+            logger.info("event=index_missing action=building")
+            IndexBuilder(self._settings).build_if_missing()
+
+        documents = store.similarity_search(state["question"], k=self._settings.top_k)
         logger.info("event=retrieval " "chunks=%s ", len(documents))
 
         return {"retrieved_documents": documents}

@@ -4,10 +4,7 @@ from app.config import get_settings
 
 
 class LoggingConfigurator:
-    """
-    Configures application-wide logging so that logs are consistently
-    formatted and written to stdout.
-    """
+    """Configures application-wide logging so that logs are consistently formatted and written to stdout."""
 
     def __init__(self) -> None:
         """Load settings needed for log level."""
@@ -15,6 +12,10 @@ class LoggingConfigurator:
 
     def configure(self) -> None:
         """Set up stdout logging with the configured level and format."""
+        stream = getattr(sys.stdout, "reconfigure", None)
+        if stream is not None:
+            sys.stdout.reconfigure(errors="backslashreplace")
+
         logging.basicConfig(
             level=getattr(logging, self._settings.log_level.upper(), logging.INFO),
             format=("%(asctime)s " "level=%(levelname)s " "logger=%(name)s " "%(message)s"),

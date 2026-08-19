@@ -2,10 +2,10 @@
   "candidate_id": "C025",
   "name": "Nguyen Thi Mai Linh",
   "headline": "Senior Project Manager | Agile & Scrum Delivery Leader",
-  "email": "c025.486@example.test",
-  "phone": "+00 000 923 914",
+  "email": "c025.167@example.test",
+  "phone": "+00 000 334 763",
   "location": "Ho Chi Minh City, Vietnam",
-  "summary": "Senior Project Manager with 9 years of experience leading cross-functional teams in software delivery and digital transformation projects across fintech and e-commerce sectors. Skilled in Agile and Scrum methodologies, stakeholder management, and driving projects from initiation through successful delivery. Proven track record of managing distributed teams and aligning business objectives with technical execution.",
+  "summary": "Senior Project Manager with 9 years of experience leading cross-functional software delivery teams across fintech and e-commerce sectors. Skilled in Agile and Scrum methodologies, stakeholder management, and driving projects from initiation through successful delivery. Proven ability to align business objectives with technical execution while managing budgets, timelines, and risk.",
   "skills": [
     "Agile",
     "Scrum",
@@ -14,64 +14,65 @@
     "Jira",
     "Confluence",
     "Budget Planning",
-    "Team Leadership",
+    "Cross-functional Team Leadership",
     "Vendor Management",
     "Kanban"
   ],
   "experience": [
     {
-      "company_name": "Mekong Digital Solutions",
+      "company_name": "Meridian Tech Solutions",
       "role": "Senior Project Manager",
       "location": "Ho Chi Minh City, Vietnam",
-      "start_year": 2021,
+      "start_year": 2020,
       "end_year": null,
       "responsibilities": [
-        "Lead end-to-end delivery of enterprise software projects for banking clients",
-        "Facilitate Agile ceremonies including sprint planning, retrospectives, and daily stand-ups",
-        "Manage stakeholder expectations across product, engineering, and client teams",
-        "Oversee project budgets and resource allocation for teams of up to 25 members",
-        "Coach junior project managers and scrum masters on Agile best practices"
+        "Lead delivery of enterprise fintech platforms using Scrum and Kanban frameworks",
+        "Manage stakeholder communication across executive, client, and engineering teams",
+        "Oversee project budgets ranging from $500K to $2M",
+        "Coordinate release planning and sprint retrospectives with distributed teams",
+        "Mitigate project risks through proactive planning and contingency strategies"
       ],
       "technologies": [
         "Jira",
         "Confluence",
         "MS Project",
-        "Slack"
+        "Slack",
+        "Azure DevOps"
       ]
     },
     {
-      "company_name": "Saigon Tech Innovations",
+      "company_name": "Vantage Digital Group",
       "role": "Project Manager",
       "location": "Ho Chi Minh City, Vietnam",
-      "start_year": 2018,
-      "end_year": 2021,
+      "start_year": 2017,
+      "end_year": 2020,
       "responsibilities": [
-        "Managed Scrum teams delivering e-commerce platform features",
-        "Coordinated with product owners to prioritize backlog items",
-        "Tracked project milestones and reported progress to senior leadership",
-        "Facilitated cross-team dependencies between development and QA units"
+        "Managed end-to-end delivery of e-commerce platform upgrades",
+        "Facilitated daily stand-ups, sprint planning, and backlog grooming sessions",
+        "Coordinated with UX, QA, and development teams to ensure timely releases",
+        "Prepared status reports and presented progress updates to senior stakeholders"
       ],
       "technologies": [
         "Jira",
         "Trello",
-        "Confluence"
+        "Confluence",
+        "Slack"
       ]
     },
     {
-      "company_name": "Vietnam Software Partners",
-      "role": "Associate Project Manager",
+      "company_name": "Saigon InfoTech Partners",
+      "role": "Associate Project Coordinator",
       "location": "Ho Chi Minh City, Vietnam",
       "start_year": 2015,
-      "end_year": 2018,
+      "end_year": 2017,
       "responsibilities": [
-        "Assisted senior project managers in planning and scheduling software projects",
-        "Prepared status reports and meeting minutes for stakeholders",
-        "Supported onboarding of new team members and process documentation",
-        "Monitored project risks and escalated issues as needed"
+        "Supported project managers in tracking timelines and deliverables",
+        "Assisted in documenting requirements and meeting minutes",
+        "Coordinated logistics for client meetings and internal workshops"
       ],
       "technologies": [
         "MS Excel",
-        "Basecamp",
+        "Trello",
         "SharePoint"
       ]
     }

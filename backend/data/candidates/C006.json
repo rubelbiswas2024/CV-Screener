@@ -1,38 +1,37 @@
 {
   "candidate_id": "C006",
-  "name": "Markus Weidner",
+  "name": "Markus Reinhardt",
   "headline": "Lead Backend Engineer",
-  "email": "c006.226@example.test",
-  "phone": "+00 000 512 688",
+  "email": "c006.610@example.test",
+  "phone": "+00 000 987 812",
   "location": "Berlin, Germany",
-  "summary": "Lead Backend Engineer with 11 years of experience designing and operating scalable distributed systems. Specialized in Java-based microservices, container orchestration with Kubernetes, and cloud infrastructure on AWS. Skilled at leading engineering teams, driving architectural decisions, and mentoring engineers to deliver reliable, high-throughput backend platforms.",
+  "summary": "Backend engineering leader with 11 years of experience designing and scaling distributed systems in cloud-native environments. Skilled in leading cross-functional teams, driving Kubernetes-based infrastructure adoption, and delivering resilient Java-based microservices on AWS. Passionate about mentoring engineers and improving system reliability.",
   "skills": [
     "Java",
     "Kubernetes",
     "AWS",
     "Spring Boot",
-    "Microservices Architecture",
-    "PostgreSQL",
-    "Kafka",
+    "Microservices",
     "Terraform",
+    "PostgreSQL",
     "CI/CD",
-    "System Design",
     "Docker",
-    "Team Leadership"
+    "System Design",
+    "Kafka"
   ],
   "experience": [
     {
-      "company_name": "Nordkreis Systems",
+      "company_name": "Nordhaven Systems",
       "role": "Lead Backend Engineer",
       "location": "Berlin, Germany",
       "start_year": 2020,
       "end_year": null,
       "responsibilities": [
-        "Lead a team of 8 backend engineers building payment processing microservices",
-        "Define technical roadmap and architecture standards for backend platform",
-        "Drive migration of monolithic services to Kubernetes-based microservices on AWS",
-        "Conduct code reviews and mentor mid-level and junior engineers",
-        "Collaborate with product and infrastructure teams on system scalability and reliability"
+        "Lead a team of 8 backend engineers building microservices for a logistics platform",
+        "Define technical architecture and roadmap for backend systems on AWS",
+        "Drive adoption of Kubernetes for container orchestration across services",
+        "Mentor engineers through code reviews and technical design discussions",
+        "Collaborate with product and infrastructure teams to plan scalable solutions"
       ],
       "technologies": [
         "Java",
@@ -40,50 +39,46 @@
         "Kubernetes",
         "AWS",
         "Kafka",
-        "PostgreSQL",
-        "Terraform"
+        "PostgreSQL"
       ]
     },
     {
-      "company_name": "Blauwerk Technologies",
+      "company_name": "Bergfeld Digital",
       "role": "Senior Backend Engineer",
-      "location": "Munich, Germany",
+      "location": "Berlin, Germany",
       "start_year": 2017,
       "end_year": 2020,
       "responsibilities": [
-        "Designed and implemented RESTful APIs for logistics tracking platform",
-        "Migrated legacy services to containerized deployments using Docker and Kubernetes",
-        "Optimized database queries and caching strategies to improve API response times",
-        "Participated in on-call rotation and incident response for production systems"
+        "Designed and implemented RESTful APIs for e-commerce backend services",
+        "Migrated monolithic application to microservices architecture",
+        "Set up CI/CD pipelines to automate testing and deployment",
+        "Optimized database queries improving response times for high-traffic endpoints"
       ],
       "technologies": [
         "Java",
-        "Spring",
         "Docker",
-        "Kubernetes",
         "AWS",
         "MySQL",
-        "Redis"
+        "Jenkins"
       ]
     },
     {
-      "company_name": "Rheinbach Software GmbH",
-      "role": "Backend Engineer",
+      "company_name": "Vantera Solutions",
+      "role": "Backend Developer",
       "location": "Munich, Germany",
       "start_year": 2014,
       "end_year": 2017,
       "responsibilities": [
-        "Developed backend services for e-commerce order management system",
+        "Developed backend services for internal enterprise applications",
         "Implemented unit and integration tests to ensure code quality",
-        "Worked with cross-functional teams to define API contracts",
-        "Supported deployment pipelines using Jenkins and basic AWS services"
+        "Collaborated with frontend team to define API contracts",
+        "Participated in agile sprint planning and code reviews"
       ],
       "technologies": [
         "Java",
-        "Hibernate",
+        "Spring",
         "MySQL",
-        "Jenkins",
-        "AWS"
+        "Git"
       ]
     }
   ],

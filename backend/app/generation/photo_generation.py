@@ -1,43 +1,40 @@
+import hashlib
 from pathlib import Path
-import base64
-from openai import OpenAI
+from urllib.parse import quote
+import httpx
 from app.config import get_settings, Settings
 from app.generation.candidate_generation_prompts import PortraitPromptBuilder
 from app.generation.candidate_specifications import CandidateSpecification
 
 
 class PortraitGenerator:
-    """Generates a fictional candidate portrait via the configured image model."""
+    """Generates a fictional candidate portrait via the free Pollinations image API."""
 
-    def __init__(self, settings: Settings | None = None, client: OpenAI | None = None) -> None:
-        """Set up settings and an OpenRouter client, or reuse the ones passed in."""
+    BASE_URL = "https://image.pollinations.ai/prompt"
+
+    def __init__(self, settings: Settings | None = None, client: httpx.Client | None = None) -> None:
+        """Set up settings and an HTTP client, or reuse the ones passed in."""
         self._settings = settings or get_settings()
-        self._client = client or OpenAI(
-            base_url=self._settings.openrouter_base_url,
-            api_key=self._settings.openrouter_api_key,
-        )
+        self._client = client or httpx.Client(timeout=60.0)
 
     def generate(self, candidate: CandidateSpecification, output_path: Path) -> None:
         """Generate a headshot for a candidate and save it to output_path."""
 
         prompt = PortraitPromptBuilder.build(gender_presentation=candidate.gender, country=candidate.country)
+        url = f"{self.BASE_URL}/{quote(prompt)}"
+        seed = int(hashlib.sha256(output_path.stem.encode()).hexdigest(), 16) % (2**31)
 
-        completion = self._client.chat.completions.create(
-            model=self._settings.image_model,
-            messages=[{"role": "user", "content": prompt}],
-            extra_body={"modalities": ["image", "text"]},
+        response = self._client.get(
+            url,
+            params={
+                "width": 512,
+                "height": 512,
+                "nologo": "true",
+                "model": self._settings.image_model,
+                "seed": seed,
+            },
         )
-
-        message = completion.choices[0].message
-        images = getattr(message, "images", None) or message.model_dump().get("images")
-
-        if not images:
-            raise RuntimeError("Image model did not return an image.")
-
-        image_url = images[0]["image_url"]["url"]
-        _, _, image_base64 = image_url.partition("base64,")
-        image_bytes = base64.b64decode(image_base64)
+        response.raise_for_status()
 
         output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        output_path.write_bytes(image_bytes)
+        output_path.write_bytes(response.content)

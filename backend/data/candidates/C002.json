@@ -1,37 +1,37 @@
 {
   "candidate_id": "C002",
-  "name": "Marc Vidal Puig",
-  "headline": "AI/ML Engineer specializing in LLM Applications and Conversational AI",
-  "email": "c002.968@example.test",
-  "phone": "+00 000 225 877",
+  "name": "Marc Oliveras Puig",
+  "headline": "AI / ML Engineer specializing in LLM-based Applications",
+  "email": "c002.206@example.test",
+  "phone": "+00 000 450 719",
   "location": "Barcelona, Spain",
-  "summary": "AI/ML Engineer with 4 years of experience building and deploying machine learning solutions, with a recent focus on LLM-powered applications and agentic workflows. Skilled in designing production-grade pipelines using Python, LangChain, and LangGraph, deployed on GCP infrastructure. Passionate about bridging research and practical, scalable AI systems.",
+  "summary": "AI/ML Engineer with 4 years of experience building and deploying machine learning and generative AI solutions. Skilled in designing LLM-powered agent workflows using LangChain and LangGraph, and deploying scalable pipelines on GCP. Strong background in Python-based model development, data engineering, and MLOps practices.",
   "skills": [
     "Python",
     "LangChain",
     "LangGraph",
     "GCP",
-    "Vertex AI",
+    "TensorFlow",
     "Docker",
     "SQL",
-    "TensorFlow",
+    "Vertex AI",
     "REST APIs",
-    "Prompt Engineering",
+    "MLOps",
     "Kubernetes"
   ],
   "experience": [
     {
-      "company_name": "Nexora Labs",
-      "role": "AI/ML Engineer",
+      "company_name": "NimbusData Solutions",
+      "role": "Machine Learning Engineer",
       "location": "Barcelona, Spain",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Design and implement LLM-based agents using LangChain and LangGraph for customer support automation",
+        "Design and deploy LLM-based agent workflows using LangChain and LangGraph for internal automation tools",
         "Build and maintain ML pipelines on GCP using Vertex AI and Cloud Functions",
-        "Develop RAG systems integrating vector databases with internal knowledge bases",
-        "Collaborate with product teams to define AI feature requirements and success metrics",
-        "Monitor model performance and implement evaluation frameworks for LLM outputs"
+        "Collaborate with product teams to integrate generative AI features into customer-facing applications",
+        "Monitor model performance and implement retraining pipelines",
+        "Containerize services with Docker and manage deployments via Kubernetes"
       ],
       "technologies": [
         "Python",
@@ -39,46 +39,28 @@
         "LangGraph",
         "GCP",
         "Vertex AI",
-        "FastAPI",
-        "Pinecone"
-      ]
-    },
-    {
-      "company_name": "Datalume Solutions",
-      "role": "Machine Learning Engineer",
-      "location": "Barcelona, Spain",
-      "start_year": 2021,
-      "end_year": 2022,
-      "responsibilities": [
-        "Developed and trained supervised learning models for predictive analytics use cases",
-        "Built data preprocessing pipelines using Python and SQL for structured datasets",
-        "Deployed models as REST APIs using Docker and GCP Cloud Run",
-        "Assisted senior engineers in feature engineering and model evaluation"
-      ],
-      "technologies": [
-        "Python",
-        "TensorFlow",
         "Docker",
-        "GCP",
-        "SQL"
+        "Kubernetes"
       ]
     },
     {
-      "company_name": "Innovatia Tech",
-      "role": "Junior Data Analyst / ML Intern",
+      "company_name": "Cortex Analytics",
+      "role": "Junior Data Scientist",
       "location": "Barcelona, Spain",
       "start_year": 2020,
-      "end_year": 2021,
+      "end_year": 2022,
       "responsibilities": [
-        "Supported data cleaning and exploratory analysis for internal reporting tools",
-        "Built basic classification models under supervision using scikit-learn",
-        "Assisted in creating dashboards to visualize model outputs for stakeholders"
+        "Developed predictive models for customer churn using Python and scikit-learn",
+        "Built ETL pipelines to process structured and unstructured data from multiple sources",
+        "Assisted senior engineers in deploying models to production using GCP services",
+        "Created dashboards and reports to communicate model insights to stakeholders"
       ],
       "technologies": [
         "Python",
-        "Pandas",
         "scikit-learn",
-        "SQL"
+        "SQL",
+        "GCP",
+        "BigQuery"
       ]
     }
   ],
@@ -91,8 +73,8 @@
     }
   ],
   "languages": [
-    "Spanish - Native",
     "Catalan - Native",
+    "Spanish - Native",
     "English - C1"
   ]
 }

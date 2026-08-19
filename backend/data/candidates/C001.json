@@ -1,37 +1,37 @@
 {
   "candidate_id": "C001",
-  "name": "Marc Vidal Serra",
+  "name": "Marc Vidal Puig",
   "headline": "Senior Backend Engineer",
-  "email": "c001.552@example.test",
-  "phone": "+00 000 223 112",
+  "email": "c001.958@example.test",
+  "phone": "+00 000 386 951",
   "location": "Barcelona, Spain",
-  "summary": "Senior Backend Engineer with 7 years of experience designing and building scalable server-side systems and APIs. Strong background in Python, relational databases, and containerized deployments. Comfortable leading technical decisions, mentoring junior engineers, and collaborating cross-functionally to deliver reliable, maintainable software.",
+  "summary": "Senior Backend Engineer with 7 years of experience designing and scaling server-side systems using Python and PostgreSQL. Skilled in building containerized microservices, optimizing database performance, and leading small engineering teams within agile environments. Passionate about clean architecture and reliable, maintainable code.",
   "skills": [
     "Python",
     "PostgreSQL",
     "Docker",
-    "FastAPI",
     "Django",
-    "Redis",
+    "FastAPI",
     "Kubernetes",
-    "RESTful API design",
+    "Redis",
+    "REST APIs",
     "Git",
-    "AWS",
-    "Celery"
+    "Linux",
+    "CI/CD"
   ],
   "experience": [
     {
-      "company_name": "Nordvia Tech",
+      "company_name": "NubaTech Solutions",
       "role": "Senior Backend Engineer",
       "location": "Barcelona, Spain",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead development of core backend services handling high-throughput transaction processing",
-        "Design and optimize PostgreSQL schemas and queries for performance at scale",
-        "Own containerization strategy using Docker and orchestration with Kubernetes",
-        "Mentor mid-level and junior engineers through code reviews and pairing sessions",
-        "Collaborate with product and frontend teams to define API contracts"
+        "Design and maintain scalable backend services using Python and FastAPI",
+        "Lead database schema design and optimization for PostgreSQL clusters",
+        "Mentor junior engineers and conduct code reviews",
+        "Coordinate containerized deployments using Docker and Kubernetes",
+        "Collaborate with product teams to define API contracts"
       ],
       "technologies": [
         "Python",
@@ -39,44 +39,45 @@
         "PostgreSQL",
         "Docker",
         "Kubernetes",
-        "AWS"
+        "Redis"
       ]
     },
     {
-      "company_name": "Cataluna Software Solutions",
+      "company_name": "Baricode Systems",
       "role": "Backend Engineer",
       "location": "Barcelona, Spain",
-      "start_year": 2018,
+      "start_year": 2019,
       "end_year": 2021,
       "responsibilities": [
-        "Developed and maintained RESTful APIs using Django and Django REST Framework",
-        "Migrated legacy monolithic services into modular microservices",
-        "Implemented caching layers with Redis to reduce database load",
-        "Wrote automated tests and participated in CI/CD pipeline improvements"
+        "Developed RESTful APIs using Django and Django REST Framework",
+        "Implemented CI/CD pipelines for automated testing and deployment",
+        "Optimized SQL queries and database indexes for performance",
+        "Containerized services using Docker for consistent environments"
       ],
       "technologies": [
         "Python",
         "Django",
         "PostgreSQL",
-        "Redis",
         "Docker",
         "Jenkins"
       ]
     },
     {
-      "company_name": "Delta Informatica",
-      "role": "Junior Software Developer",
+      "company_name": "Iberic Data Labs",
+      "role": "Junior Backend Developer",
       "location": "Barcelona, Spain",
       "start_year": 2017,
-      "end_year": 2018,
+      "end_year": 2019,
       "responsibilities": [
-        "Built internal tools and scripts to automate data processing tasks",
-        "Assisted senior engineers in maintaining backend services",
-        "Fixed bugs and implemented small features in existing Python applications"
+        "Built internal tools and APIs using Python and Flask",
+        "Assisted in migrating legacy MySQL databases to PostgreSQL",
+        "Wrote unit tests and participated in agile sprint ceremonies"
       ],
       "technologies": [
         "Python",
-        "SQL",
+        "Flask",
+        "PostgreSQL",
+        "MySQL",
         "Git"
       ]
     }

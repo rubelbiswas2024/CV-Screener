@@ -1,11 +1,11 @@
 {
   "candidate_id": "C026",
-  "name": "Marc Ferrer Puig",
+  "name": "Marc Puig Serra",
   "headline": "Junior Backend Engineer",
-  "email": "c026.744@example.test",
-  "phone": "+00 000 638 280",
+  "email": "c026.225@example.test",
+  "phone": "+00 000 380 969",
   "location": "Barcelona, Spain",
-  "summary": "Junior Backend Engineer with 2 years of experience building and maintaining web services using Python and Flask. Comfortable working with relational databases and RESTful API design, with a strong interest in writing clean, testable code and collaborating within agile teams.",
+  "summary": "Junior Backend Engineer with 2 years of experience building and maintaining RESTful APIs and server-side applications using Python and Flask. Comfortable working with relational databases and collaborating in agile teams to deliver reliable, well-tested backend services.",
   "skills": [
     "Python",
     "Flask",
@@ -19,17 +19,17 @@
   ],
   "experience": [
     {
-      "company_name": "NextaTech Solutions",
+      "company_name": "Dataloop Solutions",
       "role": "Backend Developer",
       "location": "Barcelona, Spain",
       "start_year": 2023,
       "end_year": null,
       "responsibilities": [
-        "Develop and maintain RESTful APIs using Flask for internal business applications",
+        "Develop and maintain internal REST APIs using Flask and SQLAlchemy",
         "Design and optimize PostgreSQL database schemas and queries",
-        "Collaborate with frontend developers to integrate backend services",
-        "Write unit tests to ensure code reliability and reduce regressions",
-        "Participate in code reviews and daily stand-up meetings"
+        "Write unit and integration tests to ensure code reliability",
+        "Collaborate with frontend team to define API contracts",
+        "Participate in code reviews and daily stand-ups"
       ],
       "technologies": [
         "Python",
@@ -40,22 +40,22 @@
       ]
     },
     {
-      "company_name": "Codimera Labs",
-      "role": "Backend Engineering Intern",
+      "company_name": "Nimbus Tech Barcelona",
+      "role": "Junior Software Developer",
       "location": "Barcelona, Spain",
       "start_year": 2022,
       "end_year": 2023,
       "responsibilities": [
-        "Assisted in building small backend features using Python and Flask",
-        "Wrote SQL queries and helped maintain a PostgreSQL database",
-        "Fixed bugs reported in the internal ticketing system",
-        "Supported senior engineers in testing and deploying minor updates"
+        "Assisted in building backend features for a Python-based web application",
+        "Fixed bugs and implemented minor enhancements in existing Flask services",
+        "Wrote basic automated tests and documentation",
+        "Supported database migrations using SQL scripts"
       ],
       "technologies": [
         "Python",
         "Flask",
-        "PostgreSQL",
-        "SQL"
+        "SQL",
+        "Git"
       ]
     }
   ],

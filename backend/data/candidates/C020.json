@@ -2,10 +2,10 @@
   "candidate_id": "C020",
   "name": "Emily Chen",
   "headline": "Junior Content Marketing Specialist",
-  "email": "c020.936@example.test",
-  "phone": "+00 000 916 165",
+  "email": "c020.646@example.test",
+  "phone": "+00 000 605 606",
   "location": "Toronto, Canada",
-  "summary": "Detail-oriented Content Marketing Specialist with 2 years of experience developing SEO-driven content strategies and engaging copy for digital platforms. Skilled in keyword research, content planning, and analytics-driven optimization to grow organic traffic and audience engagement.",
+  "summary": "Junior content marketer with 2 years of experience developing SEO-driven content strategies for B2C brands. Skilled in blog writing, keyword research, and content calendar management. Passionate about crafting engaging narratives that improve organic visibility and audience engagement.",
   "skills": [
     "Content Strategy",
     "SEO",
@@ -14,47 +14,45 @@
     "WordPress",
     "Social Media Marketing",
     "Keyword Research",
-    "Content Calendar Management",
-    "Basic HTML"
+    "Content Calendar Management"
   ],
   "experience": [
     {
-      "company_name": "Northbridge Digital Co.",
+      "company_name": "Northline Media Co.",
       "role": "Content Marketing Coordinator",
       "location": "Toronto, Canada",
       "start_year": 2023,
       "end_year": null,
       "responsibilities": [
-        "Develop and execute content strategies to improve organic search rankings",
-        "Conduct keyword research and on-page SEO optimization for blog posts and landing pages",
-        "Collaborate with design team to produce engaging visual and written content",
-        "Monitor content performance using Google Analytics and adjust strategy accordingly",
-        "Assist in managing editorial calendar and publishing schedules"
+        "Develop and execute monthly content calendars aligned with SEO goals",
+        "Conduct keyword research to identify content opportunities",
+        "Write and edit blog posts, landing pages, and email newsletters",
+        "Collaborate with design team to produce visual content assets",
+        "Monitor content performance using Google Analytics and adjust strategy accordingly"
       ],
       "technologies": [
         "WordPress",
         "Google Analytics",
         "SEMrush",
-        "Yoast SEO"
+        "Mailchimp"
       ]
     },
     {
-      "company_name": "Maple Leaf Media Group",
+      "company_name": "Brightpath Digital Studio",
       "role": "Marketing Intern",
       "location": "Toronto, Canada",
       "start_year": 2022,
       "end_year": 2023,
       "responsibilities": [
-        "Supported content creation for blog and social media channels",
-        "Assisted with basic SEO audits and keyword research",
-        "Helped compile monthly performance reports for marketing campaigns",
-        "Drafted email newsletters and promotional content"
+        "Assisted in drafting social media captions and blog drafts",
+        "Supported on-page SEO audits for client websites",
+        "Compiled monthly performance reports for content campaigns",
+        "Helped coordinate influencer outreach for product launches"
       ],
       "technologies": [
-        "Canva",
-        "Mailchimp",
+        "Hootsuite",
         "Google Search Console",
-        "Hootsuite"
+        "Canva"
       ]
     }
   ],

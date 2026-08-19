@@ -3,76 +3,76 @@
   "name": "Nomvula Dlamini",
   "headline": "Senior People Operations Manager",
   "email": "c024.886@example.test",
-  "phone": "+00 000 596 194",
+  "phone": "+00 000 533 948",
   "location": "Cape Town, South Africa",
-  "summary": "Senior People Operations professional with 8 years of experience driving recruiting strategy, HRIS implementation, and people analytics initiatives across mid-size and scaling organisations. Skilled at partnering with leadership to build data-informed workforce plans, streamline onboarding, and improve retention through evidence-based HR practices.",
+  "summary": "Senior People Operations professional with 8 years of experience leading recruiting, HRIS implementation, and people analytics initiatives across mid-sized organizations. Skilled at building scalable HR processes, partnering with leadership on workforce planning, and using data-driven insights to improve retention and employee experience.",
   "skills": [
     "Recruiting",
     "HRIS",
     "People Analytics",
-    "Employee Relations",
     "Onboarding Design",
-    "Compensation Benchmarking",
-    "Workday",
+    "Employee Relations",
+    "Workforce Planning",
+    "Payroll Coordination",
     "Performance Management",
-    "Stakeholder Management",
-    "Change Management"
+    "Compliance & Labour Law",
+    "Stakeholder Management"
   ],
   "experience": [
     {
-      "company_name": "Karoo Digital Solutions",
+      "company_name": "Kestrel Dynamics",
       "role": "Senior People Operations Manager",
       "location": "Cape Town, South Africa",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead end-to-end recruiting strategy for technical and commercial roles across the organisation",
-        "Own the HRIS platform, ensuring accurate employee data and streamlined workflows",
-        "Build people analytics dashboards to track attrition, hiring velocity, and engagement trends",
-        "Partner with department heads on workforce planning and headcount forecasting",
-        "Manage a team of two HR coordinators and mentor junior recruiters"
+        "Lead end-to-end recruiting strategy for technical and commercial roles across three regional offices",
+        "Oversee HRIS platform administration, ensuring data accuracy and system optimization",
+        "Build people analytics dashboards to track attrition, engagement, and hiring funnel metrics",
+        "Partner with senior leadership on org design and workforce planning initiatives",
+        "Manage a team of two HR generalists and mentor junior recruiters"
       ],
       "technologies": [
-        "Workday",
+        "BambooHR",
+        "Power BI",
         "Greenhouse",
-        "Tableau",
-        "Excel"
+        "Workday"
       ]
     },
     {
-      "company_name": "Table Bay Logistics Group",
-      "role": "HR Business Partner",
+      "company_name": "Solstice Retail Group",
+      "role": "HR Operations Lead",
       "location": "Cape Town, South Africa",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Supported recruiting cycles for operations and warehouse staff across three sites",
-        "Administered HRIS records and resolved employee data discrepancies",
-        "Generated monthly people analytics reports for regional leadership",
-        "Facilitated employee relations cases and performance improvement plans",
-        "Coordinated onboarding programs for new hires"
+        "Managed full-cycle recruiting for retail and corporate positions nationwide",
+        "Administered HRIS system migrations and maintained employee records",
+        "Developed people analytics reports for quarterly leadership reviews",
+        "Coordinated onboarding programs and improved new-hire retention rates",
+        "Handled employee relations cases and disciplinary processes"
       ],
       "technologies": [
         "SAP SuccessFactors",
         "Excel",
-        "Power BI"
+        "LinkedIn Recruiter"
       ]
     },
     {
-      "company_name": "Atlantic Coast Retail Ltd",
+      "company_name": "Coastal Harbor Logistics",
       "role": "HR Generalist",
       "location": "Cape Town, South Africa",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Assisted with recruitment coordination including scheduling and candidate communication",
-        "Maintained employee records within the company HRIS system",
-        "Supported payroll input verification and benefits administration",
-        "Helped organise employee engagement surveys and compiled basic reports"
+        "Supported recruiting efforts for operations and warehouse staff",
+        "Maintained HRIS records and processed employee lifecycle changes",
+        "Assisted with payroll input and benefits administration",
+        "Compiled basic HR reports for management review"
       ],
       "technologies": [
         "Sage HR",
-        "Excel"
+        "Microsoft Excel"
       ]
     }
   ],
@@ -80,13 +80,13 @@
     {
       "institution": "University of Cape Town",
       "degree": "Bachelor of Commerce",
-      "field": "Human Resources Management",
+      "field": "Human Resource Management",
       "graduation_year": 2016
     }
   ],
   "languages": [
     "English - Native",
     "Afrikaans - B2",
-    "Xhosa - C1"
+    "Zulu - B1"
   ]
 }

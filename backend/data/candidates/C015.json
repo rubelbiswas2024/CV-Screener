@@ -1,37 +1,36 @@
 {
   "candidate_id": "C015",
-  "name": "Chidinma Okonkwo",
+  "name": "Chidera Okonkwo",
   "headline": "Backend Engineer | Node.js & PostgreSQL Specialist",
-  "email": "c015.675@example.test",
-  "phone": "+00 000 694 857",
+  "email": "c015.588@example.test",
+  "phone": "+00 000 216 461",
   "location": "Lagos, Nigeria",
-  "summary": "Backend Engineer with 5 years of experience designing and maintaining scalable server-side applications using Node.js, Express, and PostgreSQL. Skilled in building RESTful APIs, optimizing database performance, and collaborating with cross-functional teams to deliver reliable software solutions in fast-paced environments.",
+  "summary": "Backend Engineer with 5 years of experience designing and maintaining scalable server-side applications and RESTful APIs. Skilled in Node.js, Express, and PostgreSQL, with a strong focus on writing clean, maintainable code and optimizing database performance. Experienced in collaborating with cross-functional teams to deliver reliable backend systems for fintech and e-commerce platforms.",
   "skills": [
     "Node.js",
     "Express",
     "PostgreSQL",
-    "JavaScript",
-    "TypeScript",
-    "REST APIs",
     "Docker",
+    "REST APIs",
     "Redis",
     "Git",
     "AWS",
-    "Jest"
+    "Jest",
+    "TypeScript"
   ],
   "experience": [
     {
-      "company_name": "Zenith Digital Solutions",
+      "company_name": "Zaneta Technologies",
       "role": "Backend Engineer",
       "location": "Lagos, Nigeria",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Design and maintain RESTful APIs using Node.js and Express for a fintech platform",
-        "Optimize PostgreSQL queries and database schemas to improve response times",
+        "Design and maintain RESTful APIs using Node.js and Express for a fintech payment platform",
+        "Optimize PostgreSQL queries and database schemas to improve application performance",
+        "Implement caching strategies with Redis to reduce API response times",
         "Collaborate with frontend engineers to integrate backend services",
-        "Implement caching strategies using Redis to reduce database load",
-        "Conduct code reviews and mentor junior developers on backend best practices"
+        "Write unit and integration tests using Jest to ensure code reliability"
       ],
       "technologies": [
         "Node.js",
@@ -39,11 +38,11 @@
         "PostgreSQL",
         "Redis",
         "Docker",
-        "AWS"
+        "Jest"
       ]
     },
     {
-      "company_name": "BrightWave Technologies",
+      "company_name": "Brightpath Digital Solutions",
       "role": "Backend Developer",
       "location": "Lagos, Nigeria",
       "start_year": 2020,
@@ -51,35 +50,35 @@
       "responsibilities": [
         "Developed backend services for an e-commerce platform using Node.js and Express",
         "Designed and maintained PostgreSQL database schemas for product and order management",
-        "Implemented authentication and authorization using JWT",
-        "Wrote unit and integration tests to ensure code reliability",
-        "Participated in agile ceremonies and sprint planning"
+        "Built authentication and authorization modules using JWT",
+        "Deployed applications using Docker containers on AWS EC2",
+        "Participated in code reviews and agile sprint planning"
       ],
       "technologies": [
         "Node.js",
         "Express",
         "PostgreSQL",
         "JWT",
-        "Jest",
-        "Git"
+        "Docker",
+        "AWS"
       ]
     },
     {
-      "company_name": "Codeline Systems",
+      "company_name": "Kolapo Systems Ltd",
       "role": "Junior Backend Developer",
       "location": "Lagos, Nigeria",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
-        "Assisted in building and maintaining internal tools using Node.js",
-        "Wrote SQL queries and basic database migrations",
-        "Fixed bugs and implemented minor features under senior developer guidance",
-        "Documented API endpoints for internal use"
+        "Assisted in building internal APIs using Node.js for inventory management tools",
+        "Wrote SQL queries and maintained data integrity in PostgreSQL databases",
+        "Fixed bugs and implemented minor feature enhancements under senior developer guidance",
+        "Documented API endpoints for internal team use"
       ],
       "technologies": [
         "Node.js",
         "Express",
-        "MySQL",
+        "PostgreSQL",
         "Git"
       ]
     }
@@ -93,8 +92,7 @@
     }
   ],
   "languages": [
-    "English - C2",
-    "Yoruba - Native",
-    "French - B1"
+    "English - C1",
+    "Yoruba - Native"
   ]
 }

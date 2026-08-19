@@ -7,7 +7,8 @@ Basically it does 3 things:
 
 1. Generates fake candidate CVs (text + photo + PDF) using an LLM.
 2. Loads those CV PDFs, splits them into chunks, and stores them in a local
-   vector database (Chroma).
+   vector database (Chroma) — built automatically the first time you ask a
+   question.
 3. Lets you ask questions like "who knows Python?" and it searches the CVs
    and answers based only on what's actually in them.
 
@@ -28,15 +29,16 @@ CV-Screener/
 - Python 3.11+
 - Node.js and npm
 - An Anthropic API key (for generating CV text and answering questions)
-- An OpenRouter API key (for generating the candidate photos)
+
+Candidate photos are generated with [Pollinations](https://pollinations.ai), a
+free image API — no key or billing needed.
 
 ## Setup
 
-Copy `.env.example` to `.env` and put your API keys in it:
+Copy `.env.example` to `.env` and put your API key in it:
 
 ```
 ANTHROPIC_API_KEY=...
-OPENROUTER_API_KEY=...
 ```
 
 There are a few other settings in there too (model names, folder paths,
@@ -62,23 +64,24 @@ npm install
 ### 1. Generate the fake CVs (optional)
 
 Only needed if you don't already have CVs in `backend/data/resumes`. This calls
-the paid APIs so it costs a bit of money.
+the Anthropic API for the CV text (costs a bit of money) and the free
+Pollinations API for the candidate photos.
 
 ```
 cd backend
 .venv\Scripts\python.exe -m app.generation.generate_cvs
 ```
 
-### 2. Build the search index
+### 2. Build the search index (optional)
 
-This reads the CV PDFs and puts them into the local vector database. It's
-free, runs locally.
+The app builds the index itself the first time you ask a question, if it's
+missing. You only need to run this manually when you want to force a full
+rebuild (e.g. after changing or replacing the CV PDFs) — it wipes the old
+index and rebuilds it from scratch. It's free, runs locally.
 
 ```
 .venv\Scripts\python.exe -m app.ingestion.cv_ingest
 ```
-
-Run this again whenever you add/change the CV PDFs.
 
 ### 3. Ask questions
 
@@ -120,7 +123,8 @@ These are just local tests, no API calls needed.
 
 - **"Failed to fetch" on the web page** → the backend isn't running. Check
   the uvicorn terminal is still open.
-- **"I could not find relevant information..."** → the search index is
-  empty, run step 2 again.
+- **"I could not find relevant information..."** → the search index has no
+  matching CVs. Make sure there are PDFs in `backend/data/resumes`, then run
+  step 2 to force a full rebuild.
 - **Port already used** → close whatever is using port 8000 or 5173, or
   change the port and update it in `frontend_chat_interface/src/App.jsx`.

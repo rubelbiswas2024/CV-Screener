@@ -2,10 +2,7 @@ from pydantic import BaseModel, Field
 
 
 class CandidateExperience(BaseModel):
-    """
-    Represents a candidate's professional experience, including their role,
-    company info, responsibilities, and the technologies used.
-    """
+    """Represents a candidate's professional experience: role, company info, responsibilities, and technologies used."""
     company_name: str
     role: str
     location: str

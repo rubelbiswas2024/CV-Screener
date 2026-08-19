@@ -5,19 +5,12 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
-    """
-    Application configuration loaded from environment variables and .env files.
-
-    Contains settings for OpenRouter models, resumes and candidate data directories,
-    vector database, document chunking, retrieval, and logging.
-    """
+    """Application configuration loaded from environment variables and .env files."""
 
     anthropic_api_key: str
     llm_model: str = "claude-opus-5"
 
-    openrouter_api_key: str
-    openrouter_base_url: str = "https://openrouter.ai/api/v1"
-    image_model: str = "google/gemini-3.1-flash-lite-image"
+    image_model: str = "flux"
 
     embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
 
@@ -45,8 +38,5 @@ class Settings(BaseSettings):
 
 @lru_cache
 def get_settings() -> Settings:
-    """
-    App settings: The lru_cache decorator confirms that the Settings object is created
-    only once and the same instance is reused throughout the app.
-    """
+    """App settings: the lru_cache decorator confirms the Settings object is created only once and reused."""
     return Settings()

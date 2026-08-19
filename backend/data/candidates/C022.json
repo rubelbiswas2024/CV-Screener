@@ -1,22 +1,21 @@
 {
   "candidate_id": "C022",
-  "name": "Mariel Santos Cruz",
+  "name": "Maria Isabel Santos",
   "headline": "Customer Success Specialist",
-  "email": "c022.465@example.test",
-  "phone": "+00 000 705 508",
+  "email": "c022.751@example.test",
+  "phone": "+00 000 178 851",
   "location": "Manila, Philippines",
-  "summary": "Customer Success professional with 4 years of experience managing client onboarding, retention, and support operations for SaaS companies. Skilled in using CRM and helpdesk tools to streamline customer journeys and improve satisfaction scores. Passionate about building long-term client relationships and driving product adoption.",
+  "summary": "Customer Success professional with 4 years of experience managing client onboarding, retention, and support operations for SaaS companies. Skilled in CRM administration and helpdesk tools, with a strong focus on improving customer satisfaction and reducing churn through proactive engagement strategies.",
   "skills": [
     "Onboarding",
     "CRM",
     "Zendesk",
     "Customer Retention",
-    "Salesforce",
     "Account Management",
+    "Salesforce",
     "Data Analysis",
-    "Client Communication",
-    "Process Improvement",
-    "HubSpot"
+    "Communication",
+    "Client Training"
   ],
   "experience": [
     {
@@ -26,11 +25,11 @@
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Manage onboarding process for new enterprise clients, ensuring smooth product adoption",
-        "Serve as primary point of contact for a portfolio of 40+ accounts",
-        "Monitor customer health scores using CRM and proactively address churn risks",
-        "Collaborate with product and support teams to resolve escalated tickets via Zendesk",
-        "Conduct quarterly business reviews to identify upsell opportunities"
+        "Manage end-to-end onboarding process for new enterprise clients",
+        "Serve as primary point of contact for a portfolio of 50+ accounts",
+        "Monitor customer health scores and proactively address churn risks",
+        "Collaborate with product team to relay client feedback for feature improvements",
+        "Conduct quarterly business reviews with key accounts"
       ],
       "technologies": [
         "Zendesk",
@@ -40,37 +39,21 @@
       ]
     },
     {
-      "company_name": "NimbusTech Philippines",
-      "role": "Customer Support & Onboarding Associate",
-      "location": "Manila, Philippines",
+      "company_name": "Novatech Systems Inc.",
+      "role": "Customer Support Associate",
+      "location": "Quezon City, Philippines",
       "start_year": 2021,
       "end_year": 2022,
       "responsibilities": [
-        "Guided new customers through initial product setup and training sessions",
-        "Responded to customer inquiries and resolved technical issues using Zendesk",
-        "Maintained accurate customer records and interaction history in CRM system",
-        "Assisted in creating onboarding documentation and FAQ resources"
+        "Responded to customer inquiries via email, chat, and phone using Zendesk",
+        "Assisted in onboarding new customers by guiding them through platform setup",
+        "Maintained accurate customer records within CRM system",
+        "Escalated complex technical issues to engineering team"
       ],
       "technologies": [
         "Zendesk",
-        "HubSpot",
-        "Trello"
-      ]
-    },
-    {
-      "company_name": "Vertex Outsourcing Group",
-      "role": "Customer Service Representative",
-      "location": "Manila, Philippines",
-      "start_year": 2020,
-      "end_year": 2021,
-      "responsibilities": [
-        "Handled inbound customer queries for a US-based telecom client",
-        "Logged and tracked customer issues in internal CRM software",
-        "Achieved consistent monthly customer satisfaction targets"
-      ],
-      "technologies": [
-        "Zoho CRM",
-        "Avaya"
+        "HubSpot CRM",
+        "Excel"
       ]
     }
   ],
@@ -79,7 +62,7 @@
       "institution": "University of the Philippines",
       "degree": "Bachelor of Science",
       "field": "Business Administration",
-      "graduation_year": 2020
+      "graduation_year": 2021
     }
   ],
   "languages": [

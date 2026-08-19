@@ -1,11 +1,11 @@
 {
   "candidate_id": "C016",
   "name": "Wanjiru Kamau",
-  "headline": "Mid-Level QA / Test Automation Engineer",
-  "email": "c016.385@example.test",
-  "phone": "+00 000 284 882",
+  "headline": "QA / Test Automation Engineer",
+  "email": "c016.203@example.test",
+  "phone": "+00 000 652 966",
   "location": "Nairobi, Kenya",
-  "summary": "Detail-oriented QA Automation Engineer with 5 years of experience designing and maintaining automated test suites for web and API applications. Skilled in Python-based Selenium frameworks and integrating automated testing into CI/CD pipelines to improve release quality and speed.",
+  "summary": "QA Automation Engineer with 5 years of experience designing and maintaining automated test frameworks for web and API applications. Skilled in Selenium and Python, with hands-on experience integrating test suites into CI/CD pipelines to improve release quality and speed. Strong collaborator with cross-functional development teams in agile environments.",
   "skills": [
     "Selenium",
     "Python",
@@ -15,22 +15,22 @@
     "API Testing",
     "Git",
     "Docker",
-    "Test Case Design",
+    "Postman",
     "SQL"
   ],
   "experience": [
     {
-      "company_name": "Savannah Tech Solutions",
+      "company_name": "Savanna Digital Solutions",
       "role": "QA Automation Engineer",
       "location": "Nairobi, Kenya",
-      "start_year": 2022,
+      "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Design and maintain Selenium-based automated test scripts using Python for web applications",
-        "Integrate automated test suites into Jenkins CI/CD pipelines to enable continuous testing",
-        "Collaborate with developers to identify and reproduce defects during sprint cycles",
-        "Conduct API testing using Postman and Python requests library",
-        "Mentor junior QA interns on automation best practices"
+        "Design and maintain Selenium-based automated test suites for web applications",
+        "Integrate automated tests into Jenkins CI/CD pipelines to support continuous delivery",
+        "Collaborate with developers to identify and troubleshoot defects early in the development cycle",
+        "Write and execute API test cases using Postman and Python requests library",
+        "Mentor junior QA staff on automation best practices"
       ],
       "technologies": [
         "Selenium",
@@ -42,40 +42,40 @@
       ]
     },
     {
-      "company_name": "Nairobi Digital Systems",
-      "role": "Junior QA Engineer",
+      "company_name": "Rift Valley Tech Systems",
+      "role": "QA Engineer",
       "location": "Nairobi, Kenya",
-      "start_year": 2020,
-      "end_year": 2022,
+      "start_year": 2019,
+      "end_year": 2021,
       "responsibilities": [
-        "Executed manual and automated regression tests for e-commerce platform releases",
-        "Wrote test cases and maintained test documentation in TestRail",
-        "Assisted in setting up initial Selenium automation framework using Python",
-        "Reported and tracked bugs using Jira, collaborating with development team on fixes"
+        "Executed manual and automated regression testing for e-commerce platform releases",
+        "Developed Python scripts using Pytest to automate repetitive test cases",
+        "Participated in sprint planning and reported defects using JIRA",
+        "Assisted in setting up initial CI/CD workflows for test automation"
       ],
       "technologies": [
-        "Selenium",
         "Python",
-        "Jira",
-        "TestRail",
+        "Pytest",
+        "Selenium",
+        "JIRA",
         "MySQL"
       ]
     },
     {
-      "company_name": "Equator Software Labs",
-      "role": "QA Intern",
+      "company_name": "Nairobi Software Hub",
+      "role": "Junior QA Analyst",
       "location": "Nairobi, Kenya",
-      "start_year": 2019,
-      "end_year": 2020,
+      "start_year": 2018,
+      "end_year": 2019,
       "responsibilities": [
-        "Performed manual testing on web application modules following test plans",
-        "Logged defects and verified fixes across multiple test cycles",
-        "Supported senior QA staff in preparing test data and environment setup"
+        "Performed manual functional testing of internal business applications",
+        "Logged and tracked bugs using test management tools",
+        "Supported senior QA staff in creating test plans and test cases"
       ],
       "technologies": [
-        "Selenium",
         "Excel",
-        "Jira"
+        "TestRail",
+        "SQL"
       ]
     }
   ],
@@ -83,8 +83,8 @@
     {
       "institution": "University of Nairobi",
       "degree": "Bachelor of Science",
-      "field": "Computer Science",
-      "graduation_year": 2019
+      "field": "Information Technology",
+      "graduation_year": 2018
     }
   ],
   "languages": [

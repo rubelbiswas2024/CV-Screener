@@ -1,79 +1,64 @@
 {
   "candidate_id": "C007",
-  "name": "Marta Wisniewska",
-  "headline": "Data Engineer",
-  "email": "c007.151@example.test",
-  "phone": "+00 000 423 334",
+  "name": "Michał Kowalczyk",
+  "headline": "Data Engineer | Python, Airflow, GCP",
+  "email": "c007.661@example.test",
+  "phone": "+00 000 977 300",
   "location": "Warsaw, Poland",
-  "summary": "Data Engineer with 5 years of experience building and maintaining scalable data pipelines on GCP. Skilled in Python, SQL, and Airflow orchestration, with a strong focus on data quality and reliable ETL processes for analytics teams.",
+  "summary": "Data Engineer with 5 years of experience designing and maintaining scalable ETL pipelines and cloud-based data infrastructure. Skilled in building automated workflows with Airflow, optimizing SQL-based data models, and deploying data solutions on Google Cloud Platform. Focused on delivering reliable, well-documented data systems that support analytics and business decision-making.",
   "skills": [
     "Python",
     "Airflow",
     "SQL",
     "GCP",
     "BigQuery",
-    "Docker",
-    "Terraform",
     "dbt",
+    "Docker",
     "Kafka",
+    "Terraform",
     "Git"
   ],
   "experience": [
     {
-      "company_name": "Nexbyte Solutions",
+      "company_name": "Vistula Data Solutions",
       "role": "Data Engineer",
       "location": "Warsaw, Poland",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Design and maintain ETL pipelines using Airflow and Python for ingesting data from multiple sources",
-        "Optimize BigQuery datasets and SQL queries to improve reporting performance",
-        "Collaborate with analytics team to define data models and ensure data quality",
-        "Migrate legacy on-premise batch jobs to GCP-based cloud infrastructure"
+        "Design and maintain Airflow DAGs for daily ETL pipelines processing transactional and event data",
+        "Develop Python scripts for data extraction, transformation, and validation across multiple source systems",
+        "Optimize BigQuery SQL queries to improve pipeline performance and reduce processing costs",
+        "Collaborate with analytics team to define data models supporting reporting dashboards",
+        "Implement monitoring and alerting for pipeline failures using Cloud Monitoring"
       ],
       "technologies": [
         "Python",
         "Airflow",
-        "GCP",
         "BigQuery",
+        "GCP",
         "SQL",
         "Docker"
       ]
     },
     {
-      "company_name": "Cloudmill Analytics",
+      "company_name": "Nordic Analytics Group",
       "role": "Junior Data Engineer",
       "location": "Warsaw, Poland",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Built and scheduled data ingestion scripts in Python for internal reporting systems",
-        "Assisted senior engineers in developing Airflow DAGs for daily data processing",
-        "Wrote SQL queries to support ad-hoc business analysis requests",
-        "Monitored pipeline failures and performed basic troubleshooting"
+        "Built and maintained batch data pipelines using Python and SQL for internal reporting needs",
+        "Assisted in migrating on-premise data warehouse workloads to Google Cloud Platform",
+        "Wrote unit tests and documentation for ETL processes to improve maintainability",
+        "Supported senior engineers in troubleshooting data quality issues"
       ],
       "technologies": [
         "Python",
         "SQL",
+        "GCP",
         "Airflow",
         "PostgreSQL"
-      ]
-    },
-    {
-      "company_name": "Vistula Data Labs",
-      "role": "Data Analyst Intern",
-      "location": "Warsaw, Poland",
-      "start_year": 2019,
-      "end_year": 2020,
-      "responsibilities": [
-        "Supported data cleaning and preparation tasks using Python and Excel",
-        "Created basic dashboards for internal stakeholders",
-        "Assisted in documenting data sources and transformation logic"
-      ],
-      "technologies": [
-        "Python",
-        "SQL",
-        "Excel"
       ]
     }
   ],
@@ -82,7 +67,7 @@
       "institution": "Warsaw University of Technology",
       "degree": "Bachelor of Science",
       "field": "Computer Science",
-      "graduation_year": 2019
+      "graduation_year": 2020
     }
   ],
   "languages": [

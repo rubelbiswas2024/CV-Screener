@@ -1,36 +1,36 @@
 {
   "candidate_id": "C009",
-  "name": "Camille Moreau",
+  "name": "Camille Fontaine",
   "headline": "Senior Product Manager | Product Strategy & Growth",
-  "email": "c009.674@example.test",
-  "phone": "+00 000 235 248",
+  "email": "c009.505@example.test",
+  "phone": "+00 000 178 104",
   "location": "Paris, France",
-  "summary": "Senior Product Manager with 9 years of experience driving product strategy, growth, and data-informed decision-making across B2B SaaS and marketplace platforms. Skilled at leading cross-functional teams, running rigorous A/B tests, and translating complex data into actionable roadmaps. Proven track record of launching features that improve retention and revenue.",
+  "summary": "Senior Product Manager with 9 years of experience driving product strategy, growth, and data-informed decision-making across SaaS and marketplace platforms. Skilled at leading cross-functional teams through discovery, experimentation, and scaled delivery, with a strong track record of using SQL and A/B testing to inform roadmap decisions and improve user outcomes.",
   "skills": [
     "Product Strategy",
     "SQL",
     "A/B Testing",
     "Roadmapping",
+    "Stakeholder Management",
     "User Research",
     "Agile/Scrum",
     "Data Analysis",
-    "Stakeholder Management",
-    "Pricing Strategy",
+    "Growth Strategy",
     "Figma"
   ],
   "experience": [
     {
-      "company_name": "Norvalis Digital",
+      "company_name": "Norvantis Digital",
       "role": "Senior Product Manager",
       "location": "Paris, France",
-      "start_year": 2020,
+      "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Define and own product strategy for core marketplace platform serving 500k+ monthly users",
-        "Lead A/B testing program across onboarding and checkout flows to improve conversion rates",
-        "Collaborate with engineering, design, and data science teams to prioritize quarterly roadmap",
-        "Analyze user behavior data using SQL to identify growth opportunities",
-        "Present quarterly business reviews to executive leadership"
+        "Define and own product strategy for the core subscription platform serving over 500,000 users",
+        "Lead quarterly roadmap planning in collaboration with engineering, design, and marketing teams",
+        "Design and analyze A/B tests to optimize onboarding flows and reduce churn",
+        "Write SQL queries to extract and analyze product usage data for decision-making",
+        "Mentor two junior product managers and facilitate sprint planning sessions"
       ],
       "technologies": [
         "SQL",
@@ -41,17 +41,17 @@
       ]
     },
     {
-      "company_name": "Lumira Tech",
+      "company_name": "Bellune Tech",
       "role": "Product Manager",
       "location": "Paris, France",
-      "start_year": 2017,
-      "end_year": 2020,
+      "start_year": 2018,
+      "end_year": 2021,
       "responsibilities": [
-        "Managed product lifecycle for B2B SaaS analytics dashboard",
-        "Conducted user interviews and translated findings into feature specifications",
-        "Ran A/B tests on pricing page to optimize sign-up conversion",
-        "Partnered with sales and customer success to gather product feedback",
-        "Maintained product backlog and coordinated sprint planning with engineering"
+        "Managed the product lifecycle for a B2B marketplace feature set from ideation to launch",
+        "Conducted user interviews and synthesized findings into actionable product requirements",
+        "Collaborated with data analysts to design experiments and interpret A/B test results",
+        "Partnered with engineering leads to prioritize backlog based on business impact",
+        "Presented product performance metrics to executive stakeholders quarterly"
       ],
       "technologies": [
         "SQL",
@@ -61,19 +61,20 @@
       ]
     },
     {
-      "company_name": "Belvora Solutions",
+      "company_name": "Cassian Ventures",
       "role": "Associate Product Manager",
       "location": "Paris, France",
       "start_year": 2015,
-      "end_year": 2017,
+      "end_year": 2018,
       "responsibilities": [
-        "Supported senior PMs in defining requirements for mobile application features",
-        "Performed competitive analysis and market research to inform product decisions",
-        "Assisted in writing user stories and acceptance criteria for development team",
-        "Tracked key product metrics and prepared weekly performance reports"
+        "Supported senior PMs in gathering requirements and writing user stories",
+        "Analyzed customer feedback and usage data to identify improvement opportunities",
+        "Assisted in coordinating cross-functional launches for new feature releases",
+        "Tracked KPIs and prepared reporting dashboards for leadership review"
       ],
       "technologies": [
         "SQL",
+        "Excel",
         "Google Analytics",
         "Trello"
       ]
@@ -83,7 +84,7 @@
     {
       "institution": "HEC Paris",
       "degree": "Master in Management",
-      "field": "Marketing and Strategy",
+      "field": "Marketing and Innovation",
       "graduation_year": 2015
     }
   ],

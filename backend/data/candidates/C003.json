@@ -1,80 +1,82 @@
 {
   "candidate_id": "C003",
-  "name": "Marta Sánchez Ibáñez",
+  "name": "Laura Fernández Ortega",
   "headline": "Senior Data Scientist",
-  "email": "c003.411@example.test",
-  "phone": "+00 000 408 942",
+  "email": "c003.574@example.test",
+  "phone": "+00 000 526 282",
   "location": "Madrid, Spain",
-  "summary": "Senior Data Scientist with 8 years of experience building machine learning solutions for e-commerce and fintech sectors. Skilled in end-to-end model development, from data pipeline design to production deployment, with a strong focus on delivering measurable business impact.",
+  "summary": "Senior Data Scientist with 8 years of experience designing and deploying machine learning solutions across finance and retail sectors. Skilled in building end-to-end ML pipelines, from data engineering to production deployment, with a strong focus on delivering measurable business impact.",
   "skills": [
     "Python",
     "Machine Learning",
     "SQL",
+    "Deep Learning",
     "Scikit-learn",
     "TensorFlow",
     "Data Visualization",
     "Docker",
     "AWS",
-    "Statistical Modeling",
-    "Git"
+    "Statistical Modeling"
   ],
   "experience": [
     {
-      "company_name": "Nortiva Analytics",
+      "company_name": "Veridata Solutions",
       "role": "Senior Data Scientist",
       "location": "Madrid, Spain",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
         "Lead development of predictive models for customer churn and demand forecasting",
-        "Mentor junior data scientists and review model design and code quality",
-        "Collaborate with engineering teams to deploy ML models into production using Docker and AWS",
-        "Present findings and recommendations to senior stakeholders"
-      ],
-      "technologies": [
-        "Python",
-        "SQL",
-        "TensorFlow",
-        "Docker",
-        "AWS",
-        "Airflow"
-      ]
-    },
-    {
-      "company_name": "Bluepeak Solutions",
-      "role": "Data Scientist",
-      "location": "Madrid, Spain",
-      "start_year": 2018,
-      "end_year": 2021,
-      "responsibilities": [
-        "Developed classification and regression models for credit risk assessment",
-        "Built ETL pipelines to consolidate data from multiple internal sources",
-        "Performed exploratory data analysis and feature engineering to improve model accuracy",
-        "Automated reporting dashboards using Python and SQL"
+        "Design and maintain ML pipelines using Python and SQL for data extraction and transformation",
+        "Mentor junior data scientists on best practices in model development and evaluation",
+        "Collaborate with engineering teams to deploy models into production environments",
+        "Present analytical findings to stakeholders to support strategic decision-making"
       ],
       "technologies": [
         "Python",
         "SQL",
         "Scikit-learn",
+        "TensorFlow",
+        "Docker",
+        "AWS"
+      ]
+    },
+    {
+      "company_name": "NovaBank Analytics",
+      "role": "Data Scientist",
+      "location": "Madrid, Spain",
+      "start_year": 2018,
+      "end_year": 2021,
+      "responsibilities": [
+        "Developed credit risk scoring models using machine learning techniques",
+        "Built automated ETL processes to consolidate data from multiple banking systems",
+        "Conducted exploratory data analysis to identify trends in customer behavior",
+        "Optimized SQL queries for large-scale financial datasets"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
         "Pandas",
+        "Scikit-learn",
         "Tableau"
       ]
     },
     {
-      "company_name": "Vertice Data Labs",
+      "company_name": "Insightia Consulting",
       "role": "Junior Data Analyst",
       "location": "Madrid, Spain",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Assisted in cleaning and preparing datasets for analysis",
-        "Created basic statistical reports for internal business teams",
-        "Supported senior analysts in building visualizations and dashboards"
+        "Assisted in building dashboards for client reporting using SQL and visualization tools",
+        "Cleaned and preprocessed datasets for analytical projects",
+        "Supported senior analysts in statistical analysis and reporting"
       ],
       "technologies": [
         "SQL",
         "Excel",
-        "Python"
+        "Python",
+        "Power BI"
       ]
     }
   ],

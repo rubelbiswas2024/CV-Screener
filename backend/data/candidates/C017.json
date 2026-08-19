@@ -1,11 +1,11 @@
 {
   "candidate_id": "C017",
-  "name": "Diego Alejandro Ramírez Solís",
+  "name": "Mariana Torres Delgado",
   "headline": "Senior Full-Stack Engineer",
-  "email": "c017.989@example.test",
-  "phone": "+00 000 934 181",
+  "email": "c017.426@example.test",
+  "phone": "+00 000 770 751",
   "location": "Mexico City, Mexico",
-  "summary": "Senior Full-Stack Engineer with 7 years of experience building scalable web applications using React, Node.js, and AWS. Skilled in leading feature development, mentoring junior engineers, and designing cloud-native architectures for high-traffic platforms.",
+  "summary": "Senior Full-Stack Engineer with 7 years of experience building scalable web applications using React, Node.js, and AWS. Skilled in leading feature development, mentoring junior engineers, and designing cloud-native architectures for high-traffic products.",
   "skills": [
     "React",
     "Node.js",
@@ -16,21 +16,21 @@
     "Docker",
     "CI/CD",
     "Redis",
-    "MongoDB"
+    "Microservices"
   ],
   "experience": [
     {
-      "company_name": "Nubelix Technologies",
+      "company_name": "Nexova Digital",
       "role": "Senior Full-Stack Engineer",
       "location": "Mexico City, Mexico",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead development of microservices-based platform using Node.js and AWS Lambda",
-        "Architected and maintained React-based front-end applications with TypeScript",
-        "Mentored junior and mid-level engineers on best practices and code reviews",
-        "Implemented CI/CD pipelines using GitHub Actions and AWS CodePipeline",
-        "Collaborated with product managers to define technical requirements"
+        "Lead development of customer-facing web platform using React and Node.js",
+        "Design and maintain AWS infrastructure including Lambda, ECS, and RDS",
+        "Mentor mid-level engineers and conduct code reviews",
+        "Collaborate with product managers to define technical requirements",
+        "Implement CI/CD pipelines to streamline deployments"
       ],
       "technologies": [
         "React",
@@ -42,42 +42,41 @@
       ]
     },
     {
-      "company_name": "Vantia Software Solutions",
-      "role": "Full-Stack Developer",
+      "company_name": "Bluewave Software",
+      "role": "Full-Stack Engineer",
       "location": "Mexico City, Mexico",
       "start_year": 2019,
       "end_year": 2021,
       "responsibilities": [
-        "Developed RESTful APIs using Node.js and Express for internal business tools",
-        "Built responsive UI components with React and Redux",
-        "Migrated legacy systems to AWS EC2 and S3 infrastructure",
-        "Optimized database queries in PostgreSQL to improve response times"
+        "Developed RESTful APIs and backend services with Node.js and Express",
+        "Built responsive front-end interfaces using React and Redux",
+        "Integrated third-party payment and messaging APIs",
+        "Optimized database queries to improve application performance"
       ],
       "technologies": [
         "React",
         "Node.js",
-        "AWS",
+        "MongoDB",
         "Express",
-        "Redux",
-        "PostgreSQL"
+        "AWS"
       ]
     },
     {
-      "company_name": "Coderia Labs",
-      "role": "Junior Web Developer",
+      "company_name": "Codeforma Solutions",
+      "role": "Junior Software Developer",
       "location": "Mexico City, Mexico",
       "start_year": 2017,
       "end_year": 2019,
       "responsibilities": [
-        "Assisted in building front-end features using JavaScript and React",
-        "Supported backend development tasks with Node.js",
-        "Wrote unit tests and participated in code reviews",
-        "Collaborated with design team to implement UI/UX improvements"
+        "Assisted in building internal tools using JavaScript and React",
+        "Fixed bugs and implemented small features under senior guidance",
+        "Wrote unit tests to improve code reliability",
+        "Participated in agile sprint planning and daily standups"
       ],
       "technologies": [
+        "JavaScript",
         "React",
         "Node.js",
-        "JavaScript",
         "MySQL"
       ]
     }

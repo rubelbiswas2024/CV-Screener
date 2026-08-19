@@ -1,5 +1,5 @@
 from pathlib import Path
-import fitz
+import pymupdf
 from langchain_core.documents import Document
 
 
@@ -11,7 +11,7 @@ class CVLoader:
 
         result = []
         candidate_id = path.stem
-        pdf = fitz.open(path)
+        pdf = pymupdf.open(path)
 
         try:
 

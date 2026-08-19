@@ -1,11 +1,11 @@
 {
   "candidate_id": "C011",
-  "name": "Giulia Ferrante",
-  "headline": "Product Designer | UX & Design Systems Specialist",
-  "email": "c011.293@example.test",
-  "phone": "+00 000 335 662",
+  "name": "Giulia Ferraresi",
+  "headline": "Product Designer | UX/UI & Design Systems",
+  "email": "c011.992@example.test",
+  "phone": "+00 000 672 951",
   "location": "Milan, Italy",
-  "summary": "Product designer with 5 years of experience crafting user-centered digital products across fintech and e-commerce sectors. Skilled in translating user research into scalable design systems and intuitive interfaces. Passionate about collaborative, data-informed design processes that balance business goals with user needs.",
+  "summary": "Product designer with 5 years of experience crafting user-centered digital products for fintech and e-commerce companies. Skilled in translating user research into scalable design systems and intuitive interfaces. Passionate about collaborative design processes and data-informed decision making.",
   "skills": [
     "Figma",
     "Design Systems",
@@ -15,65 +15,62 @@
     "Usability Testing",
     "Wireframing",
     "Design Thinking",
-    "Sketch",
     "HTML/CSS basics"
   ],
   "experience": [
     {
-      "company_name": "Nordis Digital",
+      "company_name": "Nordica Digital",
       "role": "Product Designer",
       "location": "Milan, Italy",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Lead design system development and maintenance across web and mobile products",
-        "Conduct user research including interviews, surveys, and usability testing",
-        "Collaborate with product managers and engineers to define feature requirements",
-        "Create high-fidelity prototypes in Figma for stakeholder review",
-        "Mentor junior designers on design system best practices"
+        "Lead end-to-end design of core banking app features from research to high-fidelity prototypes",
+        "Built and maintained a comprehensive design system used across three product teams",
+        "Conducted user interviews and usability tests to validate design decisions",
+        "Collaborated closely with engineers to ensure design feasibility and consistency"
       ],
       "technologies": [
         "Figma",
-        "Zeroheight",
+        "Zeplin",
         "Maze",
-        "Notion",
-        "Jira"
+        "Notion"
       ]
     },
     {
-      "company_name": "Vantaro Studio",
+      "company_name": "Velio Studio",
       "role": "UX Designer",
       "location": "Milan, Italy",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Designed wireframes and interactive prototypes for e-commerce clients",
-        "Facilitated user testing sessions and synthesized findings into actionable insights",
-        "Contributed to establishing initial component library and style guide",
-        "Partnered with developers to ensure design implementation accuracy"
+        "Designed wireframes and prototypes for e-commerce clients across web and mobile",
+        "Facilitated user research sessions and synthesized findings into actionable insights",
+        "Contributed to establishing initial design guidelines and component libraries",
+        "Partnered with product managers to prioritize features based on user needs"
       ],
       "technologies": [
         "Sketch",
         "Figma",
         "InVision",
-        "Miro"
+        "UserTesting"
       ]
     },
     {
-      "company_name": "Bricole Interactive",
+      "company_name": "Bramante Interactive",
       "role": "Junior UX/UI Designer",
       "location": "Milan, Italy",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
         "Assisted senior designers with wireframing and visual design tasks",
-        "Supported user research efforts through note-taking and data organization",
-        "Created basic UI assets and icons for mobile applications"
+        "Supported user research activities including surveys and moderated tests",
+        "Created basic UI mockups for internal tools and client projects"
       ],
       "technologies": [
         "Adobe XD",
-        "Illustrator",
-        "Figma"
+        "Sketch",
+        "InVision"
       ]
     }
   ],
@@ -81,13 +78,12 @@
     {
       "institution": "Politecnico di Milano",
       "degree": "Master's Degree",
-      "field": "Design and Engineering",
+      "field": "Design for the Digital World",
       "graduation_year": 2019
     }
   ],
   "languages": [
     "Italian - Native",
-    "English - C1",
-    "French - B1"
+    "English - C1"
   ]
 }

@@ -16,18 +16,22 @@ class IndexBuilder:
 
     def rebuild(self) -> int:
         """Wipe the old index and rebuild it from the CV PDFs on disk."""
-        documents = self._loader.load_directory(self._settings.cv_dir)
-
-        if not documents:
-            raise RuntimeError("No CV PDFs found.")
-
-        chunks = self._chunker.split(documents)
         VectorStoreManager.clear()
         EmbeddingsProvider.clear()
 
         if self._settings.chroma_dir.exists():
             shutil.rmtree(self._settings.chroma_dir)
 
+        return self.build_if_missing()
+
+    def build_if_missing(self) -> int:
+        """Add the CV PDFs on disk to the current vector store, without wiping any existing data."""
+        documents = self._loader.load_directory(self._settings.cv_dir)
+
+        if not documents:
+            raise RuntimeError("No CV PDFs found.")
+
+        chunks = self._chunker.split(documents)
         store = VectorStoreManager.get()
         store.add_documents(chunks)
 

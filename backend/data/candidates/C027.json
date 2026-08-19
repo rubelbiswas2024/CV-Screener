@@ -1,37 +1,38 @@
 {
   "candidate_id": "C027",
-  "name": "Sebastian Hoffmann",
+  "name": "Lukas Brandner",
   "headline": "Lead AI/ML Engineer",
-  "email": "c027.160@example.test",
-  "phone": "+00 000 194 664",
+  "email": "c027.658@example.test",
+  "phone": "+00 000 964 291",
   "location": "Munich, Germany",
-  "summary": "Lead AI/ML Engineer with 10 years of experience designing and deploying machine learning systems at scale. Specialized in building agentic AI workflows, robust MLOps pipelines, and cloud-native ML infrastructure on GCP. Proven track record leading cross-functional engineering teams and mentoring junior engineers while delivering production-grade AI solutions.",
+  "summary": "Lead AI/ML Engineer with 10 years of experience designing and deploying machine learning systems at scale. Specializes in agentic workflow orchestration with LangGraph, MLOps pipeline design, and cloud-native ML infrastructure on GCP. Proven track record leading engineering teams from prototype to production while mentoring junior engineers and driving technical strategy.",
   "skills": [
     "Python",
     "LangGraph",
     "MLOps",
     "GCP",
-    "TensorFlow",
     "Kubernetes",
-    "Docker",
-    "LLM Orchestration",
+    "TensorFlow",
+    "PyTorch",
     "CI/CD",
+    "Docker",
     "Terraform",
-    "SQL"
+    "LLM Fine-tuning",
+    "Vertex AI"
   ],
   "experience": [
     {
-      "company_name": "Nordlicht Analytics GmbH",
+      "company_name": "Nordholz Analytics",
       "role": "Lead AI/ML Engineer",
       "location": "Munich, Germany",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead a team of 6 ML engineers building agentic AI applications for enterprise clients",
-        "Architect and maintain LangGraph-based multi-agent orchestration systems",
-        "Design MLOps pipelines for model training, versioning, and deployment on GCP",
-        "Establish best practices for CI/CD and monitoring of production ML services",
-        "Collaborate with product and stakeholders to define AI strategy and roadmaps"
+        "Lead a team of 6 ML engineers building agentic AI systems using LangGraph and LangChain",
+        "Define MLOps strategy including CI/CD pipelines for model training, validation, and deployment on GCP",
+        "Architect scalable inference infrastructure using Vertex AI and Kubernetes",
+        "Collaborate with product stakeholders to translate business requirements into ML solutions",
+        "Mentor junior and mid-level engineers on best practices in production ML systems"
       ],
       "technologies": [
         "Python",
@@ -39,47 +40,47 @@
         "GCP",
         "Vertex AI",
         "Kubernetes",
-        "Docker",
         "Terraform"
       ]
     },
     {
-      "company_name": "Bavarian Data Systems AG",
+      "company_name": "Baumgart Data Systems",
       "role": "Senior Machine Learning Engineer",
       "location": "Munich, Germany",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Developed NLP and recommendation models for e-commerce clients",
-        "Built automated retraining and deployment pipelines using MLOps tooling",
-        "Migrated legacy ML infrastructure to GCP, reducing operational costs",
-        "Mentored junior engineers on model development and code quality"
+        "Developed and maintained NLP models for document classification and entity extraction",
+        "Built automated retraining pipelines integrated with GCP Cloud Composer and BigQuery",
+        "Implemented monitoring and alerting for model drift and performance degradation",
+        "Collaborated cross-functionally with data engineering to improve feature pipelines"
       ],
       "technologies": [
         "Python",
         "TensorFlow",
         "GCP",
-        "Airflow",
-        "Docker"
+        "BigQuery",
+        "Airflow"
       ]
     },
     {
-      "company_name": "Isar Cognitive Labs",
+      "company_name": "Vellman Technologies",
       "role": "Machine Learning Engineer",
       "location": "Munich, Germany",
       "start_year": 2015,
       "end_year": 2018,
       "responsibilities": [
-        "Implemented supervised learning models for fraud detection systems",
-        "Built data preprocessing and feature engineering pipelines",
-        "Collaborated with data scientists to productionize research prototypes",
-        "Maintained and optimized model serving infrastructure"
+        "Built recommendation models for e-commerce clients using collaborative filtering techniques",
+        "Deployed ML models as REST APIs using Flask and Docker",
+        "Conducted exploratory data analysis and feature engineering for tabular datasets",
+        "Participated in code reviews and agile sprint planning"
       ],
       "technologies": [
         "Python",
         "Scikit-learn",
-        "SQL",
-        "Docker"
+        "Flask",
+        "Docker",
+        "SQL"
       ]
     }
   ],
@@ -87,7 +88,7 @@
     {
       "institution": "Ludwig Maximilian University of Munich",
       "degree": "Master of Science",
-      "field": "Computer Science, Machine Learning",
+      "field": "Computer Science, Machine Learning Specialization",
       "graduation_year": 2015
     }
   ],

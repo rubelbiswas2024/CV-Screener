@@ -1,35 +1,36 @@
 {
   "candidate_id": "C014",
-  "name": "Ananya Krishnan",
+  "name": "Ananya Rao",
   "headline": "Data Scientist | Machine Learning & Predictive Analytics",
-  "email": "c014.186@example.test",
-  "phone": "+00 000 961 980",
+  "email": "c014.208@example.test",
+  "phone": "+00 000 450 686",
   "location": "Bengaluru, India",
-  "summary": "Data Scientist with 4 years of experience building machine learning models and data pipelines for e-commerce and fintech applications. Skilled in Python-based analytics, statistical modeling, and translating business problems into data-driven solutions. Strong collaborator with cross-functional product and engineering teams.",
+  "summary": "Data Scientist with 4 years of experience building machine learning models and data pipelines for e-commerce and fintech applications. Skilled in Python-based analytics, statistical modeling, and translating business problems into data-driven solutions. Experienced in end-to-end model development, from data wrangling to deployment.",
   "skills": [
     "Python",
     "Machine Learning",
     "Pandas",
     "Scikit-learn",
     "SQL",
-    "NumPy",
     "Data Visualization",
     "Feature Engineering",
-    "Statistics",
-    "Tableau"
+    "NumPy",
+    "Tableau",
+    "A/B Testing"
   ],
   "experience": [
     {
-      "company_name": "Vertex Analytics Solutions",
+      "company_name": "Vantage Analytics Solutions",
       "role": "Data Scientist",
       "location": "Bengaluru, India",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
         "Develop and deploy machine learning models for customer churn prediction and demand forecasting",
-        "Build ETL pipelines using Python and SQL to process large transactional datasets",
-        "Collaborate with product managers to define metrics and evaluate model performance",
-        "Present analytical findings and recommendations to stakeholders through dashboards"
+        "Collaborate with product teams to define data requirements and success metrics",
+        "Build automated data pipelines using Python and SQL for reporting and analytics",
+        "Conduct A/B tests to evaluate model performance and business impact",
+        "Present findings and recommendations to cross-functional stakeholders"
       ],
       "technologies": [
         "Python",
@@ -41,41 +42,23 @@
       ]
     },
     {
-      "company_name": "Nimbus Data Labs",
+      "company_name": "Northbridge Fintech Labs",
       "role": "Junior Data Analyst",
       "location": "Bengaluru, India",
       "start_year": 2021,
       "end_year": 2022,
       "responsibilities": [
-        "Performed exploratory data analysis to identify trends in customer transaction data",
-        "Assisted senior data scientists in building classification models for fraud detection",
-        "Created automated reporting scripts to reduce manual reporting time",
-        "Maintained data quality checks across ingestion pipelines"
+        "Cleaned and preprocessed transactional datasets for fraud detection models",
+        "Assisted senior data scientists in building classification models using scikit-learn",
+        "Created dashboards to track key business metrics using Tableau",
+        "Performed exploratory data analysis to identify trends in customer behavior"
       ],
       "technologies": [
         "Python",
         "Pandas",
         "NumPy",
-        "Excel",
-        "MySQL"
-      ]
-    },
-    {
-      "company_name": "Coral Insight Technologies",
-      "role": "Data Analyst Intern",
-      "location": "Bengaluru, India",
-      "start_year": 2020,
-      "end_year": 2021,
-      "responsibilities": [
-        "Cleaned and preprocessed datasets for internal analytics projects",
-        "Supported development of basic regression models under supervision",
-        "Prepared visualizations to communicate findings to team leads"
-      ],
-      "technologies": [
-        "Python",
-        "Pandas",
-        "Matplotlib",
-        "Excel"
+        "SQL",
+        "Tableau"
       ]
     }
   ],
@@ -84,7 +67,7 @@
       "institution": "Indian Institute of Technology (IIT) Bombay",
       "degree": "Bachelor of Technology",
       "field": "Computer Science and Engineering",
-      "graduation_year": 2020
+      "graduation_year": 2021
     }
   ],
   "languages": [
