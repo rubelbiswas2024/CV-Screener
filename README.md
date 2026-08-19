@@ -71,7 +71,7 @@ npm install
 
 ### 1. Generate the fake CVs (optional)
 
-Only needed if you don't already have CVs in `backend/data/CVs`. This calls
+Only needed if you don't already have CVs in `backend/data/resumes`. This calls
 the paid APIs so it costs a bit of money.
 
 ```
