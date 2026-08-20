@@ -1,11 +1,11 @@
 {
   "candidate_id": "C013",
-  "name": "Marcus Ellison",
-  "headline": "Senior AI / ML Engineer",
-  "email": "c013.111@example.test",
-  "phone": "+00 000 822 764",
+  "name": "Marcus Whitfield",
+  "headline": "Senior AI/ML Engineer",
+  "email": "c013.817@example.test",
+  "phone": "+00 000 437 761",
   "location": "Austin, United States",
-  "summary": "Senior AI/ML Engineer with 8 years of experience designing and deploying machine learning systems and LLM-powered applications. Skilled in building scalable ML pipelines, fine-tuning deep learning models, and integrating generative AI into production environments. Proven track record leading cross-functional teams to deliver reliable, high-performance AI solutions.",
+  "summary": "Senior AI/ML Engineer with 8 years of experience designing, training, and deploying machine learning systems at scale. Specializes in deep learning architectures, LLM application development, and MLOps pipelines. Proven track record of leading cross-functional teams to deliver production-grade AI solutions in fast-paced environments.",
   "skills": [
     "Python",
     "PyTorch",
@@ -14,70 +14,73 @@
     "MLOps",
     "Docker",
     "Kubernetes",
-    "AWS",
-    "SQL",
+    "AWS SageMaker",
+    "NLP",
     "Vector Databases",
-    "Hugging Face Transformers"
+    "SQL",
+    "Distributed Training"
   ],
   "experience": [
     {
-      "company_name": "Lonestar AI Labs",
+      "company_name": "Cognivance AI",
       "role": "Senior AI/ML Engineer",
       "location": "Austin, United States",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead development of LLM-based retrieval-augmented generation systems using LangChain and vector databases",
-        "Architect and deploy scalable ML pipelines on AWS SageMaker and Kubernetes",
-        "Mentor junior engineers on model development best practices and code reviews",
-        "Collaborate with product teams to integrate generative AI features into customer-facing applications",
-        "Optimize inference latency for production-grade transformer models"
+        "Lead development of LLM-powered internal tools using LangChain and custom retrieval pipelines",
+        "Architect and maintain scalable model training infrastructure on AWS SageMaker",
+        "Mentor junior engineers on best practices for model deployment and monitoring",
+        "Collaborate with product teams to define AI feature roadmaps",
+        "Optimize inference latency for production NLP models"
       ],
       "technologies": [
         "Python",
         "PyTorch",
         "LangChain",
         "AWS SageMaker",
-        "Kubernetes",
-        "Pinecone"
+        "Docker",
+        "Kubernetes"
       ]
     },
     {
-      "company_name": "Silverline Analytics",
+      "company_name": "DataForge Systems",
       "role": "Machine Learning Engineer",
       "location": "Austin, United States",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Developed computer vision models for defect detection in manufacturing pipelines",
-        "Built and maintained ETL pipelines for training data preparation",
-        "Implemented model monitoring and retraining workflows to ensure production reliability",
-        "Worked with data scientists to translate research prototypes into deployable services"
+        "Built and trained deep learning models for time-series forecasting and anomaly detection",
+        "Developed data preprocessing pipelines using Python and SQL",
+        "Deployed models into production using Docker containers",
+        "Collaborated with data engineering team to improve feature store reliability",
+        "Conducted A/B testing to validate model performance improvements"
       ],
       "technologies": [
         "Python",
+        "PyTorch",
         "TensorFlow",
-        "Docker",
-        "PostgreSQL",
-        "Airflow"
+        "SQL",
+        "Docker"
       ]
     },
     {
-      "company_name": "Bright Path Software",
-      "role": "Data Science Engineer",
+      "company_name": "Lonestar Analytics",
+      "role": "Data Scientist",
       "location": "Austin, United States",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Built predictive models for customer churn and demand forecasting",
-        "Automated data preprocessing and feature engineering workflows",
-        "Supported deployment of ML models into internal business dashboards"
+        "Analyzed large datasets to identify business insights and trends",
+        "Built predictive models using scikit-learn and pandas",
+        "Created dashboards and reports for stakeholder decision-making",
+        "Supported data cleaning and feature engineering tasks"
       ],
       "technologies": [
         "Python",
-        "Scikit-learn",
-        "SQL",
-        "Pandas"
+        "scikit-learn",
+        "pandas",
+        "SQL"
       ]
     }
   ],
@@ -85,12 +88,12 @@
     {
       "institution": "University of Texas at Austin",
       "degree": "Master of Science",
-      "field": "Computer Science, Machine Learning Specialization",
+      "field": "Computer Science",
       "graduation_year": 2016
     }
   ],
   "languages": [
     "English - Native",
-    "Spanish - B1"
+    "Spanish - B2"
   ]
 }

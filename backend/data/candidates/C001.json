@@ -1,84 +1,82 @@
 {
   "candidate_id": "C001",
-  "name": "Marc Vidal Puig",
+  "name": "Marc Ferrer Soler",
   "headline": "Senior Backend Engineer",
-  "email": "c001.958@example.test",
-  "phone": "+00 000 386 951",
+  "email": "c001.250@example.test",
+  "phone": "+00 000 936 965",
   "location": "Barcelona, Spain",
-  "summary": "Senior Backend Engineer with 7 years of experience designing and scaling server-side systems using Python and PostgreSQL. Skilled in building containerized microservices, optimizing database performance, and leading small engineering teams within agile environments. Passionate about clean architecture and reliable, maintainable code.",
+  "summary": "Senior Backend Engineer with 7 years of experience designing and maintaining scalable server-side systems. Skilled in Python, relational databases, and containerized deployments. Experienced in leading small engineering teams and collaborating cross-functionally to deliver reliable, maintainable services.",
   "skills": [
     "Python",
     "PostgreSQL",
     "Docker",
     "Django",
-    "FastAPI",
+    "REST APIs",
     "Kubernetes",
     "Redis",
-    "REST APIs",
     "Git",
-    "Linux",
-    "CI/CD"
+    "CI/CD",
+    "Linux"
   ],
   "experience": [
     {
-      "company_name": "NubaTech Solutions",
+      "company_name": "NexoData Systems",
       "role": "Senior Backend Engineer",
       "location": "Barcelona, Spain",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Design and maintain scalable backend services using Python and FastAPI",
-        "Lead database schema design and optimization for PostgreSQL clusters",
+        "Design and maintain microservices handling high-volume transactional data",
+        "Lead technical decisions for backend architecture and database schema design",
         "Mentor junior engineers and conduct code reviews",
-        "Coordinate containerized deployments using Docker and Kubernetes",
-        "Collaborate with product teams to define API contracts"
+        "Optimize PostgreSQL queries and indexing strategies for performance",
+        "Coordinate deployment pipelines using Docker and Kubernetes"
       ],
       "technologies": [
         "Python",
-        "FastAPI",
         "PostgreSQL",
         "Docker",
         "Kubernetes",
+        "FastAPI",
         "Redis"
       ]
     },
     {
-      "company_name": "Baricode Systems",
+      "company_name": "Bluepine Software",
       "role": "Backend Engineer",
       "location": "Barcelona, Spain",
-      "start_year": 2019,
+      "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Developed RESTful APIs using Django and Django REST Framework",
-        "Implemented CI/CD pipelines for automated testing and deployment",
-        "Optimized SQL queries and database indexes for performance",
-        "Containerized services using Docker for consistent environments"
+        "Developed RESTful APIs for internal and client-facing applications",
+        "Implemented data models and migrations in PostgreSQL",
+        "Containerized services using Docker for consistent deployment environments",
+        "Collaborated with frontend team to define API contracts",
+        "Participated in on-call rotation for production incident response"
       ],
       "technologies": [
         "Python",
         "Django",
         "PostgreSQL",
         "Docker",
-        "Jenkins"
+        "Celery"
       ]
     },
     {
-      "company_name": "Iberic Data Labs",
+      "company_name": "Arcadia Web Solutions",
       "role": "Junior Backend Developer",
       "location": "Barcelona, Spain",
       "start_year": 2017,
-      "end_year": 2019,
+      "end_year": 2018,
       "responsibilities": [
-        "Built internal tools and APIs using Python and Flask",
-        "Assisted in migrating legacy MySQL databases to PostgreSQL",
-        "Wrote unit tests and participated in agile sprint ceremonies"
+        "Assisted in building and maintaining web application backends",
+        "Wrote unit tests to improve code coverage",
+        "Fixed bugs and implemented small feature requests under senior guidance"
       ],
       "technologies": [
         "Python",
         "Flask",
-        "PostgreSQL",
-        "MySQL",
-        "Git"
+        "MySQL"
       ]
     }
   ],

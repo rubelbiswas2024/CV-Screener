@@ -2,10 +2,10 @@
   "candidate_id": "C022",
   "name": "Maria Isabel Santos",
   "headline": "Customer Success Specialist",
-  "email": "c022.751@example.test",
-  "phone": "+00 000 178 851",
+  "email": "c022.567@example.test",
+  "phone": "+00 000 111 662",
   "location": "Manila, Philippines",
-  "summary": "Customer Success professional with 4 years of experience managing client onboarding, retention, and support operations for SaaS companies. Skilled in CRM administration and helpdesk tools, with a strong focus on improving customer satisfaction and reducing churn through proactive engagement strategies.",
+  "summary": "Customer Success professional with 4 years of experience driving client onboarding, retention, and satisfaction for SaaS companies. Skilled in managing CRM pipelines, resolving support tickets via Zendesk, and building strong client relationships to reduce churn and improve product adoption.",
   "skills": [
     "Onboarding",
     "CRM",
@@ -14,22 +14,23 @@
     "Account Management",
     "Salesforce",
     "Data Analysis",
-    "Communication",
-    "Client Training"
+    "Client Communication",
+    "Upselling",
+    "Process Improvement"
   ],
   "experience": [
     {
-      "company_name": "BrightPath Solutions",
-      "role": "Customer Success Specialist",
+      "company_name": "Brightpath Solutions",
+      "role": "Customer Success Associate",
       "location": "Manila, Philippines",
-      "start_year": 2022,
-      "end_year": null,
+      "start_year": 2021,
+      "end_year": 2023,
       "responsibilities": [
-        "Manage end-to-end onboarding process for new enterprise clients",
-        "Serve as primary point of contact for a portfolio of 50+ accounts",
-        "Monitor customer health scores and proactively address churn risks",
-        "Collaborate with product team to relay client feedback for feature improvements",
-        "Conduct quarterly business reviews with key accounts"
+        "Managed onboarding process for new SaaS clients, ensuring smooth product adoption",
+        "Maintained and updated client records in CRM system to track engagement and renewals",
+        "Resolved customer inquiries and technical issues using Zendesk ticketing system",
+        "Collaborated with product team to relay client feedback for feature improvements",
+        "Conducted quarterly business reviews with key accounts to assess satisfaction"
       ],
       "technologies": [
         "Zendesk",
@@ -39,21 +40,23 @@
       ]
     },
     {
-      "company_name": "Novatech Systems Inc.",
-      "role": "Customer Support Associate",
-      "location": "Quezon City, Philippines",
-      "start_year": 2021,
-      "end_year": 2022,
+      "company_name": "Nexova Technologies",
+      "role": "Customer Success Specialist",
+      "location": "Manila, Philippines",
+      "start_year": 2023,
+      "end_year": null,
       "responsibilities": [
-        "Responded to customer inquiries via email, chat, and phone using Zendesk",
-        "Assisted in onboarding new customers by guiding them through platform setup",
-        "Maintained accurate customer records within CRM system",
-        "Escalated complex technical issues to engineering team"
+        "Led end-to-end onboarding for enterprise clients, reducing time-to-value by streamlining processes",
+        "Managed CRM data hygiene and reporting for a portfolio of 80+ accounts",
+        "Handled escalated support tickets in Zendesk, coordinating with technical teams for resolution",
+        "Developed onboarding documentation and training materials for new customers",
+        "Monitored customer health scores to proactively identify churn risks"
       ],
       "technologies": [
         "Zendesk",
         "HubSpot CRM",
-        "Excel"
+        "Jira",
+        "Zoom"
       ]
     }
   ],
@@ -62,7 +65,7 @@
       "institution": "University of the Philippines",
       "degree": "Bachelor of Science",
       "field": "Business Administration",
-      "graduation_year": 2021
+      "graduation_year": 2020
     }
   ],
   "languages": [

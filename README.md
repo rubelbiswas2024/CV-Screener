@@ -7,7 +7,7 @@ Basically it does 3 things:
 
 1. Generates fake candidate CVs (text + photo + PDF) using an LLM.
 2. Loads those CV PDFs, splits them into chunks, and stores them in a local
-   vector database (Chroma) — built automatically the first time you ask a
+   vector database (Chroma) - built automatically the first time you ask a
    question.
 3. Lets you ask questions like "who knows Python?" and it searches the CVs
    and answers based only on what's actually in them.
@@ -31,7 +31,7 @@ CV-Screener/
 - An Anthropic API key (for generating CV text and answering questions)
 
 Candidate photos are generated with [Pollinations](https://pollinations.ai), a
-free image API — no key or billing needed.
+free image API - no key or billing needed.
 
 ## Setup
 
@@ -87,7 +87,7 @@ index and rebuilds it from scratch. It's free, runs locally.
 
 You can either use the web page or just the terminal.
 
-**Web page** — needs two terminals open at the same time:
+**Web page** - needs two terminals open at the same time:
 
 ```
 # terminal 1

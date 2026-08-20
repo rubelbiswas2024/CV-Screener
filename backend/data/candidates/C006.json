@@ -1,37 +1,38 @@
 {
   "candidate_id": "C006",
-  "name": "Markus Reinhardt",
+  "name": "Lukas Hoffmann",
   "headline": "Lead Backend Engineer",
-  "email": "c006.610@example.test",
-  "phone": "+00 000 987 812",
+  "email": "c006.304@example.test",
+  "phone": "+00 000 571 989",
   "location": "Berlin, Germany",
-  "summary": "Backend engineering leader with 11 years of experience designing and scaling distributed systems in cloud-native environments. Skilled in leading cross-functional teams, driving Kubernetes-based infrastructure adoption, and delivering resilient Java-based microservices on AWS. Passionate about mentoring engineers and improving system reliability.",
+  "summary": "Lead Backend Engineer with 11 years of experience designing and scaling distributed systems in cloud-native environments. Proven track record leading engineering teams, architecting microservices, and driving Kubernetes and AWS adoption across organizations. Passionate about mentoring engineers and building resilient, high-throughput backend platforms.",
   "skills": [
     "Java",
     "Kubernetes",
     "AWS",
     "Spring Boot",
-    "Microservices",
-    "Terraform",
+    "Microservices Architecture",
     "PostgreSQL",
-    "CI/CD",
+    "Kafka",
     "Docker",
+    "CI/CD",
+    "Terraform",
     "System Design",
-    "Kafka"
+    "Team Leadership"
   ],
   "experience": [
     {
-      "company_name": "Nordhaven Systems",
+      "company_name": "Nordholm Digital",
       "role": "Lead Backend Engineer",
       "location": "Berlin, Germany",
       "start_year": 2020,
       "end_year": null,
       "responsibilities": [
-        "Lead a team of 8 backend engineers building microservices for a logistics platform",
-        "Define technical architecture and roadmap for backend systems on AWS",
-        "Drive adoption of Kubernetes for container orchestration across services",
-        "Mentor engineers through code reviews and technical design discussions",
-        "Collaborate with product and infrastructure teams to plan scalable solutions"
+        "Lead a team of 8 backend engineers building microservices for a fintech payments platform",
+        "Define technical roadmap and architecture standards across backend teams",
+        "Drove migration from monolithic architecture to Kubernetes-based microservices on AWS",
+        "Established CI/CD pipelines reducing deployment time by half",
+        "Mentor mid-level and senior engineers through code reviews and design sessions"
       ],
       "technologies": [
         "Java",
@@ -39,46 +40,62 @@
         "Kubernetes",
         "AWS",
         "Kafka",
-        "PostgreSQL"
+        "Terraform"
       ]
     },
     {
-      "company_name": "Bergfeld Digital",
+      "company_name": "Veltrix Systems",
       "role": "Senior Backend Engineer",
       "location": "Berlin, Germany",
       "start_year": 2017,
       "end_year": 2020,
       "responsibilities": [
-        "Designed and implemented RESTful APIs for e-commerce backend services",
-        "Migrated monolithic application to microservices architecture",
-        "Set up CI/CD pipelines to automate testing and deployment",
-        "Optimized database queries improving response times for high-traffic endpoints"
+        "Designed and implemented RESTful APIs for a logistics tracking platform",
+        "Optimized PostgreSQL queries and database schema for high-volume transactions",
+        "Introduced containerization using Docker and orchestration with Kubernetes",
+        "Collaborated with DevOps to migrate infrastructure to AWS"
       ],
       "technologies": [
         "Java",
+        "PostgreSQL",
         "Docker",
-        "AWS",
-        "MySQL",
-        "Jenkins"
+        "Kubernetes",
+        "AWS"
       ]
     },
     {
-      "company_name": "Vantera Solutions",
-      "role": "Backend Developer",
+      "company_name": "Baumfeld Technologies",
+      "role": "Backend Engineer",
       "location": "Munich, Germany",
       "start_year": 2014,
       "end_year": 2017,
       "responsibilities": [
-        "Developed backend services for internal enterprise applications",
-        "Implemented unit and integration tests to ensure code quality",
-        "Collaborated with frontend team to define API contracts",
-        "Participated in agile sprint planning and code reviews"
+        "Developed backend services for an e-commerce order management system",
+        "Implemented messaging queues to handle asynchronous order processing",
+        "Participated in on-call rotation and incident resolution",
+        "Wrote unit and integration tests to improve code reliability"
       ],
       "technologies": [
         "Java",
         "Spring",
-        "MySQL",
-        "Git"
+        "RabbitMQ",
+        "MySQL"
+      ]
+    },
+    {
+      "company_name": "Kestrel Softwareworks",
+      "role": "Junior Software Developer",
+      "location": "Munich, Germany",
+      "start_year": 2013,
+      "end_year": 2014,
+      "responsibilities": [
+        "Assisted in development of internal tooling for a mid-sized software team",
+        "Fixed bugs and implemented small features under senior developer guidance",
+        "Wrote documentation for internal APIs"
+      ],
+      "technologies": [
+        "Java",
+        "MySQL"
       ]
     }
   ],

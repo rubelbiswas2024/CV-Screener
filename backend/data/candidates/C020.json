@@ -1,58 +1,57 @@
 {
   "candidate_id": "C020",
-  "name": "Emily Chen",
+  "name": "Maya Thompson",
   "headline": "Junior Content Marketing Specialist",
-  "email": "c020.646@example.test",
-  "phone": "+00 000 605 606",
+  "email": "c020.895@example.test",
+  "phone": "+00 000 463 409",
   "location": "Toronto, Canada",
-  "summary": "Junior content marketer with 2 years of experience developing SEO-driven content strategies for B2C brands. Skilled in blog writing, keyword research, and content calendar management. Passionate about crafting engaging narratives that improve organic visibility and audience engagement.",
+  "summary": "Detail-oriented content marketer with 2 years of experience developing SEO-driven content strategies and engaging copy for digital brands. Skilled in keyword research, editorial planning, and cross-channel content creation to drive organic growth.",
   "skills": [
     "Content Strategy",
     "SEO",
     "Copywriting",
     "Google Analytics",
-    "WordPress",
-    "Social Media Marketing",
     "Keyword Research",
+    "Social Media Marketing",
+    "WordPress",
     "Content Calendar Management"
   ],
   "experience": [
     {
-      "company_name": "Northline Media Co.",
+      "company_name": "BrightPath Digital",
       "role": "Content Marketing Coordinator",
       "location": "Toronto, Canada",
       "start_year": 2023,
       "end_year": null,
       "responsibilities": [
-        "Develop and execute monthly content calendars aligned with SEO goals",
-        "Conduct keyword research to identify content opportunities",
-        "Write and edit blog posts, landing pages, and email newsletters",
-        "Collaborate with design team to produce visual content assets",
-        "Monitor content performance using Google Analytics and adjust strategy accordingly"
+        "Develop and execute content strategy for client blogs and social channels",
+        "Conduct keyword research and optimize on-page SEO for articles",
+        "Collaborate with design team to create visual content assets",
+        "Track content performance using Google Analytics and adjust strategy accordingly"
       ],
       "technologies": [
-        "WordPress",
         "Google Analytics",
         "SEMrush",
-        "Mailchimp"
+        "WordPress",
+        "Canva"
       ]
     },
     {
-      "company_name": "Brightpath Digital Studio",
+      "company_name": "Northline Media Group",
       "role": "Marketing Intern",
       "location": "Toronto, Canada",
       "start_year": 2022,
       "end_year": 2023,
       "responsibilities": [
-        "Assisted in drafting social media captions and blog drafts",
-        "Supported on-page SEO audits for client websites",
-        "Compiled monthly performance reports for content campaigns",
-        "Helped coordinate influencer outreach for product launches"
+        "Assisted in drafting blog posts and email newsletters",
+        "Supported SEO audits and competitor analysis",
+        "Managed social media scheduling using Hootsuite",
+        "Compiled monthly performance reports for content initiatives"
       ],
       "technologies": [
         "Hootsuite",
         "Google Search Console",
-        "Canva"
+        "Mailchimp"
       ]
     }
   ],

@@ -1,21 +1,22 @@
 {
   "candidate_id": "C011",
-  "name": "Giulia Ferraresi",
-  "headline": "Product Designer | UX/UI & Design Systems",
-  "email": "c011.992@example.test",
-  "phone": "+00 000 672 951",
+  "name": "Giulia Ferretti",
+  "headline": "Mid-Level UX / Product Designer",
+  "email": "c011.625@example.test",
+  "phone": "+00 000 769 712",
   "location": "Milan, Italy",
-  "summary": "Product designer with 5 years of experience crafting user-centered digital products for fintech and e-commerce companies. Skilled in translating user research into scalable design systems and intuitive interfaces. Passionate about collaborative design processes and data-informed decision making.",
+  "summary": "Product designer with 5 years of experience crafting user-centered digital experiences for SaaS and e-commerce platforms. Skilled in translating user research insights into scalable design systems and intuitive interfaces. Passionate about collaborative, iterative design processes and cross-functional teamwork with product and engineering teams.",
   "skills": [
     "Figma",
     "Design Systems",
     "User Research",
     "Prototyping",
+    "Wireframing",
     "Interaction Design",
     "Usability Testing",
-    "Wireframing",
-    "Design Thinking",
-    "HTML/CSS basics"
+    "Adobe XD",
+    "HTML/CSS basics",
+    "Agile/Scrum"
   ],
   "experience": [
     {
@@ -25,65 +26,68 @@
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Lead end-to-end design of core banking app features from research to high-fidelity prototypes",
-        "Built and maintained a comprehensive design system used across three product teams",
+        "Lead end-to-end design process for a B2B SaaS platform, from research to high-fidelity prototypes",
+        "Built and maintained a company-wide design system used across 4 product teams",
         "Conducted user interviews and usability tests to validate design decisions",
-        "Collaborated closely with engineers to ensure design feasibility and consistency"
+        "Collaborated closely with product managers and engineers to ensure design feasibility",
+        "Facilitated design critique sessions and mentored junior designers"
       ],
       "technologies": [
         "Figma",
         "Zeplin",
         "Maze",
-        "Notion"
+        "Notion",
+        "Jira"
       ]
     },
     {
-      "company_name": "Velio Studio",
+      "company_name": "Brioso Studio",
       "role": "UX Designer",
       "location": "Milan, Italy",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Designed wireframes and prototypes for e-commerce clients across web and mobile",
-        "Facilitated user research sessions and synthesized findings into actionable insights",
-        "Contributed to establishing initial design guidelines and component libraries",
-        "Partnered with product managers to prioritize features based on user needs"
+        "Designed responsive web and mobile interfaces for e-commerce clients",
+        "Conducted user research including surveys and moderated usability testing",
+        "Created wireframes, user flows, and interactive prototypes for stakeholder review",
+        "Contributed to establishing initial component library for design consistency"
       ],
       "technologies": [
         "Sketch",
         "Figma",
         "InVision",
-        "UserTesting"
+        "Google Analytics"
       ]
     },
     {
-      "company_name": "Bramante Interactive",
+      "company_name": "Vertice Interactive",
       "role": "Junior UX/UI Designer",
       "location": "Milan, Italy",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
-        "Assisted senior designers with wireframing and visual design tasks",
-        "Supported user research activities including surveys and moderated tests",
-        "Created basic UI mockups for internal tools and client projects"
+        "Supported senior designers in creating UI mockups and style guides",
+        "Assisted with basic user research tasks such as competitor analysis",
+        "Produced visual assets and icons for web applications"
       ],
       "technologies": [
         "Adobe XD",
-        "Sketch",
-        "InVision"
+        "Illustrator",
+        "Figma"
       ]
     }
   ],
   "education": [
     {
       "institution": "Politecnico di Milano",
-      "degree": "Master's Degree",
-      "field": "Design for the Digital World",
+      "degree": "Bachelor's Degree",
+      "field": "Design and Engineering",
       "graduation_year": 2019
     }
   ],
   "languages": [
     "Italian - Native",
-    "English - C1"
+    "English - C1",
+    "French - B1"
   ]
 }

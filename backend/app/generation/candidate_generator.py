@@ -9,7 +9,7 @@ from app.models.candidate_info import Candidate
 
 
 class CandidateGenerator:
-    """Generates a fictional, structured candidate CV via the configured LLM."""
+    """Generates a imaginary, structured candidate CV via the configured LLM."""
 
     def __init__(self, settings: Settings | None = None, client: anthropic.Anthropic | None = None) -> None:
         """Set up settings and an Anthropic client, or reuse the ones passed in."""
@@ -17,7 +17,7 @@ class CandidateGenerator:
         self._client = client or anthropic.Anthropic(api_key=self._settings.anthropic_api_key)
 
     def generate(self, candidate_id: str, candidate: CandidateSpecification) -> Candidate:
-        """Ask the LLM for a fictional CV, then patch in the fields that must be exact."""
+        """Ask the LLM for a imaginary CV, then patch in the fields that must be exact."""
 
         location = (f"{candidate.city}, "f"{candidate.country}")
 

@@ -8,5 +8,5 @@ class ChatService:
         self._pipeline = pipeline or default_pipeline
 
     def ask(self, question: str) -> dict:
-        """Run a question through the RAG pipeline and return the answer with sources."""
+        """Run a query through the RAG pipeline and return the answer with sources."""
         return self._pipeline.invoke({"question": question})

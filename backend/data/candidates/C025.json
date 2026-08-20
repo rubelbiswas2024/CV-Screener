@@ -1,79 +1,84 @@
 {
   "candidate_id": "C025",
-  "name": "Nguyen Thi Mai Linh",
-  "headline": "Senior Project Manager | Agile & Scrum Delivery Leader",
-  "email": "c025.167@example.test",
-  "phone": "+00 000 334 763",
+  "name": "Nguyen Thi Mai Anh",
+  "headline": "Senior Project Manager | Agile & Scrum Delivery Lead",
+  "email": "c025.322@example.test",
+  "phone": "+00 000 944 892",
   "location": "Ho Chi Minh City, Vietnam",
-  "summary": "Senior Project Manager with 9 years of experience leading cross-functional software delivery teams across fintech and e-commerce sectors. Skilled in Agile and Scrum methodologies, stakeholder management, and driving projects from initiation through successful delivery. Proven ability to align business objectives with technical execution while managing budgets, timelines, and risk.",
+  "summary": "Senior Project Manager with 9 years of experience leading cross-functional teams to deliver technology and business transformation projects across finance and retail sectors. Skilled in Agile and Scrum methodologies, stakeholder management, and end-to-end project delivery from initiation to closure. Proven track record of managing multi-million-dollar budgets, mitigating risks, and driving on-time delivery in fast-paced environments.",
   "skills": [
     "Agile",
     "Scrum",
     "Stakeholder Management",
     "Risk Management",
-    "Jira",
+    "Budgeting & Forecasting",
+    "JIRA",
     "Confluence",
-    "Budget Planning",
-    "Cross-functional Team Leadership",
     "Vendor Management",
-    "Kanban"
+    "Project Planning",
+    "Change Management",
+    "Kanban",
+    "Microsoft Project"
   ],
   "experience": [
     {
-      "company_name": "Meridian Tech Solutions",
+      "company_name": "Sapphire Digital Solutions",
       "role": "Senior Project Manager",
       "location": "Ho Chi Minh City, Vietnam",
-      "start_year": 2020,
+      "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead delivery of enterprise fintech platforms using Scrum and Kanban frameworks",
-        "Manage stakeholder communication across executive, client, and engineering teams",
-        "Oversee project budgets ranging from $500K to $2M",
-        "Coordinate release planning and sprint retrospectives with distributed teams",
-        "Mitigate project risks through proactive planning and contingency strategies"
+        "Lead a portfolio of digital transformation projects for banking clients, ensuring alignment with business objectives",
+        "Facilitate Agile ceremonies including sprint planning, retrospectives, and daily stand-ups",
+        "Manage stakeholder communications across executive, technical, and client teams",
+        "Oversee project budgets ranging from $500K to $2M, tracking spend against forecasts",
+        "Coordinate with vendors and third-party service providers to ensure timely delivery",
+        "Mentor junior project coordinators and scrum masters on best practices"
       ],
       "technologies": [
-        "Jira",
+        "JIRA",
         "Confluence",
-        "MS Project",
+        "Microsoft Project",
         "Slack",
-        "Azure DevOps"
+        "Tableau"
       ]
     },
     {
-      "company_name": "Vantage Digital Group",
+      "company_name": "Golden Horizon Technologies",
       "role": "Project Manager",
       "location": "Ho Chi Minh City, Vietnam",
-      "start_year": 2017,
-      "end_year": 2020,
+      "start_year": 2018,
+      "end_year": 2021,
       "responsibilities": [
-        "Managed end-to-end delivery of e-commerce platform upgrades",
-        "Facilitated daily stand-ups, sprint planning, and backlog grooming sessions",
-        "Coordinated with UX, QA, and development teams to ensure timely releases",
-        "Prepared status reports and presented progress updates to senior stakeholders"
+        "Managed end-to-end delivery of enterprise software implementation projects",
+        "Applied Scrum framework to coordinate development teams of 8-12 members",
+        "Developed project charters, schedules, and risk management plans",
+        "Conducted regular stakeholder meetings to report progress and resolve blockers",
+        "Tracked project KPIs and prepared status reports for senior leadership"
       ],
       "technologies": [
-        "Jira",
+        "JIRA",
         "Trello",
-        "Confluence",
-        "Slack"
+        "MS Excel",
+        "SharePoint"
       ]
     },
     {
-      "company_name": "Saigon InfoTech Partners",
-      "role": "Associate Project Coordinator",
+      "company_name": "BlueWave Consulting Group",
+      "role": "Project Coordinator",
       "location": "Ho Chi Minh City, Vietnam",
       "start_year": 2015,
-      "end_year": 2017,
+      "end_year": 2018,
       "responsibilities": [
-        "Supported project managers in tracking timelines and deliverables",
-        "Assisted in documenting requirements and meeting minutes",
-        "Coordinated logistics for client meetings and internal workshops"
+        "Supported senior project managers in planning and tracking project milestones",
+        "Assisted in documentation of project requirements and scope changes",
+        "Coordinated logistics for client workshops and stakeholder review sessions",
+        "Maintained project documentation repositories and updated status trackers"
       ],
       "technologies": [
-        "MS Excel",
-        "Trello",
-        "SharePoint"
+        "MS Project",
+        "Excel",
+        "Basecamp"
       ]
     }
   ],
@@ -81,7 +86,7 @@
     {
       "institution": "Vietnam National University",
       "degree": "Bachelor of Business Administration",
-      "field": "Project Management",
+      "field": "Business Management",
       "graduation_year": 2015
     }
   ],

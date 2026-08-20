@@ -1,11 +1,11 @@
 {
   "candidate_id": "C003",
-  "name": "Laura Fernández Ortega",
+  "name": "Elena Martínez Ruiz",
   "headline": "Senior Data Scientist",
-  "email": "c003.574@example.test",
-  "phone": "+00 000 526 282",
+  "email": "c003.546@example.test",
+  "phone": "+00 000 168 248",
   "location": "Madrid, Spain",
-  "summary": "Senior Data Scientist with 8 years of experience designing and deploying machine learning solutions across finance and retail sectors. Skilled in building end-to-end ML pipelines, from data engineering to production deployment, with a strong focus on delivering measurable business impact.",
+  "summary": "Senior Data Scientist with 8 years of experience building and deploying machine learning models for business-critical applications. Skilled in end-to-end ML pipeline development, from data extraction and feature engineering to model deployment and monitoring. Strong background in SQL, Python, and cloud-based ML infrastructure, with experience mentoring junior data scientists and collaborating with cross-functional teams.",
   "skills": [
     "Python",
     "Machine Learning",
@@ -14,68 +14,69 @@
     "Scikit-learn",
     "TensorFlow",
     "Data Visualization",
-    "Docker",
     "AWS",
+    "Docker",
+    "Feature Engineering",
     "Statistical Modeling"
   ],
   "experience": [
     {
-      "company_name": "Veridata Solutions",
+      "company_name": "NubeTech Analytics",
       "role": "Senior Data Scientist",
       "location": "Madrid, Spain",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
         "Lead development of predictive models for customer churn and demand forecasting",
-        "Design and maintain ML pipelines using Python and SQL for data extraction and transformation",
+        "Design and maintain ML pipelines using Python and Airflow",
+        "Collaborate with engineering teams to deploy models into production using Docker and AWS SageMaker",
         "Mentor junior data scientists on best practices in model development and evaluation",
-        "Collaborate with engineering teams to deploy models into production environments",
-        "Present analytical findings to stakeholders to support strategic decision-making"
+        "Present findings and recommendations to senior stakeholders"
       ],
       "technologies": [
         "Python",
         "SQL",
-        "Scikit-learn",
-        "TensorFlow",
+        "AWS",
         "Docker",
-        "AWS"
+        "Airflow",
+        "Scikit-learn"
       ]
     },
     {
-      "company_name": "NovaBank Analytics",
+      "company_name": "Vertice Data Solutions",
       "role": "Data Scientist",
       "location": "Madrid, Spain",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Developed credit risk scoring models using machine learning techniques",
-        "Built automated ETL processes to consolidate data from multiple banking systems",
-        "Conducted exploratory data analysis to identify trends in customer behavior",
-        "Optimized SQL queries for large-scale financial datasets"
+        "Developed machine learning models for fraud detection and risk scoring",
+        "Built ETL pipelines to consolidate data from multiple internal systems",
+        "Performed exploratory data analysis and statistical testing to support product decisions",
+        "Optimized SQL queries for large-scale data extraction and reporting"
       ],
       "technologies": [
         "Python",
         "SQL",
         "Pandas",
-        "Scikit-learn",
+        "TensorFlow",
         "Tableau"
       ]
     },
     {
-      "company_name": "Insightia Consulting",
-      "role": "Junior Data Analyst",
+      "company_name": "InsightWave Consulting",
+      "role": "Data Analyst",
       "location": "Madrid, Spain",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Assisted in building dashboards for client reporting using SQL and visualization tools",
-        "Cleaned and preprocessed datasets for analytical projects",
-        "Supported senior analysts in statistical analysis and reporting"
+        "Analyzed client datasets to identify trends and business opportunities",
+        "Built dashboards and reports using SQL and visualization tools",
+        "Assisted senior analysts in developing early-stage predictive models"
       ],
       "technologies": [
         "SQL",
-        "Excel",
         "Python",
+        "Excel",
         "Power BI"
       ]
     }

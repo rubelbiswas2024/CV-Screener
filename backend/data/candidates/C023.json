@@ -1,86 +1,88 @@
 {
   "candidate_id": "C023",
-  "name": "Youssef Adel Rashad",
-  "headline": "Financial Analyst | Financial Modeling & Data Analytics",
-  "email": "c023.101@example.test",
-  "phone": "+00 000 632 555",
+  "name": "Yasmin El-Sayed",
+  "headline": "Finance Analyst | Financial Modeling & Data Analytics",
+  "email": "c023.682@example.test",
+  "phone": "+00 000 831 625",
   "location": "Cairo, Egypt",
-  "summary": "Detail-oriented Financial Analyst with 5 years of experience in financial modeling, budgeting, and data-driven reporting for regional corporates. Skilled in leveraging Excel and SQL to streamline financial processes and support strategic decision-making.",
+  "summary": "Detail-oriented Finance Analyst with 5 years of experience in financial modeling, budgeting, and data analysis within FMCG and financial services sectors. Skilled in building forecasting models, automating reporting workflows with SQL, and delivering actionable insights to support strategic decision-making.",
   "skills": [
     "Financial Modeling",
     "Excel",
     "SQL",
-    "Financial Forecasting",
-    "Budgeting & Variance Analysis",
     "Power BI",
-    "Data Visualization",
-    "Corporate Finance",
-    "VBA"
+    "Budgeting & Forecasting",
+    "Variance Analysis",
+    "VBA",
+    "Financial Reporting",
+    "Data Visualization"
   ],
   "experience": [
     {
-      "company_name": "Nile Capital Advisors",
-      "role": "Financial Analyst",
+      "company_name": "NileCrest Holdings",
+      "role": "Senior Finance Analyst",
       "location": "Cairo, Egypt",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Develop and maintain financial models to support investment and budgeting decisions",
-        "Analyze quarterly financial performance and prepare variance reports for senior management",
-        "Extract and manipulate large datasets using SQL for financial reporting",
-        "Collaborate with cross-functional teams to forecast revenue and expenses",
-        "Automate recurring reports using Excel macros and VBA"
+        "Develop and maintain complex financial models for annual budgeting and quarterly forecasting",
+        "Analyze large datasets using SQL to identify cost-saving opportunities across business units",
+        "Prepare monthly management reports summarizing key financial performance indicators",
+        "Collaborate with department heads to review budget variances and recommend corrective actions"
       ],
       "technologies": [
         "Excel",
         "SQL",
-        "VBA",
-        "Power BI"
+        "Power BI",
+        "VBA"
       ]
     },
     {
-      "company_name": "Delta Finance Group",
-      "role": "Junior Financial Analyst",
+      "company_name": "Delta Consumer Group",
+      "role": "Finance Analyst",
       "location": "Cairo, Egypt",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Assisted in preparation of monthly financial statements and management reports",
-        "Built basic financial models to evaluate project feasibility",
-        "Reconciled financial data across multiple business units using SQL queries",
-        "Supported budgeting process by consolidating departmental inputs"
+        "Built financial models to support pricing strategy and product profitability analysis",
+        "Assisted in preparation of consolidated financial statements for regional entities",
+        "Automated recurring reports using SQL queries, reducing manual reporting time",
+        "Supported audit processes by preparing schedules and reconciliations"
       ],
       "technologies": [
         "Excel",
-        "SQL"
+        "SQL",
+        "SAP"
       ]
     },
     {
-      "company_name": "Pharos Investment Partners",
-      "role": "Finance Intern",
+      "company_name": "Cairo Capital Advisors",
+      "role": "Junior Financial Analyst",
       "location": "Cairo, Egypt",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
-        "Supported analysts in gathering and organizing financial data",
-        "Prepared basic Excel spreadsheets for reporting purposes",
-        "Assisted with data entry and validation for financial records"
+        "Assisted senior analysts in building valuation models for client engagements",
+        "Compiled and cleaned financial data from multiple sources for reporting purposes",
+        "Prepared basic financial summaries and supporting documentation for presentations"
       ],
       "technologies": [
-        "Excel"
+        "Excel",
+        "PowerPoint"
       ]
     }
   ],
   "education": [
     {
       "institution": "American University in Cairo",
-      "degree": "Bachelor of Business Administration",
-      "field": "Finance",
+      "degree": "Bachelor of Arts",
+      "field": "Business Administration - Finance",
       "graduation_year": 2019
     }
   ],
   "languages": [
     "Arabic - Native",
-    "English - C1"
+    "English - C1",
+    "French - B1"
   ]
 }

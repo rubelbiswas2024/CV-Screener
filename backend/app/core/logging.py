@@ -19,8 +19,7 @@ class LoggingConfigurator:
         logging.basicConfig(
             level=getattr(logging, self._settings.log_level.upper(), logging.INFO),
             format=("%(asctime)s " "level=%(levelname)s " "logger=%(name)s " "%(message)s"),
-            stream=sys.stdout,
-            force=True,
+            stream=sys.stdout, force=True
         )
 
 

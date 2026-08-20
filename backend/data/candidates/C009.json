@@ -1,82 +1,82 @@
 {
   "candidate_id": "C009",
-  "name": "Camille Fontaine",
-  "headline": "Senior Product Manager | Product Strategy & Growth",
-  "email": "c009.505@example.test",
-  "phone": "+00 000 178 104",
+  "name": "Camille Fabron",
+  "headline": "Senior Product Manager",
+  "email": "c009.883@example.test",
+  "phone": "+00 000 329 527",
   "location": "Paris, France",
-  "summary": "Senior Product Manager with 9 years of experience driving product strategy, growth, and data-informed decision-making across SaaS and marketplace platforms. Skilled at leading cross-functional teams through discovery, experimentation, and scaled delivery, with a strong track record of using SQL and A/B testing to inform roadmap decisions and improve user outcomes.",
+  "summary": "Senior Product Manager with 9 years of experience driving product strategy and growth for B2B and B2C digital platforms. Skilled in leveraging data-driven insights, A/B testing, and cross-functional collaboration to deliver measurable business impact. Proven track record of leading product teams from discovery to launch in fast-paced environments.",
   "skills": [
     "Product Strategy",
     "SQL",
     "A/B Testing",
     "Roadmapping",
-    "Stakeholder Management",
     "User Research",
     "Agile/Scrum",
     "Data Analysis",
-    "Growth Strategy",
-    "Figma"
+    "Stakeholder Management",
+    "Pricing Strategy",
+    "Wireframing"
   ],
   "experience": [
     {
-      "company_name": "Norvantis Digital",
+      "company_name": "Norvia Digital",
       "role": "Senior Product Manager",
       "location": "Paris, France",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Define and own product strategy for the core subscription platform serving over 500,000 users",
-        "Lead quarterly roadmap planning in collaboration with engineering, design, and marketing teams",
-        "Design and analyze A/B tests to optimize onboarding flows and reduce churn",
-        "Write SQL queries to extract and analyze product usage data for decision-making",
-        "Mentor two junior product managers and facilitate sprint planning sessions"
+        "Define and own product strategy for a SaaS analytics platform serving mid-market clients",
+        "Lead a cross-functional team of engineers, designers, and data analysts",
+        "Design and analyze A/B tests to optimize onboarding funnel conversion",
+        "Use SQL to extract and interpret user behavior data for roadmap prioritization",
+        "Present quarterly business reviews to executive stakeholders"
       ],
       "technologies": [
         "SQL",
         "Amplitude",
         "Jira",
         "Figma",
-        "Optimizely"
+        "Looker"
       ]
     },
     {
-      "company_name": "Bellune Tech",
+      "company_name": "Bellune Technologies",
       "role": "Product Manager",
       "location": "Paris, France",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Managed the product lifecycle for a B2B marketplace feature set from ideation to launch",
+        "Managed the product lifecycle for a mobile marketplace application",
         "Conducted user interviews and synthesized findings into actionable product requirements",
-        "Collaborated with data analysts to design experiments and interpret A/B test results",
-        "Partnered with engineering leads to prioritize backlog based on business impact",
-        "Presented product performance metrics to executive stakeholders quarterly"
+        "Ran A/B tests on checkout flow to improve conversion rates",
+        "Collaborated with engineering to prioritize backlog based on data insights",
+        "Partnered with marketing on go-to-market strategies for new features"
       ],
       "technologies": [
         "SQL",
         "Mixpanel",
-        "Jira",
-        "Confluence"
+        "Trello",
+        "Google Analytics"
       ]
     },
     {
-      "company_name": "Cassian Ventures",
+      "company_name": "Ativo Solutions",
       "role": "Associate Product Manager",
-      "location": "Paris, France",
+      "location": "Lyon, France",
       "start_year": 2015,
       "end_year": 2018,
       "responsibilities": [
-        "Supported senior PMs in gathering requirements and writing user stories",
+        "Supported senior PMs in defining product requirements and user stories",
         "Analyzed customer feedback and usage data to identify improvement opportunities",
-        "Assisted in coordinating cross-functional launches for new feature releases",
-        "Tracked KPIs and prepared reporting dashboards for leadership review"
+        "Assisted in coordinating sprint planning and release cycles with engineering teams",
+        "Created wireframes and prototypes for new feature concepts"
       ],
       "technologies": [
         "SQL",
         "Excel",
-        "Google Analytics",
-        "Trello"
+        "Balsamiq",
+        "JIRA"
       ]
     }
   ],
@@ -84,7 +84,7 @@
     {
       "institution": "HEC Paris",
       "degree": "Master in Management",
-      "field": "Marketing and Innovation",
+      "field": "Marketing and Strategy",
       "graduation_year": 2015
     }
   ],

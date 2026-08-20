@@ -1,83 +1,83 @@
 {
   "candidate_id": "C004",
-  "name": "Marc Ferrer Soler",
-  "headline": "Full-Stack Engineer | React, Node.js & TypeScript",
-  "email": "c004.940@example.test",
-  "phone": "+00 000 722 898",
+  "name": "Marc Ferrer Puig",
+  "headline": "Full-Stack Software Engineer",
+  "email": "c004.740@example.test",
+  "phone": "+00 000 325 977",
   "location": "Valencia, Spain",
-  "summary": "Full-stack engineer with 5 years of experience building scalable web applications using React, Node.js, and TypeScript. Skilled in designing REST APIs, developing responsive front-end interfaces, and collaborating with cross-functional teams to deliver reliable software solutions.",
+  "summary": "Full-stack engineer with 5 years of experience building web applications using React, Node.js, and TypeScript. Skilled in designing REST APIs, integrating relational and NoSQL databases, and collaborating with cross-functional teams to deliver maintainable, well-tested software.",
   "skills": [
     "React",
     "Node.js",
     "TypeScript",
     "JavaScript",
-    "Express.js",
+    "Express",
     "PostgreSQL",
-    "REST APIs",
-    "Git",
+    "MongoDB",
     "Docker",
+    "GraphQL",
     "Jest",
-    "GraphQL"
+    "Git",
+    "AWS"
   ],
   "experience": [
     {
-      "company_name": "Naranja Digital Solutions",
+      "company_name": "Nautilus Digital Solutions",
       "role": "Full-Stack Engineer",
       "location": "Valencia, Spain",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Develop and maintain full-stack features using React and Node.js",
-        "Design and implement REST APIs consumed by web and mobile clients",
-        "Collaborate with product and design teams to translate requirements into technical solutions",
-        "Write unit and integration tests to ensure code quality",
-        "Participate in code reviews and mentor junior developers"
+        "Develop and maintain customer-facing web applications using React and TypeScript",
+        "Design and implement REST APIs with Node.js and Express",
+        "Collaborate with product and design teams to define technical requirements",
+        "Optimize database queries in PostgreSQL to improve application performance",
+        "Write unit and integration tests using Jest to ensure code reliability"
       ],
       "technologies": [
         "React",
-        "Node.js",
         "TypeScript",
-        "Express.js",
+        "Node.js",
+        "Express",
         "PostgreSQL",
         "Docker"
       ]
     },
     {
-      "company_name": "Turia Software Labs",
+      "company_name": "Cerulean Softworks",
       "role": "Frontend Developer",
       "location": "Valencia, Spain",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
         "Built responsive UI components using React and Redux",
-        "Integrated third-party APIs and internal backend services",
-        "Optimized application performance and load times",
-        "Worked closely with UX designers to implement pixel-perfect interfaces"
+        "Migrated legacy JavaScript codebase to TypeScript",
+        "Worked with backend developers to integrate REST APIs",
+        "Participated in code reviews and sprint planning meetings"
       ],
       "technologies": [
         "React",
-        "JavaScript",
         "Redux",
-        "CSS",
-        "REST APIs"
+        "TypeScript",
+        "JavaScript",
+        "Sass"
       ]
     },
     {
-      "company_name": "Albufera Tech Studio",
+      "company_name": "Bramble Tech Studio",
       "role": "Junior Web Developer",
-      "location": "Valencia, Spain",
+      "location": "Barcelona, Spain",
       "start_year": 2019,
       "end_year": 2020,
       "responsibilities": [
-        "Assisted in developing internal tools using Node.js and Express",
+        "Assisted in developing internal web tools using Node.js",
         "Fixed bugs and implemented small features under senior developer guidance",
-        "Wrote basic automated tests for backend endpoints"
+        "Wrote basic documentation for internal APIs"
       ],
       "technologies": [
         "Node.js",
         "JavaScript",
-        "Express.js",
-        "MongoDB"
+        "MySQL"
       ]
     }
   ],

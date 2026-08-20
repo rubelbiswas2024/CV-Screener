@@ -1,78 +1,78 @@
 {
   "candidate_id": "C024",
-  "name": "Nomvula Dlamini",
-  "headline": "Senior People Operations Manager",
-  "email": "c024.886@example.test",
-  "phone": "+00 000 533 948",
+  "name": "Naledi Mokoena",
+  "headline": "Senior People & HR Operations Manager",
+  "email": "c024.338@example.test",
+  "phone": "+00 000 337 378",
   "location": "Cape Town, South Africa",
-  "summary": "Senior People Operations professional with 8 years of experience leading recruiting, HRIS implementation, and people analytics initiatives across mid-sized organizations. Skilled at building scalable HR processes, partnering with leadership on workforce planning, and using data-driven insights to improve retention and employee experience.",
+  "summary": "Senior HR Operations professional with 8 years of experience driving recruiting strategy, HRIS optimization, and people analytics initiatives across mid-sized and growing organizations. Skilled in building scalable HR processes, partnering with leadership on workforce planning, and using data-driven insights to improve retention and employee experience. Based in Cape Town with a strong foundation in South African labour law and multinational team support.",
   "skills": [
     "Recruiting",
     "HRIS",
     "People Analytics",
-    "Onboarding Design",
     "Employee Relations",
+    "Onboarding & Offboarding",
+    "Compensation & Benefits",
     "Workforce Planning",
-    "Payroll Coordination",
     "Performance Management",
-    "Compliance & Labour Law",
+    "Labour Law Compliance",
     "Stakeholder Management"
   ],
   "experience": [
     {
-      "company_name": "Kestrel Dynamics",
-      "role": "Senior People Operations Manager",
+      "company_name": "Solara Dynamics",
+      "role": "Senior HR Operations Manager",
       "location": "Cape Town, South Africa",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead end-to-end recruiting strategy for technical and commercial roles across three regional offices",
-        "Oversee HRIS platform administration, ensuring data accuracy and system optimization",
-        "Build people analytics dashboards to track attrition, engagement, and hiring funnel metrics",
-        "Partner with senior leadership on org design and workforce planning initiatives",
-        "Manage a team of two HR generalists and mentor junior recruiters"
+        "Lead end-to-end recruiting operations for technical and commercial teams across three regions",
+        "Own HRIS administration and data integrity for a workforce of 350+ employees",
+        "Build and maintain people analytics dashboards to track attrition, headcount, and hiring funnel metrics",
+        "Partner with senior leadership on workforce planning and organizational design",
+        "Manage compliance with South African labour legislation and internal HR policy updates"
       ],
       "technologies": [
-        "BambooHR",
+        "Workday",
         "Power BI",
         "Greenhouse",
-        "Workday"
+        "Excel"
       ]
     },
     {
-      "company_name": "Solstice Retail Group",
-      "role": "HR Operations Lead",
+      "company_name": "Vantage Harbour Group",
+      "role": "HR Business Partner",
       "location": "Cape Town, South Africa",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Managed full-cycle recruiting for retail and corporate positions nationwide",
-        "Administered HRIS system migrations and maintained employee records",
-        "Developed people analytics reports for quarterly leadership reviews",
-        "Coordinated onboarding programs and improved new-hire retention rates",
-        "Handled employee relations cases and disciplinary processes"
+        "Supported recruiting cycles for mid-level and senior hires across finance and operations departments",
+        "Administered and improved HRIS workflows to reduce manual data entry errors",
+        "Generated monthly people analytics reports for department heads",
+        "Advised managers on performance management and employee relations matters",
+        "Coordinated onboarding programs for new hires across two office locations"
       ],
       "technologies": [
+        "BambooHR",
         "SAP SuccessFactors",
-        "Excel",
-        "LinkedIn Recruiter"
+        "Excel"
       ]
     },
     {
-      "company_name": "Coastal Harbor Logistics",
+      "company_name": "Kestrel Ridge Consulting",
       "role": "HR Generalist",
       "location": "Cape Town, South Africa",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Supported recruiting efforts for operations and warehouse staff",
-        "Maintained HRIS records and processed employee lifecycle changes",
-        "Assisted with payroll input and benefits administration",
-        "Compiled basic HR reports for management review"
+        "Assisted with full-cycle recruiting including screening, interviewing, and offer coordination",
+        "Maintained employee records and updated HRIS system entries",
+        "Supported payroll input verification and benefits administration",
+        "Handled first-line employee queries and escalated complex cases appropriately"
       ],
       "technologies": [
-        "Sage HR",
-        "Microsoft Excel"
+        "Sage People",
+        "Microsoft Office"
       ]
     }
   ],
@@ -80,13 +80,13 @@
     {
       "institution": "University of Cape Town",
       "degree": "Bachelor of Commerce",
-      "field": "Human Resource Management",
+      "field": "Human Resources Management",
       "graduation_year": 2016
     }
   ],
   "languages": [
     "English - Native",
     "Afrikaans - B2",
-    "Zulu - B1"
+    "Xhosa - B1"
   ]
 }

@@ -1,13 +1,10 @@
 from pathlib import Path
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
-from reportlab.lib.styles import (ParagraphStyle, getSampleStyleSheet)
+from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import mm
-from reportlab.platypus import (Image, KeepTogether, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle)
-
-from app.models.candidate_info import (
-    Candidate,
-)
+from reportlab.platypus import Image, KeepTogether, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
+from app.models.candidate_info import Candidate
 
 
 class CandidatePDFRenderer:
@@ -85,14 +82,14 @@ class CandidatePDFRenderer:
         )
 
         if image_path.exists():
-            portrait = Image(
+            candidate_photo = Image(
                 str(image_path),
                 width=32 * mm,
                 height=32 * mm,
             )
 
             header = Table(
-                [[portrait, identity]],
+                [[candidate_photo, identity]],
                 colWidths=[
                     38 * mm,
                     128 * mm,

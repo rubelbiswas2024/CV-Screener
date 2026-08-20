@@ -1,79 +1,80 @@
 {
   "candidate_id": "C021",
-  "name": "Michael Reynolds",
+  "name": "Marcus Whitfield",
   "headline": "Senior Business Development Manager | B2B SaaS Sales Leader",
-  "email": "c021.112@example.test",
-  "phone": "+00 000 424 519",
+  "email": "c021.754@example.test",
+  "phone": "+00 000 375 978",
   "location": "New York, United States",
-  "summary": "Results-driven Senior Business Development professional with 9 years of experience driving revenue growth in B2B SaaS environments. Proven track record of building strategic client relationships, leading complex negotiations, and exceeding sales quotas within competitive enterprise markets. Skilled at leveraging CRM data to optimize pipeline management and close high-value deals.",
+  "summary": "Results-driven sales professional with 9 years of experience driving revenue growth in B2B SaaS environments. Skilled in complex negotiations, pipeline management, and building long-term enterprise partnerships. Proven track record of consistently meeting quota while mentoring junior sales talent.",
   "skills": [
     "B2B SaaS Sales",
     "Salesforce",
     "Negotiation",
-    "Enterprise Account Management",
+    "Account Management",
     "Pipeline Development",
     "Consultative Selling",
     "HubSpot",
     "Contract Negotiation",
-    "Team Leadership",
-    "Market Analysis"
+    "Territory Planning",
+    "Cross-functional Collaboration"
   ],
   "experience": [
     {
-      "company_name": "Vertex Cloud Solutions",
+      "company_name": "Nimbus Cloud Solutions",
       "role": "Senior Business Development Manager",
-      "location": "New York, United States",
+      "location": "New York, NY",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead enterprise sales strategy for SaaS platform targeting mid-to-large B2B clients",
-        "Negotiate multi-year contracts with annual values exceeding $500K",
-        "Manage and mentor a team of 4 business development representatives",
-        "Utilize Salesforce to track pipeline health and forecast quarterly revenue",
-        "Collaborate with product and marketing teams to align go-to-market strategies"
+        "Lead enterprise sales cycles from prospecting to close for mid-market and enterprise SaaS accounts",
+        "Negotiate multi-year contracts with C-level stakeholders",
+        "Manage and forecast pipeline using Salesforce CRM",
+        "Mentor a team of 4 junior account executives",
+        "Collaborate with product and customer success teams to align on client needs"
       ],
       "technologies": [
         "Salesforce",
         "HubSpot",
-        "LinkedIn Sales Navigator",
-        "Gong"
+        "Outreach",
+        "Gong",
+        "Slack"
       ]
     },
     {
-      "company_name": "Northbridge Software Inc.",
+      "company_name": "Vertex Analytics Inc.",
       "role": "Business Development Manager",
-      "location": "New York, United States",
+      "location": "New York, NY",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Managed full sales cycle for SaaS solutions across finance and healthcare verticals",
-        "Built and maintained relationships with C-level stakeholders at target accounts",
-        "Achieved consistent quota attainment through structured outbound prospecting",
-        "Conducted contract negotiations and pricing discussions with enterprise clients",
-        "Trained junior sales staff on CRM best practices"
+        "Drove new business acquisition across mid-market SaaS segment",
+        "Built and maintained relationships with key decision-makers",
+        "Conducted contract negotiations and pricing discussions",
+        "Utilized Salesforce for opportunity tracking and reporting",
+        "Achieved consistent quarterly quota attainment"
       ],
       "technologies": [
         "Salesforce",
-        "Outreach",
-        "Zoom"
+        "ZoomInfo",
+        "LinkedIn Sales Navigator"
       ]
     },
     {
-      "company_name": "Parallax Data Systems",
+      "company_name": "Brightline Technologies",
       "role": "Account Executive",
-      "location": "New York, United States",
+      "location": "New York, NY",
       "start_year": 2015,
       "end_year": 2018,
       "responsibilities": [
-        "Prospected and qualified new business opportunities within SMB and mid-market segments",
-        "Delivered product demonstrations and proposals to prospective clients",
-        "Maintained accurate records of sales activity in CRM system",
-        "Collaborated with customer success team to ensure smooth onboarding"
+        "Managed full sales cycle for SMB SaaS clients",
+        "Generated and qualified leads through outbound prospecting",
+        "Prepared proposals and conducted product demonstrations",
+        "Maintained accurate records in CRM system"
       ],
       "technologies": [
         "Salesforce",
         "Excel",
-        "GoToMeeting"
+        "Zoom"
       ]
     }
   ],

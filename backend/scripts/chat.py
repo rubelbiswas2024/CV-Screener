@@ -37,9 +37,8 @@ class ChatSession:
 
 
 def main() -> None:
-    """CLI entry point: start the interactive chat session."""
+    """Entry point: start the interactive chat session."""
     ChatSession().run()
-
 
 if __name__ == "__main__":
     main()

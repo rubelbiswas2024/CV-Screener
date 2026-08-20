@@ -9,9 +9,7 @@ class Settings(BaseSettings):
 
     anthropic_api_key: str
     llm_model: str = "claude-opus-5"
-
     image_model: str = "flux"
-
     embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
 
     cv_dir: Path = Path("./data/resumes")
@@ -19,22 +17,17 @@ class Settings(BaseSettings):
     image_dir: Path = Path("./data/photos")
     chroma_dir: Path = Field(default=Path("./data/databases"), alias="DATABASE_DIR")
 
-
-
-    chunk_size: int = 900
-    chunk_overlap_size: int = 150
-    top_k: int = 8
-
+    chunk_size: int = 2600
+    chunk_overlap_size: int = 200
+    top_k: int = 40
 
     log_level:str = "INFO"
-
 
     model_config = SettingsConfigDict(
         env_file=("../.env", ".env"),
         env_file_encoding="utf-8",
         extra="ignore",
     )
-
 
 @lru_cache
 def get_settings() -> Settings:

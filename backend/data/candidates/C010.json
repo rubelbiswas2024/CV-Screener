@@ -1,11 +1,11 @@
 {
   "candidate_id": "C010",
   "name": "Aoife Byrne",
-  "headline": "Product Manager | Roadmapping & User-Centric Product Strategy",
-  "email": "c010.704@example.test",
-  "phone": "+00 000 590 696",
+  "headline": "Product Manager",
+  "email": "c010.222@example.test",
+  "phone": "+00 000 226 899",
   "location": "Dublin, Ireland",
-  "summary": "Product Manager with 4 years of experience delivering user-centric digital products across fintech and SaaS environments. Skilled in roadmapping, user research, and cross-functional collaboration to translate customer needs into actionable product features. Proven ability to manage backlogs, prioritize initiatives, and work closely with engineering and design teams to ship impactful releases.",
+  "summary": "Product Manager with 4 years of experience delivering user-centric digital products in fast-paced SaaS environments. Skilled in translating user research into actionable roadmaps and collaborating with cross-functional teams to ship impactful features. Strong communicator with a track record of managing product backlogs and driving stakeholder alignment.",
   "skills": [
     "Roadmapping",
     "User Research",
@@ -20,24 +20,23 @@
   ],
   "experience": [
     {
-      "company_name": "Greenfield Digital Solutions",
+      "company_name": "Greenfield Digital",
       "role": "Product Manager",
       "location": "Dublin, Ireland",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Own product roadmap for a B2B SaaS platform serving mid-market clients",
-        "Conduct user research interviews and usability testing to inform feature prioritization",
-        "Manage sprint backlogs and coordinate with engineering teams using Jira",
-        "Collaborate with design team to refine user flows and wireframes",
-        "Present quarterly roadmap updates to stakeholders and leadership"
+        "Own the product roadmap for a B2B analytics platform used by mid-market clients",
+        "Conduct regular user interviews and usability testing to inform feature prioritisation",
+        "Collaborate with engineering and design teams to define requirements and acceptance criteria",
+        "Manage the product backlog and sprint planning using Jira",
+        "Present quarterly roadmap updates to senior stakeholders"
       ],
       "technologies": [
         "Jira",
         "Confluence",
         "Figma",
-        "Mixpanel",
-        "Slack"
+        "Amplitude"
       ]
     },
     {
@@ -47,17 +46,15 @@
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Supported senior PM in defining product requirements and user stories",
-        "Assisted in running customer interviews and synthesizing research findings",
-        "Maintained product backlog and tracked sprint progress in Jira",
-        "Coordinated with QA team to validate feature releases",
-        "Analyzed user feedback to identify improvement opportunities"
+        "Supported senior PMs in gathering and prioritising customer feedback",
+        "Ran user research sessions to validate new feature concepts",
+        "Wrote user stories and maintained the product backlog in Jira",
+        "Assisted in coordinating release schedules across engineering teams"
       ],
       "technologies": [
         "Jira",
         "Trello",
-        "Google Analytics",
-        "Miro"
+        "Google Analytics"
       ]
     }
   ],

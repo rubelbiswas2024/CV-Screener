@@ -1,5 +1,4 @@
 import logging
-
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_anthropic import ChatAnthropic
 from langgraph.graph import END, START, StateGraph
@@ -11,6 +10,15 @@ from app.ingestion.chunk_indexing import IndexBuilder
 
 
 logger = logging.getLogger(__name__)
+
+
+def _extract_text(content) -> str:
+    """Pull the text out of an Anthropic response, skipping thinking/other blocks."""
+    if isinstance(content, str):
+        return content
+    return "".join(
+        block.get("text", "") for block in content if isinstance(block, dict) and block.get("type") == "text"
+    )
 
 
 class RAGPipeline:
@@ -81,7 +89,7 @@ class RAGPipeline:
                 }
             )
 
-        return {"answer": str(response.content), "sources": unique_sources}
+        return {"answer": _extract_text(response.content), "sources": unique_sources}
 
     def _build_graph(self):
         """Wire retrieve -> generate into a compiled LangGraph graph."""

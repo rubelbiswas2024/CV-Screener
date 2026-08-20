@@ -1,11 +1,11 @@
 {
   "candidate_id": "C002",
-  "name": "Marc Oliveras Puig",
-  "headline": "AI / ML Engineer specializing in LLM-based Applications",
-  "email": "c002.206@example.test",
-  "phone": "+00 000 450 719",
+  "name": "Marta Vidal Roig",
+  "headline": "AI/ML Engineer specializing in LLM Applications and Agentic Systems",
+  "email": "c002.623@example.test",
+  "phone": "+00 000 641 188",
   "location": "Barcelona, Spain",
-  "summary": "AI/ML Engineer with 4 years of experience building and deploying machine learning and generative AI solutions. Skilled in designing LLM-powered agent workflows using LangChain and LangGraph, and deploying scalable pipelines on GCP. Strong background in Python-based model development, data engineering, and MLOps practices.",
+  "summary": "AI/ML Engineer with 4 years of experience building production-grade machine learning systems and LLM-powered applications. Skilled in designing agentic workflows with LangChain and LangGraph, deploying scalable pipelines on GCP, and collaborating with cross-functional teams to deliver reliable AI solutions. Passionate about applying NLP and generative AI to solve real business problems.",
   "skills": [
     "Python",
     "LangChain",
@@ -16,22 +16,22 @@
     "SQL",
     "Vertex AI",
     "REST APIs",
-    "MLOps",
+    "Prompt Engineering",
     "Kubernetes"
   ],
   "experience": [
     {
-      "company_name": "NimbusData Solutions",
+      "company_name": "NexoData Solutions",
       "role": "Machine Learning Engineer",
       "location": "Barcelona, Spain",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Design and deploy LLM-based agent workflows using LangChain and LangGraph for internal automation tools",
-        "Build and maintain ML pipelines on GCP using Vertex AI and Cloud Functions",
-        "Collaborate with product teams to integrate generative AI features into customer-facing applications",
-        "Monitor model performance and implement retraining pipelines",
-        "Containerize services with Docker and manage deployments via Kubernetes"
+        "Design and maintain LLM-based agents using LangChain and LangGraph for customer support automation",
+        "Deploy and monitor ML models on Google Cloud Platform using Vertex AI and Cloud Run",
+        "Collaborate with product teams to define requirements for AI-driven features",
+        "Build data pipelines for training and evaluating NLP models",
+        "Optimize inference latency and cost for production LLM applications"
       ],
       "technologies": [
         "Python",
@@ -39,42 +39,41 @@
         "LangGraph",
         "GCP",
         "Vertex AI",
-        "Docker",
-        "Kubernetes"
+        "Docker"
       ]
     },
     {
-      "company_name": "Cortex Analytics",
+      "company_name": "Innovatech Labs",
       "role": "Junior Data Scientist",
       "location": "Barcelona, Spain",
-      "start_year": 2020,
+      "start_year": 2021,
       "end_year": 2022,
       "responsibilities": [
-        "Developed predictive models for customer churn using Python and scikit-learn",
-        "Built ETL pipelines to process structured and unstructured data from multiple sources",
-        "Assisted senior engineers in deploying models to production using GCP services",
-        "Created dashboards and reports to communicate model insights to stakeholders"
+        "Developed and validated predictive models for internal analytics use cases",
+        "Assisted in building ETL pipelines using Python and SQL",
+        "Supported senior engineers in deploying models to cloud infrastructure",
+        "Conducted exploratory data analysis and prepared reports for stakeholders"
       ],
       "technologies": [
         "Python",
-        "scikit-learn",
         "SQL",
-        "GCP",
-        "BigQuery"
+        "Pandas",
+        "Scikit-learn",
+        "GCP"
       ]
     }
   ],
   "education": [
     {
       "institution": "Universitat Politècnica de Catalunya (UPC)",
-      "degree": "Bachelor's Degree",
-      "field": "Computer Science",
-      "graduation_year": 2020
+      "degree": "Master's Degree",
+      "field": "Data Science and Artificial Intelligence",
+      "graduation_year": 2021
     }
   ],
   "languages": [
-    "Catalan - Native",
     "Spanish - Native",
+    "Catalan - Native",
     "English - C1"
   ]
 }

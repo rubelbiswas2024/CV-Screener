@@ -1,11 +1,11 @@
 {
   "candidate_id": "C012",
-  "name": "Beatriz Fernandes Costa",
+  "name": "Beatriz Almeida Santos",
   "headline": "Junior UX/Product Designer",
-  "email": "c012.600@example.test",
-  "phone": "+00 000 920 169",
+  "email": "c012.204@example.test",
+  "phone": "+00 000 874 797",
   "location": "São Paulo, Brazil",
-  "summary": "Junior UX/Product Designer with 2 years of experience creating user-centered digital experiences. Skilled in wireframing, prototyping, and conducting basic usability research to support product decisions. Collaborative team player passionate about translating user needs into intuitive interfaces.",
+  "summary": "Junior UX/Product Designer with 2 years of experience creating user-centered digital products. Skilled in wireframing, prototyping, and conducting usability tests to inform design decisions. Passionate about collaborating with cross-functional teams to deliver intuitive interfaces.",
   "skills": [
     "Figma",
     "Prototyping",
@@ -14,20 +14,21 @@
     "Usability Testing",
     "Design Systems",
     "Adobe XD",
-    "Interaction Design"
+    "Interaction Design",
+    "Miro"
   ],
   "experience": [
     {
-      "company_name": "Nuvira Tech",
+      "company_name": "Nuvem Digital Soluções",
       "role": "UX Design Intern",
       "location": "São Paulo, Brazil",
       "start_year": 2022,
       "end_year": 2023,
       "responsibilities": [
-        "Assisted senior designers in creating wireframes and prototypes for mobile applications",
-        "Conducted user interviews and compiled feedback reports",
-        "Participated in design critique sessions to refine UI components",
-        "Helped maintain the company's design system in Figma"
+        "Assisted in creating wireframes and low-fidelity prototypes for mobile applications",
+        "Conducted user interviews and synthesized findings into actionable insights",
+        "Collaborated with developers to ensure design feasibility",
+        "Supported the design team in maintaining the company's design system"
       ],
       "technologies": [
         "Figma",
@@ -36,31 +37,30 @@
       ]
     },
     {
-      "company_name": "Aveline Digital",
+      "company_name": "Pixel Rota Tecnologia",
       "role": "Junior Product Designer",
       "location": "São Paulo, Brazil",
       "start_year": 2023,
       "end_year": null,
       "responsibilities": [
-        "Designed low and high-fidelity prototypes for web and mobile products",
-        "Collaborated with product managers and developers to define user flows",
-        "Conducted usability tests with 5-10 participants per sprint cycle",
-        "Iterated on designs based on user feedback and analytics data",
-        "Contributed to the creation of a scalable component library"
+        "Designed high-fidelity prototypes for web and mobile products using Figma",
+        "Conducted usability testing sessions and iterated designs based on feedback",
+        "Worked closely with product managers to translate requirements into user flows",
+        "Created and maintained design documentation for handoff to engineering"
       ],
       "technologies": [
         "Figma",
         "Prototyping",
-        "Notion",
-        "Zeplin"
+        "Zeplin",
+        "Notion"
       ]
     }
   ],
   "education": [
     {
       "institution": "Universidade de São Paulo (USP)",
-      "degree": "Bacharelado",
-      "field": "Design Digital",
+      "degree": "Bachelor's Degree",
+      "field": "Design",
       "graduation_year": 2022
     }
   ],

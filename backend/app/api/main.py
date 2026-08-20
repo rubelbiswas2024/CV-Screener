@@ -44,7 +44,7 @@ app = api.app
 
 
 def main() -> None:
-    """CLI entry point: run the API with uvicorn."""
+    """Entry point: run the API with uvicorn."""
     import uvicorn
 
     uvicorn.run("app.api.main:app", host="0.0.0.0", port=8000, reload=True)

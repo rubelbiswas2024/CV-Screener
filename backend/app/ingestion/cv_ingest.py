@@ -2,7 +2,7 @@ from app.core.logging import configure_logging
 from app.ingestion.chunk_indexing import IndexBuilder
 
 
-class CVIngestCLI:
+class CVIngest:
     """Command-line entry point that rebuilds the CV vector index."""
 
     def run(self) -> None:
@@ -11,11 +11,9 @@ class CVIngestCLI:
         count = IndexBuilder().rebuild()
         print(f"Indexed {count} chunks.")
 
-
 def main() -> None:
-    """CLI entry point: rebuild the CV vector index."""
-    CVIngestCLI().run()
-
+    """Entry point: rebuild the CV vector index."""
+    CVIngest().run()
 
 if __name__ == "__main__":
     main()

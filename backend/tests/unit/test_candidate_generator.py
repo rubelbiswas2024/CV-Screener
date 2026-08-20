@@ -1,5 +1,4 @@
 import json
-
 from app.generation.candidate_generator import CandidateGenerator
 from app.models.candidate_info import Candidate
 
@@ -36,13 +35,10 @@ def _sample_candidate() -> Candidate:
         languages=["English - C1"],
     )
 
-
 def test_save_writes_readable_json(tmp_path):
     candidate = _sample_candidate()
     output_path = tmp_path / "candidates" / "C001.json"
-
     CandidateGenerator.save(candidate, output_path)
-
     assert output_path.exists()
     saved = json.loads(output_path.read_text(encoding="utf-8"))
     assert saved["candidate_id"] == "C001"

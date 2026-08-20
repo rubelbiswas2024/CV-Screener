@@ -1,11 +1,11 @@
 {
   "candidate_id": "C028",
-  "name": "Mariana Rojas Peña",
+  "name": "Valentina Rojas Medina",
   "headline": "Junior Data Scientist",
-  "email": "c028.143@example.test",
-  "phone": "+00 000 126 571",
+  "email": "c028.590@example.test",
+  "phone": "+00 000 763 787",
   "location": "Bogotá, Colombia",
-  "summary": "Junior Data Scientist with 1 year of experience applying statistical analysis and machine learning techniques to support business decision-making. Skilled in Python and SQL for data extraction, cleaning, and modeling. Strong analytical foundation from Universidad de los Andes with a focus on turning data into actionable insights.",
+  "summary": "Junior Data Scientist with 1 year of experience applying statistical analysis and machine learning techniques to solve business problems. Proficient in Python and SQL for data extraction, cleaning, and modeling. Recent graduate from Universidad de los Andes with strong analytical foundation and eagerness to grow in data-driven environments.",
   "skills": [
     "Python",
     "SQL",
@@ -25,18 +25,18 @@
       "start_year": 2023,
       "end_year": null,
       "responsibilities": [
-        "Cleaned and preprocessed datasets using Python and SQL for analytics projects",
-        "Built statistical models to identify trends in customer behavior data",
-        "Collaborated with senior data scientists to develop predictive models for churn analysis",
-        "Created dashboards and reports using Power BI to communicate findings to stakeholders",
-        "Assisted in A/B testing design and statistical significance evaluation"
+        "Cleaned and preprocessed datasets using Python and SQL for internal analytics projects",
+        "Built exploratory data analysis reports to support business decision-making",
+        "Assisted senior data scientists in developing predictive models using regression and classification techniques",
+        "Automated recurring reporting tasks using Python scripts",
+        "Documented data pipelines and model results for internal stakeholders"
       ],
       "technologies": [
         "Python",
         "SQL",
         "Pandas",
-        "Power BI",
         "Scikit-learn",
+        "Power BI",
         "Git"
       ]
     }

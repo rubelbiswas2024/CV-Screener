@@ -1,11 +1,11 @@
 {
   "candidate_id": "C026",
-  "name": "Marc Puig Serra",
+  "name": "Marta Vidal Puig",
   "headline": "Junior Backend Engineer",
-  "email": "c026.225@example.test",
-  "phone": "+00 000 380 969",
+  "email": "c026.729@example.test",
+  "phone": "+00 000 263 184",
   "location": "Barcelona, Spain",
-  "summary": "Junior Backend Engineer with 2 years of experience building and maintaining RESTful APIs and server-side applications using Python and Flask. Comfortable working with relational databases and collaborating in agile teams to deliver reliable, well-tested backend services.",
+  "summary": "Junior Backend Engineer with 2 years of experience building and maintaining server-side applications using Python and Flask. Comfortable working with relational databases, particularly PostgreSQL, and collaborating in agile teams to deliver reliable, well-tested code.",
   "skills": [
     "Python",
     "Flask",
@@ -13,48 +13,53 @@
     "REST APIs",
     "Git",
     "Docker",
-    "SQLAlchemy",
+    "SQL",
     "Linux",
-    "Unit Testing"
+    "Unit Testing",
+    "Celery"
   ],
   "experience": [
     {
-      "company_name": "Dataloop Solutions",
-      "role": "Backend Developer",
+      "company_name": "Nubia Software",
+      "role": "Backend Developer Intern",
       "location": "Barcelona, Spain",
-      "start_year": 2023,
-      "end_year": null,
+      "start_year": 2022,
+      "end_year": 2023,
       "responsibilities": [
-        "Develop and maintain internal REST APIs using Flask and SQLAlchemy",
-        "Design and optimize PostgreSQL database schemas and queries",
-        "Write unit and integration tests to ensure code reliability",
-        "Collaborate with frontend team to define API contracts",
-        "Participate in code reviews and daily stand-ups"
+        "Developed and maintained REST API endpoints using Flask",
+        "Wrote SQL queries and optimized database schemas in PostgreSQL",
+        "Collaborated with senior developers to fix bugs and implement new features",
+        "Participated in daily stand-ups and sprint planning sessions",
+        "Assisted in writing unit tests to improve code coverage"
       ],
       "technologies": [
         "Python",
         "Flask",
         "PostgreSQL",
-        "Docker",
-        "Git"
+        "Git",
+        "Docker"
       ]
     },
     {
-      "company_name": "Nimbus Tech Barcelona",
-      "role": "Junior Software Developer",
+      "company_name": "Orbita Tech Solutions",
+      "role": "Junior Backend Engineer",
       "location": "Barcelona, Spain",
-      "start_year": 2022,
-      "end_year": 2023,
+      "start_year": 2023,
+      "end_year": null,
       "responsibilities": [
-        "Assisted in building backend features for a Python-based web application",
-        "Fixed bugs and implemented minor enhancements in existing Flask services",
-        "Wrote basic automated tests and documentation",
-        "Supported database migrations using SQL scripts"
+        "Built and maintained backend services using Python and Flask",
+        "Designed database tables and wrote migration scripts for PostgreSQL",
+        "Implemented background task processing with Celery",
+        "Worked closely with frontend developers to integrate APIs",
+        "Monitored application logs and resolved production issues",
+        "Contributed to code reviews to ensure quality standards"
       ],
       "technologies": [
         "Python",
         "Flask",
-        "SQL",
+        "PostgreSQL",
+        "Celery",
+        "Docker",
         "Git"
       ]
     }

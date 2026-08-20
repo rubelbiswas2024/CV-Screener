@@ -1,93 +1,92 @@
 {
   "candidate_id": "C019",
-  "name": "Emily Hartson",
+  "name": "Emily Foster",
   "headline": "Growth Marketing Specialist",
-  "email": "c019.399@example.test",
-  "phone": "+00 000 775 311",
+  "email": "c019.508@example.test",
+  "phone": "+00 000 822 827",
   "location": "London, United Kingdom",
-  "summary": "Results-driven Growth Marketing Specialist with 5 years of experience developing and executing data-informed marketing strategies. Skilled in SEO, analytics, and experimentation to drive user acquisition and retention across digital channels.",
+  "summary": "Results-driven Growth Marketing Specialist with 5 years of experience driving user acquisition, retention, and revenue growth through data-informed marketing strategies. Skilled in SEO, analytics, and experimentation frameworks, with a track record of optimising conversion funnels across B2C digital products.",
   "skills": [
     "SEO",
     "Google Analytics",
     "A/B Testing",
-    "Content Marketing",
+    "Conversion Rate Optimisation",
     "Google Ads",
+    "Content Marketing",
     "Email Marketing Automation",
-    "CRO",
-    "SQL Basics",
+    "Google Tag Manager",
+    "Data Analysis",
     "HubSpot"
   ],
   "experience": [
     {
-      "company_name": "BrightPath Digital",
-      "role": "Growth Marketing Executive",
-      "location": "London, United Kingdom",
-      "start_year": 2019,
-      "end_year": 2021,
-      "responsibilities": [
-        "Managed on-page and technical SEO improvements for client websites",
-        "Set up and monitored Google Analytics dashboards to track KPIs",
-        "Designed and executed A/B tests on landing pages to improve conversion rates",
-        "Coordinated with content team to align SEO strategy with campaign goals"
-      ],
-      "technologies": [
-        "Google Analytics",
-        "SEMrush",
-        "Google Search Console",
-        "Optimizely"
-      ]
-    },
-    {
-      "company_name": "Northlight Media",
-      "role": "Growth Marketing Associate",
-      "location": "London, United Kingdom",
-      "start_year": 2021,
-      "end_year": 2022,
-      "responsibilities": [
-        "Led keyword research and content optimization initiatives",
-        "Analyzed user behavior data to identify growth opportunities",
-        "Ran A/B tests on email campaigns to improve open and click-through rates",
-        "Collaborated with product team on onboarding funnel improvements"
-      ],
-      "technologies": [
-        "Google Analytics",
-        "Mailchimp",
-        "Hotjar",
-        "Ahrefs"
-      ]
-    },
-    {
-      "company_name": "Vantix Solutions",
-      "role": "Growth Marketing Manager (Mid-level)",
+      "company_name": "Northgate Digital",
+      "role": "Growth Marketing Manager",
       "location": "London, United Kingdom",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Own SEO strategy and roadmap across multiple product lines",
-        "Conduct A/B testing on website and app features to optimize conversion",
-        "Build and maintain reporting dashboards in Google Analytics and Looker Studio",
-        "Manage paid and organic channel budgets to support growth targets",
-        "Mentor junior marketing team members on best practices"
+        "Lead growth strategy across paid, organic, and lifecycle marketing channels",
+        "Design and execute A/B tests to optimise landing pages and improve conversion rates",
+        "Manage SEO strategy resulting in steady increase in organic traffic",
+        "Collaborate with product team to improve onboarding funnel using data insights",
+        "Report on KPIs to senior stakeholders using Google Analytics dashboards"
       ],
       "technologies": [
         "Google Analytics",
-        "Looker Studio",
-        "Google Ads",
+        "Google Tag Manager",
         "Optimizely",
+        "SEMrush",
         "HubSpot"
+      ]
+    },
+    {
+      "company_name": "Bright Path Media",
+      "role": "Digital Marketing Executive",
+      "location": "London, United Kingdom",
+      "start_year": 2020,
+      "end_year": 2022,
+      "responsibilities": [
+        "Executed on-page and off-page SEO initiatives to improve search rankings",
+        "Ran A/B tests on email campaigns to improve open and click-through rates",
+        "Monitored website performance using Google Analytics and identified growth opportunities",
+        "Assisted in planning and executing paid social campaigns"
+      ],
+      "technologies": [
+        "Google Analytics",
+        "Ahrefs",
+        "Mailchimp",
+        "Facebook Ads Manager"
+      ]
+    },
+    {
+      "company_name": "Clearview Marketing Group",
+      "role": "Marketing Assistant",
+      "location": "Manchester, United Kingdom",
+      "start_year": 2019,
+      "end_year": 2020,
+      "responsibilities": [
+        "Supported the marketing team with content creation and social media scheduling",
+        "Conducted keyword research to support SEO efforts",
+        "Compiled monthly performance reports using Google Analytics"
+      ],
+      "technologies": [
+        "Google Analytics",
+        "WordPress",
+        "Hootsuite"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Manchester",
-      "degree": "BA (Hons)",
+      "degree": "Bachelor of Science",
       "field": "Marketing",
       "graduation_year": 2019
     }
   ],
   "languages": [
     "English - Native",
-    "French - B1"
+    "French - B2"
   ]
 }

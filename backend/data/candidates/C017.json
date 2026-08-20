@@ -1,36 +1,36 @@
 {
   "candidate_id": "C017",
-  "name": "Mariana Torres Delgado",
-  "headline": "Senior Full-Stack Engineer",
-  "email": "c017.426@example.test",
-  "phone": "+00 000 770 751",
+  "name": "Mariana Del Castillo Rojas",
+  "headline": "Senior Full-Stack Engineer | React, Node.js & AWS",
+  "email": "c017.663@example.test",
+  "phone": "+00 000 115 837",
   "location": "Mexico City, Mexico",
-  "summary": "Senior Full-Stack Engineer with 7 years of experience building scalable web applications using React, Node.js, and AWS. Skilled in leading feature development, mentoring junior engineers, and designing cloud-native architectures for high-traffic products.",
+  "summary": "Senior Full-Stack Engineer with 7 years of experience designing and building scalable web applications using React, Node.js, and AWS. Skilled in leading small engineering teams, architecting cloud-native solutions, and delivering maintainable code across the full stack. Passionate about mentoring junior developers and improving engineering processes.",
   "skills": [
     "React",
     "Node.js",
     "AWS",
     "TypeScript",
     "GraphQL",
-    "PostgreSQL",
     "Docker",
+    "PostgreSQL",
     "CI/CD",
     "Redis",
     "Microservices"
   ],
   "experience": [
     {
-      "company_name": "Nexova Digital",
+      "company_name": "NubeTech Soluciones",
       "role": "Senior Full-Stack Engineer",
       "location": "Mexico City, Mexico",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Lead development of customer-facing web platform using React and Node.js",
+        "Lead development of a multi-tenant SaaS platform using React and Node.js",
         "Design and maintain AWS infrastructure including Lambda, ECS, and RDS",
-        "Mentor mid-level engineers and conduct code reviews",
-        "Collaborate with product managers to define technical requirements",
-        "Implement CI/CD pipelines to streamline deployments"
+        "Mentor a team of 4 junior and mid-level developers",
+        "Implement CI/CD pipelines to streamline deployment processes",
+        "Collaborate with product managers to define technical requirements"
       ],
       "technologies": [
         "React",
@@ -42,42 +42,43 @@
       ]
     },
     {
-      "company_name": "Bluewave Software",
-      "role": "Full-Stack Engineer",
+      "company_name": "Vertice Digital",
+      "role": "Full-Stack Developer",
       "location": "Mexico City, Mexico",
       "start_year": 2019,
       "end_year": 2021,
       "responsibilities": [
-        "Developed RESTful APIs and backend services with Node.js and Express",
-        "Built responsive front-end interfaces using React and Redux",
-        "Integrated third-party payment and messaging APIs",
-        "Optimized database queries to improve application performance"
+        "Built RESTful APIs with Node.js and Express for e-commerce clients",
+        "Developed responsive front-end interfaces using React and Redux",
+        "Migrated legacy applications to AWS cloud infrastructure",
+        "Optimized database queries improving application performance",
+        "Participated in code reviews and agile ceremonies"
       ],
       "technologies": [
         "React",
         "Node.js",
-        "MongoDB",
-        "Express",
-        "AWS"
+        "AWS",
+        "Redux",
+        "MongoDB"
       ]
     },
     {
-      "company_name": "Codeforma Solutions",
-      "role": "Junior Software Developer",
-      "location": "Mexico City, Mexico",
+      "company_name": "Codeflow Labs",
+      "role": "Frontend Developer",
+      "location": "Guadalajara, Mexico",
       "start_year": 2017,
       "end_year": 2019,
       "responsibilities": [
-        "Assisted in building internal tools using JavaScript and React",
-        "Fixed bugs and implemented small features under senior guidance",
-        "Wrote unit tests to improve code reliability",
-        "Participated in agile sprint planning and daily standups"
+        "Developed and maintained client-facing web applications using React",
+        "Collaborated with backend team to integrate REST APIs",
+        "Wrote unit and integration tests to ensure code quality",
+        "Assisted in translating UI/UX designs into functional components"
       ],
       "technologies": [
-        "JavaScript",
         "React",
-        "Node.js",
-        "MySQL"
+        "JavaScript",
+        "CSS",
+        "Jest"
       ]
     }
   ],

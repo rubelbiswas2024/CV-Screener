@@ -1,64 +1,81 @@
 {
   "candidate_id": "C007",
-  "name": "Michał Kowalczyk",
-  "headline": "Data Engineer | Python, Airflow, GCP",
-  "email": "c007.661@example.test",
-  "phone": "+00 000 977 300",
+  "name": "Marta Kowalczyk",
+  "headline": "Data Engineer specializing in cloud pipelines and analytics infrastructure",
+  "email": "c007.459@example.test",
+  "phone": "+00 000 403 818",
   "location": "Warsaw, Poland",
-  "summary": "Data Engineer with 5 years of experience designing and maintaining scalable ETL pipelines and cloud-based data infrastructure. Skilled in building automated workflows with Airflow, optimizing SQL-based data models, and deploying data solutions on Google Cloud Platform. Focused on delivering reliable, well-documented data systems that support analytics and business decision-making.",
+  "summary": "Data Engineer with 5 years of experience designing and maintaining scalable ETL/ELT pipelines on Google Cloud Platform. Skilled in Python, SQL, and Airflow orchestration, with a strong focus on data quality, automation, and collaboration with analytics teams to deliver reliable data solutions.",
   "skills": [
     "Python",
     "Airflow",
     "SQL",
     "GCP",
     "BigQuery",
-    "dbt",
     "Docker",
-    "Kafka",
+    "dbt",
     "Terraform",
+    "Kafka",
     "Git"
   ],
   "experience": [
     {
-      "company_name": "Vistula Data Solutions",
+      "company_name": "Nortex Analytics",
       "role": "Data Engineer",
       "location": "Warsaw, Poland",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Design and maintain Airflow DAGs for daily ETL pipelines processing transactional and event data",
-        "Develop Python scripts for data extraction, transformation, and validation across multiple source systems",
-        "Optimize BigQuery SQL queries to improve pipeline performance and reduce processing costs",
-        "Collaborate with analytics team to define data models supporting reporting dashboards",
-        "Implement monitoring and alerting for pipeline failures using Cloud Monitoring"
+        "Design and maintain ETL pipelines using Airflow and Python for ingesting data from multiple sources into BigQuery",
+        "Optimize SQL queries and data models to improve reporting performance for analytics teams",
+        "Implement CI/CD pipelines for data workflows using Cloud Build and GitHub Actions",
+        "Collaborate with data scientists to prepare curated datasets for machine learning projects",
+        "Monitor pipeline health and troubleshoot data quality issues in production"
       ],
       "technologies": [
         "Python",
         "Airflow",
         "BigQuery",
         "GCP",
-        "SQL",
-        "Docker"
+        "Docker",
+        "SQL"
       ]
     },
     {
-      "company_name": "Nordic Analytics Group",
+      "company_name": "Vistula Data Solutions",
       "role": "Junior Data Engineer",
       "location": "Warsaw, Poland",
       "start_year": 2020,
       "end_year": 2022,
       "responsibilities": [
-        "Built and maintained batch data pipelines using Python and SQL for internal reporting needs",
-        "Assisted in migrating on-premise data warehouse workloads to Google Cloud Platform",
-        "Wrote unit tests and documentation for ETL processes to improve maintainability",
-        "Supported senior engineers in troubleshooting data quality issues"
+        "Built and maintained batch data pipelines using Python and Apache Airflow",
+        "Migrated on-premise data warehouse workloads to Google Cloud Platform",
+        "Wrote SQL transformations and views to support internal reporting dashboards",
+        "Assisted senior engineers in setting up monitoring and alerting for data jobs"
       ],
       "technologies": [
         "Python",
         "SQL",
-        "GCP",
         "Airflow",
+        "GCP",
         "PostgreSQL"
+      ]
+    },
+    {
+      "company_name": "BrightPath IT Services",
+      "role": "Data Analyst Intern",
+      "location": "Warsaw, Poland",
+      "start_year": 2019,
+      "end_year": 2020,
+      "responsibilities": [
+        "Supported reporting processes by writing SQL queries against relational databases",
+        "Automated recurring data extraction tasks using Python scripts",
+        "Prepared dashboards and summary reports for internal stakeholders"
+      ],
+      "technologies": [
+        "SQL",
+        "Python",
+        "Excel"
       ]
     }
   ],
@@ -67,7 +84,7 @@
       "institution": "Warsaw University of Technology",
       "degree": "Bachelor of Science",
       "field": "Computer Science",
-      "graduation_year": 2020
+      "graduation_year": 2019
     }
   ],
   "languages": [

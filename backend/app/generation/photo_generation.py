@@ -3,12 +3,12 @@ from pathlib import Path
 from urllib.parse import quote
 import httpx
 from app.config import get_settings, Settings
-from app.generation.candidate_generation_prompts import PortraitPromptBuilder
+from app.generation.candidate_generation_prompts import CandidatePhotoPromptBuilder
 from app.generation.candidate_specifications import CandidateSpecification
 
 
-class PortraitGenerator:
-    """Generates a fictional candidate portrait via the free Pollinations image API."""
+class CandidatePhotoGenerator:
+    """Generates a imaginary candidate photo via the free Pollinations image API."""
 
     BASE_URL = "https://image.pollinations.ai/prompt"
 
@@ -20,7 +20,7 @@ class PortraitGenerator:
     def generate(self, candidate: CandidateSpecification, output_path: Path) -> None:
         """Generate a headshot for a candidate and save it to output_path."""
 
-        prompt = PortraitPromptBuilder.build(gender_presentation=candidate.gender, country=candidate.country)
+        prompt = CandidatePhotoPromptBuilder.build(gender_presentation=candidate.gender, country=candidate.country)
         url = f"{self.BASE_URL}/{quote(prompt)}"
         seed = int(hashlib.sha256(output_path.stem.encode()).hexdigest(), 16) % (2**31)
 

@@ -2,10 +2,10 @@
   "candidate_id": "C014",
   "name": "Ananya Rao",
   "headline": "Data Scientist | Machine Learning & Predictive Analytics",
-  "email": "c014.208@example.test",
-  "phone": "+00 000 450 686",
+  "email": "c014.779@example.test",
+  "phone": "+00 000 463 592",
   "location": "Bengaluru, India",
-  "summary": "Data Scientist with 4 years of experience building machine learning models and data pipelines for e-commerce and fintech applications. Skilled in Python-based analytics, statistical modeling, and translating business problems into data-driven solutions. Experienced in end-to-end model development, from data wrangling to deployment.",
+  "summary": "Data Scientist with 4 years of experience building machine learning models and data pipelines for e-commerce and fintech applications. Skilled in Python, statistical modeling, and translating business problems into data-driven solutions. Strong collaborator with cross-functional product and engineering teams.",
   "skills": [
     "Python",
     "Machine Learning",
@@ -15,22 +15,21 @@
     "Data Visualization",
     "Feature Engineering",
     "NumPy",
-    "Tableau",
-    "A/B Testing"
+    "A/B Testing",
+    "Statistics"
   ],
   "experience": [
     {
-      "company_name": "Vantage Analytics Solutions",
+      "company_name": "Verdant Analytics",
       "role": "Data Scientist",
       "location": "Bengaluru, India",
       "start_year": 2022,
       "end_year": null,
       "responsibilities": [
-        "Develop and deploy machine learning models for customer churn prediction and demand forecasting",
+        "Develop and deploy ML models for customer churn prediction and demand forecasting",
         "Collaborate with product teams to define data requirements and success metrics",
-        "Build automated data pipelines using Python and SQL for reporting and analytics",
-        "Conduct A/B tests to evaluate model performance and business impact",
-        "Present findings and recommendations to cross-functional stakeholders"
+        "Build automated ETL pipelines for ingesting transactional data",
+        "Present model performance insights to stakeholders using dashboards"
       ],
       "technologies": [
         "Python",
@@ -42,23 +41,41 @@
       ]
     },
     {
-      "company_name": "Northbridge Fintech Labs",
+      "company_name": "Kestrel Fintech Solutions",
       "role": "Junior Data Analyst",
       "location": "Bengaluru, India",
       "start_year": 2021,
       "end_year": 2022,
       "responsibilities": [
-        "Cleaned and preprocessed transactional datasets for fraud detection models",
-        "Assisted senior data scientists in building classification models using scikit-learn",
-        "Created dashboards to track key business metrics using Tableau",
-        "Performed exploratory data analysis to identify trends in customer behavior"
+        "Analyzed transaction data to identify fraud patterns and anomalies",
+        "Built reporting dashboards for risk and compliance teams",
+        "Assisted in feature engineering for credit scoring models",
+        "Cleaned and preprocessed large datasets using Pandas and NumPy"
       ],
       "technologies": [
         "Python",
         "Pandas",
         "NumPy",
         "SQL",
-        "Tableau"
+        "Excel"
+      ]
+    },
+    {
+      "company_name": "Nimbus Data Labs",
+      "role": "Data Science Intern",
+      "location": "Mumbai, India",
+      "start_year": 2020,
+      "end_year": 2021,
+      "responsibilities": [
+        "Supported senior data scientists in exploratory data analysis",
+        "Built visualizations to communicate trends in customer behavior data",
+        "Assisted in cleaning and preparing datasets for model training"
+      ],
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "Jupyter"
       ]
     }
   ],

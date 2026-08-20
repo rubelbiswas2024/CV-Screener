@@ -1,11 +1,11 @@
 {
   "candidate_id": "C018",
-  "name": "Martín Ezequiel Fernández",
+  "name": "Martín Fernández",
   "headline": "Senior Data Engineer",
-  "email": "c018.662@example.test",
-  "phone": "+00 000 261 161",
+  "email": "c018.984@example.test",
+  "phone": "+00 000 319 154",
   "location": "Buenos Aires, Argentina",
-  "summary": "Senior Data Engineer with 8 years of experience designing and maintaining scalable data pipelines and ETL processes for analytics and machine learning use cases. Skilled in building robust orchestration workflows with Airflow, optimizing SQL-based data warehouses, and leading migrations to cloud data platforms. Strong background in mentoring junior engineers and collaborating with cross-functional teams to deliver reliable data infrastructure.",
+  "summary": "Senior Data Engineer with 8 years of experience designing and maintaining scalable data pipelines and warehousing solutions. Skilled in building ETL/ELT workflows, optimizing SQL-based data models, and orchestrating batch processes with Airflow. Experienced working with cross-functional teams to deliver reliable data infrastructure for analytics and machine learning use cases.",
   "skills": [
     "Python",
     "SQL",
@@ -13,66 +13,68 @@
     "Apache Spark",
     "AWS",
     "Docker",
-    "dbt",
     "Kafka",
-    "PostgreSQL",
     "Data Modeling",
-    "CI/CD",
-    "Terraform"
+    "PostgreSQL",
+    "dbt",
+    "Git",
+    "Kubernetes"
   ],
   "experience": [
     {
-      "company_name": "NimbusTech Solutions",
+      "company_name": "NubeData Solutions",
       "role": "Senior Data Engineer",
       "location": "Buenos Aires, Argentina",
       "start_year": 2021,
       "end_year": null,
       "responsibilities": [
-        "Design and maintain Airflow DAGs orchestrating ingestion pipelines from multiple sources",
-        "Lead migration of on-premise ETL jobs to AWS-based data lake architecture",
-        "Collaborate with data science teams to build feature pipelines for ML models",
-        "Optimize SQL queries and warehouse schemas to improve report performance",
-        "Mentor two junior data engineers on best practices and code reviews"
+        "Design and maintain ETL/ELT pipelines processing over 500GB of daily data using Airflow and Spark",
+        "Lead migration of on-premise data warehouse to AWS Redshift",
+        "Collaborate with data science team to productionize ML feature pipelines",
+        "Mentor junior data engineers on best practices for pipeline design and testing",
+        "Implement data quality checks and monitoring using Great Expectations"
       ],
       "technologies": [
         "Python",
+        "SQL",
         "Airflow",
-        "AWS",
-        "Spark",
-        "Redshift",
-        "dbt"
+        "Apache Spark",
+        "AWS Redshift",
+        "Docker"
       ]
     },
     {
-      "company_name": "Southern Data Labs",
+      "company_name": "Vertice Analytics",
       "role": "Data Engineer",
       "location": "Buenos Aires, Argentina",
       "start_year": 2018,
       "end_year": 2021,
       "responsibilities": [
-        "Built and maintained batch ETL pipelines using Python and SQL",
-        "Implemented monitoring and alerting for data pipeline failures",
-        "Developed data models to support BI dashboards and reporting",
-        "Worked with Kafka to process near real-time event streams"
+        "Built and maintained batch data pipelines for financial reporting systems",
+        "Developed reusable Python modules for data ingestion from third-party APIs",
+        "Optimized SQL queries and database indexes to improve report generation times",
+        "Automated workflow scheduling using Apache Airflow",
+        "Supported migration from legacy cron jobs to Airflow DAGs"
       ],
       "technologies": [
         "Python",
         "SQL",
-        "Kafka",
+        "Airflow",
         "PostgreSQL",
-        "Airflow"
+        "Kafka"
       ]
     },
     {
-      "company_name": "Rio de la Plata Analytics",
+      "company_name": "InfoRed Tecnología",
       "role": "Junior Data Engineer",
       "location": "Buenos Aires, Argentina",
       "start_year": 2016,
       "end_year": 2018,
       "responsibilities": [
-        "Assisted in developing ETL scripts for internal reporting systems",
-        "Wrote and optimized SQL queries for data extraction and transformation",
-        "Supported database maintenance tasks and data quality checks"
+        "Assisted in developing data extraction scripts for internal reporting tools",
+        "Maintained and monitored nightly ETL jobs",
+        "Wrote SQL queries to support ad-hoc business analysis requests",
+        "Documented data pipeline processes and troubleshooting procedures"
       ],
       "technologies": [
         "Python",

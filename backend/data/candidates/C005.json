@@ -1,11 +1,11 @@
 {
   "candidate_id": "C005",
-  "name": "Beatriz Fonseca",
+  "name": "Mariana Costa Ferreira",
   "headline": "Junior Frontend Engineer",
-  "email": "c005.958@example.test",
-  "phone": "+00 000 571 674",
+  "email": "c005.471@example.test",
+  "phone": "+00 000 447 362",
   "location": "Lisbon, Portugal",
-  "summary": "Junior Frontend Engineer with 2 years of experience building responsive web applications using React and TypeScript. Focused on writing clean, maintainable code and collaborating closely with design and backend teams to deliver user-friendly interfaces.",
+  "summary": "Junior Frontend Engineer with 2 years of experience building responsive web applications using React and TypeScript. Passionate about clean code, performance optimization, and collaborating with cross-functional teams to deliver user-friendly interfaces.",
   "skills": [
     "React",
     "TypeScript",
@@ -15,42 +15,43 @@
     "CSS3",
     "Redux",
     "Git",
+    "Jest",
     "REST APIs",
-    "Jest"
+    "Tailwind CSS"
   ],
   "experience": [
     {
-      "company_name": "Nortech Digital",
-      "role": "Junior Frontend Developer",
+      "company_name": "Nortech Solutions",
+      "role": "Frontend Developer",
       "location": "Lisbon, Portugal",
       "start_year": 2023,
       "end_year": null,
       "responsibilities": [
-        "Develop and maintain UI components using React and TypeScript",
-        "Migrated legacy build tooling to Vite to improve development speed",
-        "Collaborate with UX designers to implement responsive layouts",
-        "Write unit tests with Jest to ensure component reliability",
-        "Participate in code reviews and daily stand-ups"
+        "Develop and maintain user-facing features using React and TypeScript",
+        "Migrate legacy build tooling to Vite to improve development speed",
+        "Collaborate with designers to implement responsive UI components",
+        "Write unit tests with Jest to ensure code reliability",
+        "Participate in code reviews and sprint planning meetings"
       ],
       "technologies": [
         "React",
         "TypeScript",
         "Vite",
-        "Redux",
         "Jest",
-        "CSS3"
+        "Tailwind CSS",
+        "Git"
       ]
     },
     {
-      "company_name": "Lumen Softworks",
-      "role": "Frontend Developer Intern",
+      "company_name": "Pixelbridge Studio",
+      "role": "Junior Web Developer",
       "location": "Lisbon, Portugal",
       "start_year": 2022,
       "end_year": 2023,
       "responsibilities": [
-        "Assisted in building landing pages using React and JavaScript",
-        "Fixed bugs and improved cross-browser compatibility",
-        "Worked with senior developers to integrate REST APIs",
+        "Built and styled landing pages using HTML, CSS, and JavaScript",
+        "Assisted senior developers in integrating REST APIs into React components",
+        "Fixed cross-browser compatibility issues",
         "Contributed to internal component library documentation"
       ],
       "technologies": [
